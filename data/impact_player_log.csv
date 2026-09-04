@@ -1,0 +1,417 @@
+file_id,date,season,venue,team,player,role,was_used,balls_bowled,runs_conceded,wickets,economy,balls_faced,runs_scored
+1359475,2023-03-31,2023,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,RS Hangargekar,bowl,True,25,36,3,8.64,0,0
+1359475,2023-03-31,2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,AS Joseph,bowl,True,24,33,2,8.25,0,0
+1359476,2023-04-01,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Punjab Kings,R Dhawan,bowl,True,6,15,0,15.0,0,0
+1359476,2023-04-01,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Kolkata Knight Riders,CV Varun,bowl,True,24,27,1,6.75,0,0
+1359477,2023-04-01,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,MA Wood,bowl,True,25,14,5,3.36,0,0
+1359477,2023-04-01,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,Mukesh Kumar,bowl+bat,True,24,34,0,8.5,1,0
+1359478,2023-04-02,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Rajasthan Royals,YS Chahal,bowl,True,24,17,4,4.25,0,0
+1359478,2023-04-02,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,T Natarajan,bowl,True,18,27,2,9.0,0,0
+1359479,2023-04-02,2023,"M Chinnaswamy Stadium, Bengaluru",Mumbai Indians,JC Archer,bowl,True,24,33,0,8.25,0,0
+1359480,2023-04-03,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,RS Hangargekar,bowl,True,12,24,0,12.0,0,0
+1359480,2023-04-03,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,Ravi Bishnoi,bowl,True,24,28,3,7.0,0,0
+1359481,2023-04-04,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mukesh Kumar,bowl,True,24,42,0,10.5,0,0
+1359481,2023-04-04,2023,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Mohammed Shami,bowl,True,24,41,3,10.25,0,0
+1359482,2023-04-05,2023,"Barsapara Cricket Stadium, Guwahati",Punjab Kings,R Dhawan,none,False,0,0,0,,0,0
+1359482,2023-04-05,2023,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,KM Asif,bowl,True,25,55,0,13.2,0,0
+1359483,2023-04-06,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,22,16,4,4.36,0,0
+1359483,2023-04-06,2023,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Akash Deep,bowl+bat,True,14,34,0,14.57,8,17
+1359484,2023-04-07,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,T Natarajan,bowl,True,18,24,0,8.0,0,0
+1359484,2023-04-07,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,A Badoni,none,False,0,0,0,,0,0
+1359485,2023-04-08,2023,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Sandeep Sharma,bowl,True,24,20,1,5.0,0,0
+1359485,2023-04-08,2023,"Barsapara Cricket Stadium, Guwahati",Delhi Capitals,Mukesh Kumar,bowl+bat,True,24,37,2,9.25,1,1
+1359486,2023-04-08,2023,"Wankhede Stadium, Mumbai",Mumbai Indians,JP Behrendorff,bowl,True,18,28,1,9.33,0,0
+1359486,2023-04-08,2023,"Wankhede Stadium, Mumbai",Chennai Super Kings,TU Deshpande,bowl,True,18,32,2,10.67,0,0
+1359487,2023-04-09,2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Yash Dayal,bowl,True,24,69,0,17.25,0,0
+1359487,2023-04-09,2023,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,CV Varun,bowl,True,12,27,0,13.5,0,0
+1359488,2023-04-09,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,Arshdeep Singh,bowl,True,18,20,1,6.67,0,0
+1359489,2023-04-10,2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,KV Sharma,bowl,True,18,50,1,16.67,0,0
+1359489,2023-04-10,2023,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Avesh Khan,bowl+bat,True,24,55,0,13.75,1,0
+1359490,2023-04-11,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mustafizur Rahman,bowl+bat,True,24,38,1,9.5,1,1
+1359490,2023-04-11,2023,"Arun Jaitley Stadium, Delhi",Mumbai Indians,PP Chawla,bowl,True,24,22,3,5.5,0,0
+1359491,2023-04-12,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,YS Chahal,bowl,True,24,27,2,6.75,0,0
+1359491,2023-04-12,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Akash Singh,bowl,True,24,40,2,10.0,0,0
+1359492,2023-04-13,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Punjab Kings,Arshdeep Singh,bowl,True,24,34,1,8.5,0,0
+1359493,2023-04-14,2023,"Eden Gardens, Kolkata",Sunrisers Hyderabad,T Natarajan,bowl,True,24,54,1,13.5,0,0
+1359493,2023-04-14,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,24,41,1,10.25,0,0
+1359494,2023-04-15,2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Vijaykumar Vyshak,bowl,True,24,20,3,5.0,0,0
+1359494,2023-04-15,2023,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Mustafizur Rahman,bowl,True,18,41,0,13.67,0,0
+1359495,2023-04-15,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,MA Wood,bowl,True,24,36,2,9.0,0,0
+1359495,2023-04-15,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,Arshdeep Singh,bowl,True,18,23,1,7.67,0,0
+1359496,2023-04-16,2023,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,CV Varun,bowl,True,24,38,1,9.5,0,0
+1359496,2023-04-16,2023,"Wankhede Stadium, Mumbai",Mumbai Indians,D Jansen,bowl,True,24,53,1,13.25,0,0
+1359497,2023-04-16,2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,MM Sharma,bowl,True,12,7,0,3.5,0,0
+1359497,2023-04-16,2023,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,A Zampa,bowl,True,24,32,2,8.0,0,0
+1359498,2023-04-17,2023,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Akash Singh,bowl,True,18,35,1,11.67,0,0
+1359498,2023-04-17,2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Vijaykumar Vyshak,bowl,True,24,62,1,15.5,0,0
+1359499,2023-04-18,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians,JP Behrendorff,bowl,True,24,37,3,9.25,0,0
+1359499,2023-04-18,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,M Markande,bowl+bat,True,24,35,0,8.75,2,2
+1359500,2023-04-19,2023,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Avesh Khan,bowl,True,24,26,3,6.5,0,0
+1359500,2023-04-19,2023,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sandeep Sharma,bowl,True,25,32,3,7.68,0,0
+1359501,2023-04-20,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Royal Challengers Bangalore,Mohammed Siraj,bowl,True,24,22,4,5.5,0,0
+1359501,2023-04-20,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Punjab Kings,Arshdeep Singh,bowl+bat,True,24,35,1,8.75,0,0
+1359502,2023-04-20,2023,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,K Khejroliya,bowl,True,9,20,0,13.33,0,0
+1359502,2023-04-20,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,A Nortje,bowl,True,24,21,2,5.25,0,0
+1359503,2023-04-21,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Umran Malik,bowl,True,18,18,1,6.0,0,0
+1359503,2023-04-21,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,M Pathirana,bowl,True,24,23,2,5.75,0,0
+1359504,2023-04-22,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,MM Sharma,bowl,True,18,17,4,5.67,0,0
+1359504,2023-04-22,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Naveen-ul-Haq,bowl,True,24,20,1,5.0,0,0
+1359505,2023-04-22,2023,"Wankhede Stadium, Mumbai",Punjab Kings,RD Chahar,bowl,True,24,42,0,10.5,0,0
+1359505,2023-04-22,2023,"Wankhede Stadium, Mumbai",Mumbai Indians,PP Chawla,bowl,True,18,15,2,5.0,0,0
+1359506,2023-04-23,2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Mohammed Siraj,bowl+bat,True,24,40,1,10.0,1,1
+1359506,2023-04-23,2023,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,YS Chahal,bowl,True,24,28,2,7.0,0,0
+1359507,2023-04-23,2023,"Eden Gardens, Kolkata",Chennai Super Kings,M Theekshana,bowl,True,24,32,2,8.0,0,0
+1359507,2023-04-23,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,K Khejroliya,bowl,True,19,44,2,13.89,0,0
+1359508,2023-04-24,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Delhi Capitals,I Sharma,bowl+bat,True,18,18,1,6.0,1,1
+1359508,2023-04-24,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Umran Malik,bowl,True,12,14,0,7.0,0,0
+1359509,2023-04-25,2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Noor Ahmad,bowl,True,24,37,3,9.25,0,0
+1359509,2023-04-25,2023,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,RP Meredith,bowl+bat,True,24,49,1,12.25,2,0
+1359510,2023-04-26,2023,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,CV Varun,bowl,True,24,27,3,6.75,0,0
+1359510,2023-04-26,2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Mohammed Siraj,bowl,True,24,33,1,8.25,0,0
+1359511,2023-04-27,2023,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,A Zampa,bowl,True,18,23,3,7.67,0,0
+1359511,2023-04-27,2023,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,M Theekshana,bowl,True,24,30,1,7.5,0,0
+1359512,2023-04-28,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Lucknow Super Giants,Yash Thakur,bowl,True,23,38,4,9.91,0,0
+1359512,2023-04-28,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Punjab Kings,Arshdeep Singh,bowl+bat,True,24,54,1,13.5,2,2
+1359513,2023-04-29,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,24,47,0,11.75,0,0
+1359513,2023-04-29,2023,"Eden Gardens, Kolkata",Gujarat Titans,J Little,bowl,True,24,25,2,6.25,0,0
+1359514,2023-04-29,2023,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Umran Malik,bowl,True,6,22,0,22.0,0,0
+1359514,2023-04-29,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mukesh Kumar,bowl,True,13,38,0,17.54,0,0
+1359515,2023-04-30,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,AT Rayudu,none,False,0,0,0,,0,0
+1359515,2023-04-30,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Arshdeep Singh,bowl,True,24,37,1,9.25,0,0
+1359516,2023-04-30,2023,"Wankhede Stadium, Mumbai",Rajasthan Royals,YS Chahal,bowl,True,18,33,0,11.0,0,0
+1359517,2023-05-01,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bangalore,HV Patel,bowl,True,23,21,2,5.48,0,0
+1359517,2023-05-01,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Yash Thakur,bowl,True,12,12,1,6.0,0,0
+1359518,2023-05-02,2023,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,I Sharma,bowl,True,24,23,2,5.75,0,0
+1359518,2023-05-02,2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,J Little,bowl,True,18,27,0,9.0,0,0
+1359519,2023-05-03,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,DL Chahar,bowl,True,24,41,0,10.25,0,0
+1359520,2023-05-03,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Punjab Kings,Arshdeep Singh,bowl,True,23,66,1,17.22,0,0
+1359520,2023-05-03,2023,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Mumbai Indians,Arshad Khan,bowl,True,24,48,1,12.0,0,0
+1359521,2023-05-04,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Kolkata Knight Riders,CV Varun,bowl,True,24,24,1,6.0,0,0
+1359521,2023-05-04,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Kartik Tyagi,bowl,True,13,30,1,13.85,0,0
+1359522,2023-05-05,2023,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,YS Chahal,bowl,True,23,22,1,5.74,0,0
+1359522,2023-05-05,2023,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,J Little,bowl,True,24,24,1,6.0,0,0
+1359523,2023-05-06,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Akash Madhwal,bowl,True,6,4,1,4.0,0,0
+1359523,2023-05-06,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,TU Deshpande,bowl,True,24,26,2,6.5,0,0
+1359524,2023-05-06,2023,"Arun Jaitley Stadium, Delhi",Royal Challengers Bangalore,JR Hazlewood,bowl,True,19,29,1,9.16,0,0
+1359524,2023-05-06,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,RV Patel,none,False,0,0,0,,0,0
+1359525,2023-05-07,2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Noor Ahmad,bowl,True,24,27,1,6.75,0,0
+1359525,2023-05-07,2023,"Narendra Modi Stadium, Ahmedabad",Lucknow Super Giants,Avesh Khan,bowl,True,24,35,1,8.75,0,0
+1359526,2023-05-07,2023,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,YS Chahal,bowl,True,24,29,4,7.25,0,0
+1359526,2023-05-07,2023,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,B Kumar,bowl,True,24,44,1,11.0,0,0
+1359527,2023-05-08,2023,"Eden Gardens, Kolkata",Punjab Kings,Arshdeep Singh,bowl,True,24,39,1,9.75,0,0
+1359527,2023-05-08,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,24,26,3,6.5,0,0
+1359528,2023-05-09,2023,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,HV Patel,bowl,True,22,46,0,12.55,0,0
+1359529,2023-05-10,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,M Theekshana,bowl,True,12,16,0,8.0,0,0
+1359529,2023-05-10,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,I Sharma,bowl,True,12,24,0,12.0,0,0
+1359530,2023-05-11,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,18,28,0,9.33,0,0
+1359531,2023-05-12,2023,"Wankhede Stadium, Mumbai",Mumbai Indians,K Kartikeya,bowl,True,18,37,2,12.33,0,0
+1359531,2023-05-12,2023,"Wankhede Stadium, Mumbai",Gujarat Titans,Mohammed Shami,bowl,True,24,55,0,13.75,0,0
+1359532,2023-05-13,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Fazalhaq Farooqi,bowl,True,20,32,0,9.6,0,0
+1359532,2023-05-13,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,A Badoni,none,False,0,0,0,,0,0
+1359533,2023-05-13,2023,"Arun Jaitley Stadium, Delhi",Punjab Kings,Arshdeep Singh,bowl,True,24,32,0,8.0,0,0
+1359533,2023-05-13,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,I Sharma,bowl,True,18,28,2,9.33,0,0
+1359534,2023-05-14,2023,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Mohammed Siraj,bowl,True,12,10,1,5.0,0,0
+1359534,2023-05-14,2023,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,KM Asif,bowl+bat,True,24,42,2,10.5,2,0
+1359535,2023-05-14,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,M Theekshana,bowl,True,18,22,0,7.33,0,0
+1359535,2023-05-14,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,CV Varun,bowl,True,24,36,2,9.0,0,0
+1359536,2023-05-15,2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,MM Sharma,bowl+bat,True,24,28,4,7.0,1,0
+1359536,2023-05-15,2023,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Fazalhaq Farooqi,bowl+bat,True,18,31,1,10.33,5,1
+1359537,2023-05-16,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Mohsin Khan,bowl,True,18,26,1,8.67,0,0
+1359537,2023-05-16,2023,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Mumbai Indians,JP Behrendorff,bowl,True,24,32,2,8.0,0,0
+1359538,2023-05-17,2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Delhi Capitals,KK Ahmed,bowl,True,19,23,1,7.26,0,0
+1359538,2023-05-17,2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Arshdeep Singh,bowl,True,12,21,0,10.5,0,0
+1359539,2023-05-18,2023,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Nithish Kumar Reddy,bowl,True,13,19,0,8.77,0,0
+1359540,2023-05-19,2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Arshdeep Singh,bowl,True,24,41,1,10.25,0,0
+1359540,2023-05-19,2023,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Rajasthan Royals,Sandeep Sharma,bowl,True,25,46,0,11.04,0,0
+1359541,2023-05-20,2023,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,M Theekshana,bowl,True,24,23,2,5.75,0,0
+1359541,2023-05-20,2023,"Arun Jaitley Stadium, Delhi",Delhi Capitals,C Sakariya,bowl+bat,True,25,36,1,8.64,2,0
+1359542,2023-05-20,2023,"Eden Gardens, Kolkata",Lucknow Super Giants,Mohsin Khan,bowl,True,6,15,0,15.0,0,0
+1359542,2023-05-20,2023,"Eden Gardens, Kolkata",Kolkata Knight Riders,Suyash Sharma,bowl,True,6,12,0,12.0,0,0
+1359543,2023-05-21,2023,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Umran Malik,bowl,True,18,42,0,14.0,0,0
+1359544,2023-05-21,2023,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bangalore,Mohammed Siraj,bowl,True,24,36,2,9.0,0,0
+1359544,2023-05-21,2023,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,MM Sharma,bowl,True,24,54,0,13.5,0,0
+1370350,2023-05-23,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,M Theekshana,bowl,True,24,28,2,7.0,0,0
+1370350,2023-05-23,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Gujarat Titans,Mohammed Shami,bowl+bat,True,25,30,2,7.2,5,5
+1370351,2023-05-24,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Akash Madhwal,bowl,True,21,6,6,1.71,0,0
+1370351,2023-05-24,2023,"MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,Mohsin Khan,bowl+bat,True,18,28,1,9.33,7,0
+1370352,2023-05-26,2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,MM Sharma,bowl,True,14,11,5,4.71,0,0
+1370352,2023-05-26,2023,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,K Kartikeya,bowl+bat,True,12,16,0,8.0,7,6
+1370353,2023-05-29,2023,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,J Little,bowl,True,12,30,0,15.0,0,0
+1370353,2023-05-29,2023,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,M Theekshana,bowl,True,24,36,0,9.0,0,0
+1422119,2024-03-22,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bengaluru,Yash Dayal,bowl,True,18,28,1,9.33,0,0
+1422119,2024-03-22,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Mustafizur Rahman,bowl,True,24,30,4,7.5,0,0
+1422120,2024-03-23,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Delhi Capitals,I Sharma,bowl,True,12,16,2,8.0,0,0
+1422120,2024-03-23,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,RD Chahar,bowl,True,24,33,1,8.25,0,0
+1422121,2024-03-23,2024,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,24,55,1,13.75,0,0
+1422121,2024-03-23,2024,"Eden Gardens, Kolkata",Sunrisers Hyderabad,M Markande,bowl,True,24,39,2,9.75,0,0
+1422122,2024-03-24,2024,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,N Burger,bowl,True,18,34,1,11.33,0,0
+1422122,2024-03-24,2024,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Yash Thakur,bowl,True,19,43,0,13.58,0,0
+1422123,2024-03-24,2024,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,SH Johnson,bowl,True,12,25,2,12.5,0,0
+1422123,2024-03-24,2024,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,JJ Bumrah,bowl+bat,True,24,15,3,3.75,1,1
+1422124,2024-03-25,2024,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,RD Chahar,bowl,True,6,16,0,16.0,0,0
+1422124,2024-03-25,2024,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Mohammed Siraj,bowl,True,24,27,2,6.75,0,0
+1422125,2024-03-26,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Mustafizur Rahman,bowl,True,24,31,2,7.75,0,0
+1422125,2024-03-26,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Gujarat Titans,R Sai Kishore,bowl,True,18,28,1,9.33,0,0
+1422126,2024-03-27,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,JD Unadkat,bowl,True,24,47,2,11.75,0,0
+1422126,2024-03-27,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians,SZ Mulani,bowl,True,12,33,0,16.5,0,0
+1422127,2024-03-28,2024,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,YS Chahal,bowl,True,18,19,2,6.33,0,0
+1422127,2024-03-28,2024,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Mukesh Kumar,bowl,True,24,49,1,12.25,0,0
+1422128,2024-03-29,2024,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Yash Dayal,bowl,True,24,51,1,12.75,0,0
+1422128,2024-03-29,2024,"M Chinnaswamy Stadium, Bengaluru",Kolkata Knight Riders,A Raghuvanshi,none,False,0,0,0,,0,0
+1422129,2024-03-30,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,M Siddharth,bowl,True,12,21,0,10.5,0,0
+1422129,2024-03-30,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,RD Chahar,bowl,True,18,42,1,14.0,0,0
+1422130,2024-03-31,2024,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,JD Unadkat,bowl,True,19,33,0,10.42,0,0
+1422130,2024-03-31,2024,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,DG Nalkande,bowl,True,12,18,0,9.0,0,0
+1422131,2024-03-31,2024,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,KK Ahmed,bowl,True,24,22,2,5.5,0,0
+1422131,2024-03-31,2024,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Chennai Super Kings,Mustafizur Rahman,bowl,True,26,50,1,11.54,0,0
+1422132,2024-04-01,2024,"Wankhede Stadium, Mumbai",Mumbai Indians,KT Maphaka,bowl,True,12,23,1,11.5,0,0
+1422132,2024-04-01,2024,"Wankhede Stadium, Mumbai",Rajasthan Royals,N Burger,bowl,True,24,33,2,8.25,0,0
+1422133,2024-04-02,2024,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,MP Yadav,bowl,True,24,15,4,3.75,0,0
+1422133,2024-04-02,2024,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Mohammed Siraj,bowl+bat,True,24,47,1,11.75,8,12
+1422134,2024-04-03,2024,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Kolkata Knight Riders,CV Varun,bowl,True,25,38,3,9.12,0,0
+1422134,2024-04-03,2024,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,I Sharma,bowl+bat,True,18,44,2,14.67,3,1
+1422135,2024-04-04,2024,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,DG Nalkande,bowl,True,5,7,1,,0,0
+1422135,2024-04-04,2024,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,K Rabada,bowl,True,24,44,2,11.0,0,0
+1422136,2024-04-05,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Chennai Super Kings,M Theekshana,bowl,True,24,28,1,7.0,0,0
+1422136,2024-04-05,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,JD Unadkat,bowl,True,24,30,1,7.5,0,0
+1422137,2024-04-06,2024,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Yash Dayal,bowl,True,24,37,1,9.25,0,0
+1422137,2024-04-06,2024,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,SB Dubey,none,False,0,0,0,,0,0
+1422138,2024-04-07,2024,"Wankhede Stadium, Mumbai",Mumbai Indians,JJ Bumrah,bowl,True,24,22,2,5.5,0,0
+1422138,2024-04-07,2024,"Wankhede Stadium, Mumbai",Delhi Capitals,I Sharma,bowl,True,18,40,0,13.33,0,0
+1422139,2024-04-07,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,MP Yadav,bowl,True,6,13,0,13.0,0,0
+1422139,2024-04-07,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,Noor Ahmad,bowl+bat,True,24,22,0,5.5,2,4
+1426260,2024-04-08,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,CV Varun,bowl,True,24,28,0,7.0,0,0
+1426260,2024-04-08,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,M Theekshana,bowl,True,24,28,1,7.0,0,0
+1426261,2024-04-09,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Sunrisers Hyderabad,T Natarajan,bowl,True,24,33,1,8.25,0,0
+1426261,2024-04-09,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,K Rabada,bowl,True,24,33,1,8.25,0,0
+1426262,2024-04-10,2024,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,YS Chahal,bowl,True,24,44,2,11.0,0,0
+1426262,2024-04-10,2024,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,SH Johnson,bowl,True,24,37,0,9.25,0,0
+1426263,2024-04-11,2024,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mohammed Siraj,bowl,True,18,37,0,12.33,0,0
+1426263,2024-04-11,2024,"Wankhede Stadium, Mumbai",Mumbai Indians,G Coetzee,bowl,True,24,42,1,10.5,0,0
+1426264,2024-04-12,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Yash Thakur,bowl,True,24,31,1,7.75,0,0
+1426264,2024-04-12,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Delhi Capitals,Abishek Porel,none,False,0,0,0,,0,0
+1426265,2024-04-13,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Arshdeep Singh,bowl,True,23,45,1,11.74,0,0
+1426265,2024-04-13,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Rajasthan Royals,YS Chahal,bowl,True,25,32,2,7.68,0,0
+1426266,2024-04-14,2024,"Eden Gardens, Kolkata",Lucknow Super Giants,Yash Thakur,bowl,True,12,25,0,12.5,0,0
+1426266,2024-04-14,2024,"Eden Gardens, Kolkata",Kolkata Knight Riders,RK Singh,none,False,0,0,0,,0,0
+1426267,2024-04-14,2024,"Wankhede Stadium, Mumbai",Chennai Super Kings,M Pathirana,bowl,True,24,30,4,7.5,0,0
+1426267,2024-04-14,2024,"Wankhede Stadium, Mumbai",Mumbai Indians,G Coetzee,bowl,True,24,37,1,9.25,0,0
+1426268,2024-04-15,2024,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Nithish Kumar Reddy,none,False,0,0,0,,0,0
+1426268,2024-04-15,2024,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,LH Ferguson,bowl,True,24,54,2,13.5,0,0
+1426269,2024-04-16,2024,"Eden Gardens, Kolkata",Kolkata Knight Riders,Harshit Rana,bowl,True,24,45,2,11.25,0,0
+1426269,2024-04-16,2024,"Eden Gardens, Kolkata",Rajasthan Royals,YS Chahal,bowl,True,24,54,1,13.5,0,0
+1426270,2024-04-17,2024,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,S Sandeep Warrier,bowl,True,18,43,2,14.33,0,0
+1426270,2024-04-17,2024,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Mukesh Kumar,bowl,True,17,15,3,5.29,0,0
+1426271,2024-04-18,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mumbai Indians,JJ Bumrah,bowl,True,25,21,3,5.04,0,0
+1426271,2024-04-18,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,K Rabada,bowl+bat,True,24,43,1,10.75,3,8
+1426272,2024-04-19,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,M Pathirana,bowl,True,24,31,1,7.75,0,0
+1426273,2024-04-20,2024,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,M Markande,bowl,True,12,26,2,13.0,0,0
+1426273,2024-04-20,2024,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mukesh Kumar,bowl+bat,True,24,57,2,14.25,2,0
+1426274,2024-04-21,2024,"Eden Gardens, Kolkata",Kolkata Knight Riders,Harshit Rana,bowl,True,24,33,2,8.25,0,0
+1426274,2024-04-21,2024,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,LH Ferguson,bowl+bat,True,25,47,1,11.28,1,1
+1426275,2024-04-21,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Arshdeep Singh,bowl,True,13,17,1,7.85,0,0
+1426275,2024-04-21,2024,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Gujarat Titans,MM Sharma,bowl,True,24,33,3,8.25,0,0
+1426276,2024-04-22,2024,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,JJ Bumrah,bowl+bat,True,25,37,0,8.88,1,2
+1426276,2024-04-22,2024,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sandeep Sharma,bowl,True,24,18,5,4.5,0,0
+1426277,2024-04-23,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,M Pathirana,bowl,True,24,36,2,9.0,0,0
+1426277,2024-04-23,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,Mohsin Khan,bowl,True,24,50,1,12.5,0,0
+1426278,2024-04-24,2024,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mukesh Kumar,bowl,True,25,45,1,10.8,0,0
+1426278,2024-04-24,2024,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Noor Ahmad,bowl,True,18,36,1,12.0,0,0
+1426279,2024-04-25,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Royal Challengers Bengaluru,Mohammed Siraj,bowl,True,24,21,0,5.25,0,0
+1426279,2024-04-25,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,M Markande,bowl,True,18,42,1,14.0,0,0
+1426280,2024-04-26,2024,"Eden Gardens, Kolkata",Kolkata Knight Riders,PVD Chameera,bowl,True,18,49,0,16.33,0,0
+1426280,2024-04-26,2024,"Eden Gardens, Kolkata",Punjab Kings,RD Chahar,bowl,True,24,34,1,8.5,0,0
+1426281,2024-04-27,2024,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mukesh Kumar,bowl,True,24,60,4,15.0,0,0
+1426281,2024-04-27,2024,"Arun Jaitley Stadium, Delhi",Mumbai Indians,JJ Bumrah,bowl,True,25,36,1,8.64,0,0
+1426282,2024-04-27,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Yash Thakur,bowl,True,24,50,1,12.5,0,0
+1426282,2024-04-27,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Sandeep Sharma,bowl,True,24,31,2,7.75,0,0
+1426283,2024-04-28,2024,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Noor Ahmad,bowl,True,24,47,0,11.75,0,0
+1426284,2024-04-28,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,M Pathirana,bowl,True,12,17,2,8.5,0,0
+1426284,2024-04-28,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,JD Unadkat,bowl+bat,True,24,38,1,9.5,2,1
+1426285,2024-04-29,2024,"Eden Gardens, Kolkata",Delhi Capitals,KK Ahmed,bowl,True,18,28,0,9.33,0,0
+1426285,2024-04-29,2024,"Eden Gardens, Kolkata",Kolkata Knight Riders,A Raghuvanshi,none,False,0,0,0,,0,0
+1426286,2024-04-30,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Mumbai Indians,JJ Bumrah,bowl,True,24,17,0,4.25,0,0
+1426286,2024-04-30,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Mohsin Khan,bowl,True,24,36,2,9.0,0,0
+1426287,2024-05-01,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Mustafizur Rahman,bowl,True,24,22,0,5.5,0,0
+1426287,2024-05-01,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,K Rabada,bowl,True,24,24,1,6.0,0,0
+1426288,2024-05-02,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,T Natarajan,bowl,True,24,35,2,8.75,0,0
+1426288,2024-05-02,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Rajasthan Royals,Sandeep Sharma,bowl,True,24,31,1,7.75,0,0
+1426289,2024-05-03,2024,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,CV Varun,bowl,True,24,22,2,5.5,0,0
+1426289,2024-05-03,2024,"Wankhede Stadium, Mumbai",Mumbai Indians,JJ Bumrah,bowl+bat,True,23,18,3,4.7,1,1
+1426290,2024-05-04,2024,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,J Little,bowl,True,24,45,4,11.25,0,0
+1426290,2024-05-04,2024,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Vijaykumar Vyshak,bowl,True,21,24,4,6.86,0,0
+1426291,2024-05-05,2024,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Chennai Super Kings,RJ Gleeson,bowl+bat,True,24,41,0,10.25,2,2
+1426291,2024-05-05,2024,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,K Rabada,bowl+bat,True,18,24,0,8.0,10,11
+1426292,2024-05-05,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,CV Varun,bowl,True,18,30,3,10.0,0,0
+1426292,2024-05-05,2024,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Ravi Bishnoi,bowl+bat,True,24,33,1,8.25,3,2
+1426293,2024-05-06,2024,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,T Natarajan,bowl,True,20,31,0,9.3,0,0
+1426294,2024-05-07,2024,"Arun Jaitley Stadium, Delhi",Delhi Capitals,KK Ahmed,bowl,True,24,47,2,11.75,0,0
+1426294,2024-05-07,2024,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Sandeep Sharma,bowl,True,24,42,3,10.5,0,0
+1426295,2024-05-08,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,V Viyaskanth,bowl,True,24,27,0,6.75,0,0
+1426296,2024-05-09,2024,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,LH Ferguson,bowl,True,18,31,3,10.33,0,0
+1426296,2024-05-09,2024,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Arshdeep Singh,bowl+bat,True,18,41,1,13.67,3,4
+1426297,2024-05-10,2024,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Kartik Tyagi,bowl,True,24,52,0,13.0,0,0
+1426297,2024-05-10,2024,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Simarjeet Singh,bowl,True,24,60,1,15.0,0,0
+1426298,2024-05-11,2024,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,24,18,2,4.5,0,0
+1426298,2024-05-11,2024,"Eden Gardens, Kolkata",Mumbai Indians,JJ Bumrah,bowl,True,24,40,3,10.0,0,0
+1426299,2024-05-12,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,YS Chahal,bowl,True,24,22,1,5.5,0,0
+1426299,2024-05-12,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,M Theekshana,bowl,True,24,28,0,7.0,0,0
+1426300,2024-05-12,2024,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,LH Ferguson,bowl,True,24,24,2,6.0,0,0
+1426300,2024-05-12,2024,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,I Sharma,bowl+bat,True,18,31,1,10.33,4,0
+1426302,2024-05-14,2024,"Arun Jaitley Stadium, Delhi",Delhi Capitals,KK Ahmed,bowl,True,12,23,1,11.5,0,0
+1426302,2024-05-14,2024,"Arun Jaitley Stadium, Delhi",Lucknow Super Giants,Naveen-ul-Haq,bowl+bat,True,24,51,2,12.75,4,2
+1426303,2024-05-15,2024,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,YS Chahal,bowl,True,24,31,2,7.75,0,0
+1426303,2024-05-15,2024,"Barsapara Cricket Stadium, Guwahati",Punjab Kings,RD Chahar,bowl,True,24,26,2,6.5,0,0
+1426305,2024-05-17,2024,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mohsin Khan,bowl,True,24,45,1,11.25,0,0
+1426305,2024-05-17,2024,"Wankhede Stadium, Mumbai",Mumbai Indians,Arjun Tendulkar,bowl,True,14,22,0,9.43,0,0
+1426306,2024-05-18,2024,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,LH Ferguson,bowl,True,20,39,1,11.7,0,0
+1426306,2024-05-18,2024,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,Simarjeet Singh,bowl,True,6,19,0,19.0,0,0
+1426307,2024-05-19,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,RD Chahar,bowl,True,24,43,0,10.75,0,0
+1426307,2024-05-19,2024,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,V Viyaskanth,bowl,True,24,41,1,10.25,0,0
+1426309,2024-05-21,2024,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,T Natarajan,bowl,True,18,23,1,7.67,0,0
+1426310,2024-05-22,2024,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,LH Ferguson,bowl,True,24,37,1,9.25,0,0
+1426310,2024-05-22,2024,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Sandeep Sharma,bowl,True,24,48,1,12.0,0,0
+1426311,2024-05-24,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,T Natarajan,bowl,True,18,14,1,4.67,0,0
+1426311,2024-05-24,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,Avesh Khan,bowl,True,24,27,4,6.75,0,0
+1426312,2024-05-26,2024,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,T Natarajan,bowl,True,12,29,0,14.5,0,0
+1473438,2025-03-22,2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,24,43,1,10.75,0,0
+1473438,2025-03-22,2025,"Eden Gardens, Kolkata",Royal Challengers Bengaluru,Yash Dayal,bowl,True,18,25,1,8.33,0,0
+1473439,2025-03-23,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Mohammed Shami,bowl,True,18,33,1,11.0,0,0
+1473439,2025-03-23,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Rajasthan Royals,Sandeep Sharma,bowl,True,24,51,1,12.75,0,0
+1473440,2025-03-23,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,PVSN Raju,bowl+bat,True,6,13,0,13.0,1,1
+1473440,2025-03-23,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,NT Ellis,bowl,True,24,39,1,9.75,0,0
+1473441,2025-03-24,2025,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Lucknow Super Giants,Prince Yadav,bowl,True,24,47,1,11.75,0,0
+1473441,2025-03-24,2025,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,MM Sharma,bowl+bat,True,25,43,0,10.32,2,1
+1473442,2025-03-25,2025,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Vijaykumar Vyshak,bowl,True,18,28,0,9.33,0,0
+1473442,2025-03-25,2025,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,M Prasidh Krishna,bowl,True,18,41,0,13.67,0,0
+1473443,2025-03-26,2025,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Sandeep Sharma,bowl,True,12,11,0,5.5,0,0
+1473443,2025-03-26,2025,"Barsapara Cricket Stadium, Guwahati",Kolkata Knight Riders,Harshit Rana,bowl,True,24,36,2,9.0,0,0
+1473444,2025-03-27,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,A Zampa,bowl,True,24,46,1,11.5,0,0
+1473444,2025-03-27,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,Avesh Khan,bowl,True,24,45,1,11.25,0,0
+1473445,2025-03-28,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bengaluru,Yash Dayal,bowl,True,18,18,2,6.0,0,0
+1473445,2025-03-28,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,KK Ahmed,bowl,True,24,29,1,7.25,0,0
+1473446,2025-03-29,2025,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,M Prasidh Krishna,bowl,True,24,18,2,4.5,0,0
+1473446,2025-03-29,2025,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Mujeeb Ur Rahman,bowl,True,12,28,1,14.0,0,0
+1473447,2025-03-30,2025,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Sunrisers Hyderabad,Zeeshan Ansari,bowl,True,24,42,3,10.5,0,0
+1473448,2025-03-30,2025,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Sandeep Sharma,bowl,True,24,42,1,10.5,0,0
+1473448,2025-03-30,2025,"Barsapara Cricket Stadium, Guwahati",Chennai Super Kings,KK Ahmed,bowl,True,24,39,3,9.75,0,0
+1473449,2025-03-31,2025,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,CV Varun,bowl,True,18,12,0,4.0,0,0
+1473449,2025-03-31,2025,"Wankhede Stadium, Mumbai",Mumbai Indians,Ashwani Kumar,bowl,True,19,25,4,7.89,0,0
+1473450,2025-04-01,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,DS Rathi,bowl,True,24,30,2,7.5,0,0
+1473450,2025-04-01,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Punjab Kings,Arshdeep Singh,bowl,True,24,43,3,10.75,0,0
+1473451,2025-04-02,2025,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Yash Dayal,bowl,True,18,20,0,6.67,0,0
+1473451,2025-04-02,2025,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,M Prasidh Krishna,bowl,True,24,27,1,6.75,0,0
+1473452,2025-04-03,2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,24,22,3,5.5,0,0
+1473452,2025-04-03,2025,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Mohammed Shami,bowl+bat,True,24,34,1,8.5,4,2
+1473453,2025-04-04,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,DS Rathi,bowl,True,24,25,1,6.25,0,0
+1473453,2025-04-04,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Mumbai Indians,Ashwani Kumar,bowl,True,18,39,1,13.0,0,0
+1473454,2025-04-05,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,MM Sharma,bowl,True,19,27,0,8.53,0,0
+1473454,2025-04-05,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,KK Ahmed,bowl,True,24,25,2,6.25,0,0
+1473455,2025-04-05,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Rajasthan Royals,Sandeep Sharma,bowl,True,24,21,2,5.25,0,0
+1473455,2025-04-05,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,LH Ferguson,bowl+bat,True,24,37,2,9.25,1,4
+1473456,2025-04-08,2025,"Eden Gardens, Kolkata",Lucknow Super Giants,Ravi Bishnoi,bowl,True,24,47,1,11.75,0,0
+1473456,2025-04-08,2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,SH Johnson,bowl,True,18,46,0,15.33,0,0
+1473457,2025-04-06,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,JD Unadkat,bowl,True,12,16,0,8.0,0,0
+1473457,2025-04-06,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Gujarat Titans,M Prasidh Krishna,bowl,True,24,26,2,6.5,0,0
+1473458,2025-04-07,2025,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Suyash Sharma,bowl,True,24,33,0,8.25,0,0
+1473458,2025-04-07,2025,"Wankhede Stadium, Mumbai",Mumbai Indians,JJ Bumrah,bowl+bat,True,24,29,0,7.25,1,0
+1473459,2025-04-08,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Yash Thakur,bowl,True,24,40,1,10.0,0,0
+1473459,2025-04-08,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Chennai Super Kings,KK Ahmed,bowl,True,25,47,2,11.28,0,0
+1473460,2025-04-09,2025,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,M Prasidh Krishna,bowl,True,24,24,3,6.0,0,0
+1473460,2025-04-09,2025,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Sandeep Sharma,bowl+bat,True,24,41,1,10.25,5,6
+1473461,2025-04-10,2025,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Suyash Sharma,bowl,True,24,25,1,6.25,0,0
+1473461,2025-04-10,2025,"M Chinnaswamy Stadium, Bengaluru",Delhi Capitals,Mukesh Kumar,bowl,True,18,26,1,8.67,0,0
+1473462,2025-04-11,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,KK Ahmed,bowl,True,18,40,0,13.33,0,0
+1473463,2025-04-12,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,Mohammed Siraj,bowl,True,24,50,0,12.5,0,0
+1473463,2025-04-12,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Ravi Bishnoi,bowl,True,24,36,2,9.0,0,0
+1473464,2025-04-12,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,LH Ferguson,bowl,True,2,1,0,,0,0
+1473464,2025-04-12,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,A Manohar,none,False,0,0,0,,0,0
+1473465,2025-04-13,2025,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,TU Deshpande,bowl,True,12,21,0,10.5,0,0
+1473465,2025-04-13,2025,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Yash Dayal,bowl,True,24,37,1,9.25,0,0
+1473466,2025-04-13,2025,"Arun Jaitley Stadium, Delhi",Mumbai Indians,JJ Bumrah,bowl,True,24,44,4,11.0,0,0
+1473466,2025-04-13,2025,"Arun Jaitley Stadium, Delhi",Delhi Capitals,MM Sharma,bowl+bat,True,18,41,0,13.67,1,0
+1473467,2025-04-14,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Avesh Khan,bowl,True,21,32,1,9.14,0,0
+1473467,2025-04-14,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,KK Ahmed,bowl,True,24,38,1,9.5,0,0
+1473468,2025-04-15,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,YS Chahal,bowl,True,24,28,4,7.0,0,0
+1473468,2025-04-15,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Kolkata Knight Riders,A Nortje,bowl+bat,True,18,24,1,8.0,0,0
+1473469,2025-04-16,2025,"Arun Jaitley Stadium, Delhi",Delhi Capitals,MM Sharma,bowl,True,24,38,0,9.5,0,0
+1473469,2025-04-16,2025,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,SB Dubey,none,False,0,0,0,,0,0
+1473470,2025-04-17,2025,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,E Malinga,bowl,True,24,36,2,9.0,0,0
+1473470,2025-04-17,2025,"Wankhede Stadium, Mumbai",Mumbai Indians,JJ Bumrah,bowl,True,24,21,1,5.25,0,0
+1473471,2025-04-18,2025,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Suyash Sharma,bowl,True,18,29,0,9.67,0,0
+1473471,2025-04-18,2025,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Arshdeep Singh,bowl,True,18,23,2,7.67,0,0
+1473472,2025-04-19,2025,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Mukesh Kumar,bowl,True,25,41,2,9.84,0,0
+1473472,2025-04-19,2025,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,M Prasidh Krishna,bowl,True,24,42,4,10.5,0,0
+1473473,2025-04-19,2025,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Avesh Khan,bowl,True,24,37,3,9.25,0,0
+1473473,2025-04-19,2025,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,TU Deshpande,bowl,True,24,26,1,6.5,0,0
+1473474,2025-04-20,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,YS Chahal,bowl,True,24,36,1,9.0,0,0
+1473474,2025-04-20,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Royal Challengers Bengaluru,Yash Dayal,bowl,True,12,22,0,11.0,0,0
+1473475,2025-04-20,2025,"Wankhede Stadium, Mumbai",Chennai Super Kings,M Pathirana,bowl,True,10,34,0,20.4,0,0
+1473475,2025-04-20,2025,"Wankhede Stadium, Mumbai",Mumbai Indians,JJ Bumrah,bowl,True,24,25,2,6.25,0,0
+1473476,2025-04-21,2025,"Eden Gardens, Kolkata",Gujarat Titans,I Sharma,bowl,True,12,19,1,9.5,0,0
+1473476,2025-04-21,2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,24,33,0,8.25,0,0
+1473477,2025-04-22,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Prince Yadav,bowl,True,17,23,0,8.12,0,0
+1473478,2025-04-23,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,E Malinga,bowl,True,18,33,1,11.0,0,0
+1473478,2025-04-23,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Mumbai Indians,JJ Bumrah,bowl,True,24,39,1,9.75,0,0
+1473479,2025-04-24,2025,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Yash Dayal,bowl,True,18,34,2,11.33,0,0
+1473479,2025-04-24,2025,"M Chinnaswamy Stadium, Bengaluru",Rajasthan Royals,Fazalhaq Farooqi,bowl+bat,True,18,30,0,10.0,2,2
+1473480,2025-04-25,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,M Pathirana,bowl,True,18,27,0,9.0,0,0
+1473480,2025-04-25,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Mohammed Shami,bowl,True,19,28,1,8.84,0,0
+1473481,2025-04-26,2025,"Eden Gardens, Kolkata",Punjab Kings,Arshdeep Singh,none,False,0,0,0,,0,0
+1473481,2025-04-26,2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,A Raghuvanshi,none,False,0,0,0,,0,0
+1473482,2025-04-27,2025,"Wankhede Stadium, Mumbai",Mumbai Indians,KV Sharma,bowl,True,12,26,0,13.0,0,0
+1473482,2025-04-27,2025,"Wankhede Stadium, Mumbai",Lucknow Super Giants,MP Yadav,bowl,True,24,40,2,10.0,0,0
+1473483,2025-04-27,2025,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mukesh Kumar,bowl,True,22,51,1,13.91,0,0
+1473483,2025-04-27,2025,"Arun Jaitley Stadium, Delhi",Royal Challengers Bengaluru,Yash Dayal,bowl,True,25,42,1,10.08,0,0
+1473484,2025-04-28,2025,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,M Prasidh Krishna,bowl,True,24,47,1,11.75,0,0
+1473485,2025-04-29,2025,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,CV Varun,bowl+bat,True,24,43,2,10.75,1,1
+1473485,2025-04-29,2025,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kuldeep Yadav,bowl+bat,True,18,27,0,9.0,1,1
+1473486,2025-04-30,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,M Pathirana,bowl,True,24,46,2,11.5,0,0
+1473486,2025-04-30,2025,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,Arshdeep Singh,bowl,True,20,25,2,7.5,0,0
+1473487,2025-05-01,2025,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,JJ Bumrah,bowl,True,24,19,2,4.75,0,0
+1473487,2025-05-01,2025,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Akash Madhwal,bowl+bat,True,24,39,0,9.75,9,4
+1473488,2025-05-02,2025,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,M Prasidh Krishna,bowl,True,24,21,2,5.25,0,0
+1473488,2025-05-02,2025,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Zeeshan Ansari,bowl,True,24,42,2,10.5,0,0
+1473489,2025-05-03,2025,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Yash Dayal,bowl,True,25,41,1,9.84,0,0
+1473489,2025-05-03,2025,"M Chinnaswamy Stadium, Bengaluru",Chennai Super Kings,A Kamboj,bowl,True,18,25,0,8.33,0,0
+1473490,2025-05-04,2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,24,32,2,8.0,0,0
+1473490,2025-05-04,2025,"Eden Gardens, Kolkata",Rajasthan Royals,Yudhvir Singh,bowl,True,12,26,1,13.0,0,0
+1473491,2025-05-04,2025,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Arshdeep Singh,bowl,True,24,16,3,4.0,0,0
+1473491,2025-05-04,2025,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Lucknow Super Giants,DS Rathi,bowl,True,24,46,2,11.5,0,0
+1473492,2025-05-05,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Delhi Capitals,T Natarajan,none,False,0,0,0,,0,0
+1473492,2025-05-05,2025,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,TM Head,none,False,0,0,0,,0,0
+1473493,2025-05-06,2025,"Wankhede Stadium, Mumbai",Mumbai Indians,JJ Bumrah,bowl,True,24,19,2,4.75,0,0
+1473493,2025-05-06,2025,"Wankhede Stadium, Mumbai",Gujarat Titans,M Prasidh Krishna,bowl,True,24,38,2,9.5,0,0
+1473494,2025-05-07,2025,"Eden Gardens, Kolkata",Kolkata Knight Riders,CV Varun,bowl,True,24,18,2,4.5,0,0
+1473494,2025-05-07,2025,"Eden Gardens, Kolkata",Chennai Super Kings,KK Ahmed,bowl,True,12,15,0,7.5,0,0
+1473497,2025-05-18,2025,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,YS Chahal,bowl,True,24,30,0,7.5,0,0
+1473497,2025-05-18,2025,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Akash Madhwal,bowl,True,24,48,1,12.0,0,0
+1473498,2025-05-18,2025,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mustafizur Rahman,bowl,True,18,24,0,8.0,0,0
+1473498,2025-05-18,2025,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Mohammed Siraj,bowl,True,24,37,0,9.25,0,0
+1473499,2025-05-19,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,W O'Rourke,bowl,True,14,31,1,13.29,0,0
+1473499,2025-05-19,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,E Malinga,bowl,True,24,28,2,7.0,0,0
+1473500,2025-05-20,2025,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,KK Ahmed,bowl,True,18,35,0,11.67,0,0
+1473501,2025-05-21,2025,"Wankhede Stadium, Mumbai",Mumbai Indians,KV Sharma,bowl,True,18,31,1,10.33,0,0
+1473501,2025-05-21,2025,"Wankhede Stadium, Mumbai",Delhi Capitals,Mukesh Kumar,bowl,True,24,48,2,12.0,0,0
+1473502,2025-05-22,2025,"Narendra Modi Stadium, Ahmedabad",Lucknow Super Giants,Akash Singh,bowl,True,19,29,1,9.16,0,0
+1473502,2025-05-22,2025,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,M Prasidh Krishna,bowl,True,24,44,0,11.0,0,0
+1473503,2025-05-23,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Harsh Dubey,bowl,True,12,20,1,10.0,0,0
+1473503,2025-05-23,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,Suyash Sharma,bowl,True,18,46,1,15.33,0,0
+1473504,2025-05-25,2025,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,KK Ahmed,bowl,True,18,18,1,6.0,0,0
+1473504,2025-05-25,2025,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mohammed Siraj,bowl+bat,True,24,47,0,11.75,4,3
+1473505,2025-05-25,2025,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,E Malinga,bowl,True,22,31,3,8.45,0,0
+1473505,2025-05-25,2025,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,A Nortje,bowl+bat,True,24,63,0,15.75,0,0
+1473506,2025-05-26,2025,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,JJ Bumrah,bowl,True,24,24,1,6.0,0,0
+1473506,2025-05-26,2025,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Arshdeep Singh,bowl,True,24,28,2,7.0,0,0
+1473507,2025-05-27,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,W O'Rourke,bowl,True,24,74,2,18.5,0,0
+1473507,2025-05-27,2025,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Royal Challengers Bengaluru,N Thushara,bowl,True,25,30,1,7.2,0,0
+1473508,2025-05-29,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Arshdeep Singh,bowl,True,12,24,0,12.0,0,0
+1473508,2025-05-29,2025,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Royal Challengers Bengaluru,JR Hazlewood,bowl,True,19,21,3,6.63,0,0
+1473509,2025-05-30,2025,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Mumbai Indians,RJ Gleeson,bowl,True,21,39,1,11.14,0,0
+1473509,2025-05-30,2025,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Gujarat Titans,M Prasidh Krishna,bowl,True,24,59,2,14.75,0,0
+1473510,2025-06-01,2025,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,RJW Topley,bowl,True,18,40,0,13.33,0,0
+1473510,2025-06-01,2025,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Arshdeep Singh,bowl,True,24,44,0,11.0,0,0
+1473511,2025-06-03,2025,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,JR Hazlewood,bowl,True,24,55,1,13.75,0,0
+1473511,2025-06-03,2025,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Arshdeep Singh,bowl,True,24,40,3,10.0,0,0
+1485779,2025-05-24,2025,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Arshdeep Singh,bowl,True,24,35,0,8.75,0,0
+1485779,2025-05-24,2025,"Sawai Mansingh Stadium, Jaipur",Delhi Capitals,Mustafizur Rahman,bowl,True,24,33,3,8.25,0,0

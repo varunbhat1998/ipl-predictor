@@ -1,0 +1,1146 @@
+file_id,date,venue,weather_hour,temperature,humidity,cloud_cover,wind_speed,precipitation
+335982,2008-04-18,"M Chinnaswamy Stadium, Bengaluru",19,28.5,31,22,7.1,0.0
+335983,2008-04-19,"PCA Stadium, Mohali",19,29.2,19,64,10.7,0.0
+335984,2008-04-19,"Arun Jaitley Stadium, Delhi",19,31.5,16,0,9.4,0.0
+335986,2008-04-20,"Eden Gardens, Kolkata",19,31.1,50,0,11.2,0.0
+335985,2008-04-20,"Wankhede Stadium, Mumbai",19,29.0,66,0,10.8,0.0
+335987,2008-04-21,"Sawai Mansingh Stadium, Jaipur",19,33.4,15,0,8.2,0.0
+335988,2008-04-22,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.6,23,5,8.3,0.0
+335989,2008-04-23,"MA Chidambaram Stadium, Chennai",19,28.5,82,98,17.1,0.0
+335990,2008-04-24,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.6,34,39,11.5,0.0
+335991,2008-04-25,"PCA Stadium, Mohali",19,34.0,11,14,9.8,0.0
+335993,2008-04-26,"MA Chidambaram Stadium, Chennai",19,29.2,73,61,11.5,0.0
+335992,2008-04-26,"M Chinnaswamy Stadium, Bengaluru",19,28.7,35,88,8.6,0.0
+335994,2008-04-27,"DY Patil Stadium, Mumbai",19,28.6,74,6,12.9,0.0
+335995,2008-04-27,"PCA Stadium, Mohali",19,33.1,14,0,7.4,0.0
+335996,2008-04-28,"M Chinnaswamy Stadium, Bengaluru",19,22.3,94,100,6.5,3.9
+335997,2008-04-29,"Eden Gardens, Kolkata",19,29.0,71,28,17.2,0.0
+335998,2008-04-30,"Arun Jaitley Stadium, Delhi",19,35.6,15,0,10.5,0.0
+335999,2008-05-01,"Rajiv Gandhi Intl Stadium, Hyderabad",19,34.7,18,2,9.0,0.0
+336000,2008-05-01,"Sawai Mansingh Stadium, Jaipur",19,34.9,11,46,9.7,0.0
+336001,2008-05-02,"MA Chidambaram Stadium, Chennai",19,31.8,64,16,21.3,0.0
+336034,2008-05-03,"M Chinnaswamy Stadium, Bengaluru",19,27.7,33,10,9.7,0.0
+336003,2008-05-03,"PCA Stadium, Mohali",19,36.6,11,5,9.1,0.0
+336004,2008-05-04,"DY Patil Stadium, Mumbai",19,27.9,71,6,12.9,0.0
+336005,2008-05-04,"Sawai Mansingh Stadium, Jaipur",19,35.7,12,0,14.4,0.0
+336006,2008-05-05,"M Chinnaswamy Stadium, Bengaluru",19,27.7,35,15,7.4,0.0
+336007,2008-05-06,"MA Chidambaram Stadium, Chennai",19,31.0,68,29,20.2,0.0
+336008,2008-05-07,"DY Patil Stadium, Mumbai",19,28.6,65,8,13.7,0.0
+336010,2008-05-08,"Eden Gardens, Kolkata",19,30.6,70,6,12.2,0.0
+336009,2008-05-08,"Arun Jaitley Stadium, Delhi",19,34.0,21,38,13.0,0.0
+336011,2008-05-09,"Sawai Mansingh Stadium, Jaipur",19,31.9,25,25,9.0,0.0
+336013,2008-05-10,"MA Chidambaram Stadium, Chennai",19,30.6,73,12,19.8,0.0
+336014,2008-05-11,"Rajiv Gandhi Intl Stadium, Hyderabad",19,34.0,19,2,8.8,0.0
+336015,2008-05-11,"Sawai Mansingh Stadium, Jaipur",19,32.3,28,61,9.7,0.0
+336016,2008-05-12,"PCA Stadium, Mohali",19,29.7,41,57,6.9,0.0
+336017,2008-05-13,"Eden Gardens, Kolkata",19,30.3,73,47,9.4,0.0
+336018,2008-05-14,"Wankhede Stadium, Mumbai",19,28.2,69,16,14.9,0.0
+336020,2008-05-15,"Arun Jaitley Stadium, Delhi",19,35.1,31,32,6.4,0.0
+336021,2008-05-16,"Wankhede Stadium, Mumbai",19,29.0,72,3,13.0,0.0
+336023,2008-05-17,"Sawai Mansingh Stadium, Jaipur",19,35.3,27,31,18.0,0.0
+336022,2008-05-17,"Arun Jaitley Stadium, Delhi",19,33.0,40,67,10.9,0.0
+336024,2008-05-18,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.8,20,0,9.2,0.0
+336025,2008-05-18,"Eden Gardens, Kolkata",19,31.1,74,28,11.8,0.0
+336026,2008-05-19,"M Chinnaswamy Stadium, Bengaluru",19,25.4,64,100,4.6,0.6
+336027,2008-05-20,"Eden Gardens, Kolkata",19,29.4,80,65,5.9,0.0
+336028,2008-05-21,"Wankhede Stadium, Mumbai",19,29.5,72,0,12.0,0.0
+336029,2008-05-21,"MA Chidambaram Stadium, Chennai",19,31.6,66,100,7.6,0.0
+336031,2008-05-23,"PCA Stadium, Mohali",19,28.2,60,43,5.1,0.0
+336032,2008-05-24,"Arun Jaitley Stadium, Delhi",19,29.9,63,52,5.5,0.0
+336033,2008-05-24,"MA Chidambaram Stadium, Chennai",19,30.7,70,23,15.9,0.0
+336002,2008-05-25,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.9,37,96,0.0,0.0
+336035,2008-05-25,"Eden Gardens, Kolkata",19,26.3,92,100,8.2,3.7
+336036,2008-05-26,"Sawai Mansingh Stadium, Jaipur",19,32.5,34,9,7.1,0.0
+336037,2008-05-27,"Rajiv Gandhi Intl Stadium, Hyderabad",19,34.2,22,42,10.7,0.0
+336019,2008-05-28,"PCA Stadium, Mohali",19,31.0,27,35,8.0,0.0
+336012,2008-05-28,"M Chinnaswamy Stadium, Bengaluru",19,22.6,90,100,8.4,2.6
+336038,2008-05-30,"Wankhede Stadium, Mumbai",19,29.9,71,4,12.8,0.0
+336039,2008-05-31,"Wankhede Stadium, Mumbai",19,29.8,70,10,16.8,0.0
+336040,2008-06-01,"DY Patil Stadium, Mumbai",19,29.8,68,7,14.4,0.0
+392181,2009-04-18,Newlands,19,18.7,76,99,16.9,0.0
+392182,2009-04-18,Newlands,19,18.7,76,99,16.9,0.0
+392183,2009-04-19,Newlands,19,18.0,72,55,12.0,0.0
+392184,2009-04-19,Newlands,19,18.0,72,55,12.0,0.0
+392185,2009-04-20,St George's Park,19,16.6,59,94,21.0,0.0
+392186,2009-04-21,Kingsmead,19,18.1,64,84,13.0,0.0
+392188,2009-04-22,Newlands,19,23.1,43,100,6.4,0.0
+392189,2009-04-23,Kingsmead,19,24.3,66,87,15.8,0.0
+392191,2009-04-24,Kingsmead,19,25.4,70,0,8.5,0.0
+392192,2009-04-25,Kingsmead,19,24.9,72,51,6.4,0.0
+392194,2009-04-26,St George's Park,19,19.5,80,73,17.0,0.0
+392195,2009-04-26,Newlands,19,19.5,70,99,14.7,0.0
+392196,2009-04-27,Kingsmead,19,22.5,71,16,13.1,0.0
+392197,2009-04-27,St George's Park,19,19.2,74,8,13.0,0.0
+392198,2009-04-28,SuperSport Park,19,23.2,24,86,12.3,0.0
+392200,2009-04-29,Kingsmead,19,26.0,75,99,13.6,0.0
+392199,2009-04-29,Kingsmead,19,26.0,75,99,13.6,0.0
+392202,2009-04-30,SuperSport Park,19,25.5,24,8,17.3,0.0
+392201,2009-04-30,SuperSport Park,19,25.5,24,8,17.3,0.0
+392204,2009-05-01,Kingsmead,19,23.4,67,61,13.4,0.0
+392203,2009-05-01,Buffalo Park,19,20.6,33,21,11.9,0.0
+392205,2009-05-02,St George's Park,19,18.0,71,53,14.7,0.0
+392206,2009-05-02,New Wanderers Stadium,19,18.3,51,83,18.4,0.0
+392208,2009-05-03,New Wanderers Stadium,19,16.5,63,91,15.1,0.0
+392207,2009-05-03,St George's Park,19,18.9,76,26,18.7,0.0
+392209,2009-05-04,Buffalo Park,19,22.7,64,51,16.2,0.0
+392210,2009-05-05,Kingsmead,19,22.7,80,63,8.4,0.0
+392211,2009-05-05,Kingsmead,19,22.7,80,63,8.4,0.0
+392212,2009-05-06,SuperSport Park,19,22.7,48,58,11.1,0.0
+392213,2009-05-07,SuperSport Park,19,21.4,50,5,14.5,0.0
+392214,2009-05-07,SuperSport Park,19,21.4,50,5,14.5,0.0
+392215,2009-05-08,Buffalo Park,19,17.6,60,55,17.4,0.0
+392216,2009-05-09,De Beers Diamond Oval,19,19.8,36,39,8.9,0.0
+392217,2009-05-09,De Beers Diamond Oval,19,19.8,36,39,8.9,0.0
+392218,2009-05-10,St George's Park,19,19.9,78,17,16.6,0.0
+392219,2009-05-10,New Wanderers Stadium,19,15.2,43,71,5.4,0.0
+392220,2009-05-11,De Beers Diamond Oval,19,21.4,29,4,11.6,0.0
+392221,2009-05-12,SuperSport Park,19,19.4,38,66,7.4,0.0
+392222,2009-05-12,SuperSport Park,19,19.4,38,66,7.4,0.0
+392223,2009-05-13,Kingsmead,19,23.3,66,61,21.4,0.0
+392224,2009-05-14,Kingsmead,19,24.0,66,9,20.0,0.0
+392225,2009-05-14,Kingsmead,19,24.0,66,9,20.0,0.0
+392226,2009-05-15,OUTsurance Oval,19,17.2,52,51,23.6,0.9
+392227,2009-05-16,St George's Park,19,23.1,27,93,18.9,0.0
+392228,2009-05-16,New Wanderers Stadium,19,15.1,58,13,17.0,0.2
+392229,2009-05-17,New Wanderers Stadium,19,14.5,36,1,20.2,0.0
+392230,2009-05-17,OUTsurance Oval,19,11.7,36,65,19.5,0.0
+392231,2009-05-18,SuperSport Park,19,19.2,27,0,7.0,0.0
+392232,2009-05-19,New Wanderers Stadium,19,19.0,33,0,3.3,0.0
+392233,2009-05-20,Kingsmead,19,21.2,72,7,14.4,0.0
+392234,2009-05-20,Kingsmead,19,21.2,72,7,14.4,0.0
+392235,2009-05-21,SuperSport Park,19,16.7,46,100,10.1,0.0
+392236,2009-05-21,SuperSport Park,19,16.7,46,100,10.1,0.0
+392237,2009-05-22,SuperSport Park,19,19.6,36,40,6.9,0.0
+392238,2009-05-23,New Wanderers Stadium,19,19.1,32,88,7.4,0.0
+392239,2009-05-24,New Wanderers Stadium,19,18.3,34,99,8.9,0.0
+419106,2010-03-12,"DY Patil Stadium, Mumbai",19,31.6,48,86,10.2,0.0
+419107,2010-03-13,"Brabourne Stadium, Mumbai",19,29.1,62,2,8.9,0.0
+419108,2010-03-13,"PCA Stadium, Mohali",19,24.3,34,85,12.2,0.0
+419109,2010-03-14,"Eden Gardens, Kolkata",19,28.6,70,1,15.3,0.0
+419110,2010-03-14,"MA Chidambaram Stadium, Chennai",19,27.8,78,94,14.8,0.0
+419111,2010-03-15,"Narendra Modi Stadium, Ahmedabad",19,33.2,21,0,10.2,0.0
+419112,2010-03-16,"M Chinnaswamy Stadium, Bengaluru",19,28.5,31,95,11.8,0.0
+419113,2010-03-16,"Eden Gardens, Kolkata",19,29.4,65,20,7.9,0.0
+419114,2010-03-17,"Arun Jaitley Stadium, Delhi",19,27.6,43,0,8.1,0.0
+419115,2010-03-18,"M Chinnaswamy Stadium, Bengaluru",19,26.4,32,93,14.5,0.0
+419116,2010-03-19,"Arun Jaitley Stadium, Delhi",19,28.6,46,0,8.5,0.0
+419117,2010-03-19,"Barabati Stadium, Cuttack",19,30.8,46,0,12.1,0.0
+419119,2010-03-20,"Brabourne Stadium, Mumbai",19,27.5,85,9,7.1,0.0
+419118,2010-03-20,"Narendra Modi Stadium, Ahmedabad",19,34.5,23,0,9.4,0.0
+419120,2010-03-21,"Barabati Stadium, Cuttack",19,29.4,70,0,15.7,0.0
+419122,2010-03-22,"Brabourne Stadium, Mumbai",19,29.4,50,3,11.6,0.0
+419123,2010-03-23,"M Chinnaswamy Stadium, Bengaluru",19,28.5,21,0,10.6,0.0
+419124,2010-03-24,"PCA Stadium, Mohali",19,30.9,26,0,10.0,0.0
+419125,2010-03-25,"Brabourne Stadium, Mumbai",19,27.0,73,0,11.3,0.0
+419128,2010-03-25,"M Chinnaswamy Stadium, Bengaluru",19,28.8,26,53,13.9,0.0
+419126,2010-03-26,"Narendra Modi Stadium, Ahmedabad",19,32.8,24,0,9.5,0.0
+419127,2010-03-27,"PCA Stadium, Mohali",19,29.7,18,0,13.8,0.0
+419129,2010-03-28,"Narendra Modi Stadium, Ahmedabad",19,34.3,19,0,12.2,0.0
+419130,2010-03-28,"DY Patil Stadium, Mumbai",19,28.4,68,1,8.2,0.0
+419131,2010-03-29,"Arun Jaitley Stadium, Delhi",19,30.3,33,1,11.7,0.0
+419132,2010-03-30,"Brabourne Stadium, Mumbai",19,27.0,73,0,11.6,0.0
+419133,2010-03-31,"MA Chidambaram Stadium, Chennai",19,30.5,77,2,15.7,0.0
+419134,2010-03-31,"Arun Jaitley Stadium, Delhi",19,29.7,26,0,13.5,0.0
+419135,2010-04-01,"Eden Gardens, Kolkata",19,30.2,75,2,17.3,0.0
+419136,2010-04-02,"PCA Stadium, Mohali",19,28.9,18,96,8.4,0.0
+419137,2010-04-03,"MA Chidambaram Stadium, Chennai",19,29.2,82,0,17.7,0.0
+419138,2010-04-03,"Brabourne Stadium, Mumbai",19,28.3,65,0,11.7,0.0
+419140,2010-04-04,"Arun Jaitley Stadium, Delhi",19,30.8,24,1,10.5,0.0
+419139,2010-04-04,"Eden Gardens, Kolkata",19,30.2,75,5,14.6,0.0
+419141,2010-04-05,"Vidarbha Cricket Association Stadium, Jamtha",19,35.6,16,0,8.0,0.0
+419142,2010-04-06,"MA Chidambaram Stadium, Chennai",19,29.3,78,95,15.0,0.0
+419144,2010-04-07,"Eden Gardens, Kolkata",19,30.4,71,0,15.2,0.0
+419143,2010-04-07,"Sawai Mansingh Stadium, Jaipur",19,32.7,11,88,10.1,0.0
+419145,2010-04-08,"M Chinnaswamy Stadium, Bengaluru",19,28.5,47,100,10.2,0.0
+419146,2010-04-09,"PCA Stadium, Mohali",19,33.0,14,57,13.6,0.0
+419147,2010-04-10,"Vidarbha Cricket Association Stadium, Jamtha",19,36.8,16,67,11.5,0.0
+419148,2010-04-10,"M Chinnaswamy Stadium, Bengaluru",19,31.3,26,89,6.9,0.0
+419149,2010-04-11,"Arun Jaitley Stadium, Delhi",19,35.1,16,38,11.4,0.0
+419150,2010-04-11,"Sawai Mansingh Stadium, Jaipur",19,35.0,16,81,9.8,0.0
+419151,2010-04-12,"Vidarbha Cricket Association Stadium, Jamtha",19,36.6,16,20,7.2,0.0
+419152,2010-04-13,"Brabourne Stadium, Mumbai",19,28.0,73,0,10.1,0.0
+419153,2010-04-13,"MA Chidambaram Stadium, Chennai",19,29.8,81,5,18.8,0.0
+419154,2010-04-14,"Sawai Mansingh Stadium, Jaipur",19,35.6,10,0,11.0,0.0
+419155,2010-04-15,"MA Chidambaram Stadium, Chennai",19,29.9,80,95,18.5,0.0
+419156,2010-04-16,"HPCA Stadium, Dharamsala",19,23.6,25,51,8.7,0.0
+419157,2010-04-17,"M Chinnaswamy Stadium, Bengaluru",19,30.4,36,75,10.6,0.0
+419158,2010-04-17,"Eden Gardens, Kolkata",19,29.3,77,2,24.5,0.0
+419159,2010-04-18,"HPCA Stadium, Dharamsala",19,19.2,53,99,7.2,0.2
+419160,2010-04-18,"Arun Jaitley Stadium, Delhi",19,37.3,18,72,7.0,0.0
+419161,2010-04-19,"Eden Gardens, Kolkata",19,30.9,72,0,22.5,0.0
+419162,2010-04-21,"DY Patil Stadium, Mumbai",19,29.1,71,25,11.7,0.0
+419163,2010-04-22,"DY Patil Stadium, Mumbai",19,29.1,73,0,15.6,0.0
+419164,2010-04-24,"DY Patil Stadium, Mumbai",19,30.4,70,0,11.0,0.0
+419165,2010-04-25,"DY Patil Stadium, Mumbai",19,29.8,70,0,11.9,0.0
+501198,2011-04-08,"MA Chidambaram Stadium, Chennai",19,27.9,73,0,12.3,0.0
+501199,2011-04-09,"Rajiv Gandhi Intl Stadium, Hyderabad",19,25.5,66,26,5.0,0.0
+501200,2011-04-09,Nehru Stadium,19,28.1,77,5,14.2,0.0
+501201,2011-04-10,"Arun Jaitley Stadium, Delhi",19,27.7,34,81,11.6,0.0
+501202,2011-04-10,"DY Patil Stadium, Mumbai",19,27.8,74,0,7.0,0.0
+501203,2011-04-11,"Eden Gardens, Kolkata",19,29.7,53,23,8.3,0.0
+501204,2011-04-12,"Sawai Mansingh Stadium, Jaipur",19,28.8,33,4,7.6,0.0
+501205,2011-04-12,"M Chinnaswamy Stadium, Bengaluru",19,29.2,27,68,7.7,0.0
+501207,2011-04-13,"DY Patil Stadium, Mumbai",19,28.7,71,0,11.8,0.0
+501206,2011-04-13,"PCA Stadium, Mohali",19,24.8,51,27,7.6,0.0
+501208,2011-04-14,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.2,33,68,9.4,0.0
+501209,2011-04-15,"Sawai Mansingh Stadium, Jaipur",19,31.0,25,13,9.1,0.0
+501210,2011-04-15,"Wankhede Stadium, Mumbai",19,27.4,81,3,14.0,0.0
+501212,2011-04-16,"Rajiv Gandhi Intl Stadium, Hyderabad",19,30.2,45,85,10.2,0.0
+501211,2011-04-16,"MA Chidambaram Stadium, Chennai",19,28.4,75,0,14.4,0.0
+501213,2011-04-17,"DY Patil Stadium, Mumbai",19,28.9,74,7,11.4,0.0
+501214,2011-04-17,"Eden Gardens, Kolkata",19,29.9,74,83,13.8,0.0
+501215,2011-04-18,Nehru Stadium,19,29.0,77,36,16.8,0.0
+501216,2011-04-19,"Arun Jaitley Stadium, Delhi",19,27.6,30,8,9.7,0.0
+501218,2011-04-20,"Wankhede Stadium, Mumbai",19,28.0,78,0,11.9,0.0
+501219,2011-04-20,"Eden Gardens, Kolkata",19,29.6,69,42,8.6,0.0
+501220,2011-04-21,"PCA Stadium, Mohali",19,24.2,46,38,7.9,0.0
+501221,2011-04-22,"Wankhede Stadium, Mumbai",19,27.8,79,0,11.9,0.0
+501222,2011-04-22,"Eden Gardens, Kolkata",19,25.8,89,100,3.6,0.0
+501223,2011-04-23,"Arun Jaitley Stadium, Delhi",19,30.7,26,50,9.6,0.0
+501225,2011-04-24,"Sawai Mansingh Stadium, Jaipur",19,31.9,16,0,5.4,0.0
+501224,2011-04-24,"Rajiv Gandhi Intl Stadium, Hyderabad",19,29.8,42,33,6.8,0.0
+501226,2011-04-25,"MA Chidambaram Stadium, Chennai",19,27.2,84,91,10.2,0.0
+501227,2011-04-26,"Arun Jaitley Stadium, Delhi",19,31.7,36,2,8.2,0.0
+501228,2011-04-27,"DY Patil Stadium, Mumbai",19,29.5,64,13,14.7,0.0
+501229,2011-04-27,Nehru Stadium,19,28.1,79,0,10.0,0.0
+501230,2011-04-28,"Arun Jaitley Stadium, Delhi",19,33.9,24,26,10.0,0.0
+501231,2011-04-29,"Sawai Mansingh Stadium, Jaipur",19,33.7,18,92,9.1,0.0
+501232,2011-04-29,"M Chinnaswamy Stadium, Bengaluru",19,26.1,67,100,3.4,0.0
+501233,2011-04-30,Nehru Stadium,19,29.4,81,2,12.5,0.0
+501234,2011-04-30,"Eden Gardens, Kolkata",19,28.6,72,22,8.3,0.0
+501235,2011-05-01,"Sawai Mansingh Stadium, Jaipur",19,34.1,16,0,9.8,0.0
+501236,2011-05-01,"MA Chidambaram Stadium, Chennai",19,29.4,82,0,13.6,0.0
+501237,2011-05-02,"Wankhede Stadium, Mumbai",19,27.9,79,0,12.8,0.0
+501238,2011-05-02,"Arun Jaitley Stadium, Delhi",19,33.8,21,12,11.7,0.0
+501239,2011-05-03,"Rajiv Gandhi Intl Stadium, Hyderabad",19,34.5,23,5,9.4,0.0
+501241,2011-05-04,"DY Patil Stadium, Mumbai",19,28.9,66,0,12.4,0.0
+501240,2011-05-04,"MA Chidambaram Stadium, Chennai",19,30.8,74,5,10.8,0.0
+501242,2011-05-05,Nehru Stadium,19,31.3,74,93,14.7,0.0
+501243,2011-05-05,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.6,18,0,8.9,0.0
+501244,2011-05-06,"M Chinnaswamy Stadium, Bengaluru",19,26.9,48,11,6.7,0.0
+501245,2011-05-07,"Eden Gardens, Kolkata",19,28.5,79,39,11.3,0.0
+501246,2011-05-07,"Wankhede Stadium, Mumbai",19,28.6,67,26,13.8,0.0
+501248,2011-05-08,"PCA Stadium, Mohali",19,30.9,28,26,7.7,0.0
+501247,2011-05-08,"M Chinnaswamy Stadium, Bengaluru",19,26.0,52,1,4.7,0.0
+501249,2011-05-09,"Sawai Mansingh Stadium, Jaipur",19,35.4,13,0,9.9,0.0
+501250,2011-05-10,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.4,33,29,7.4,0.0
+501251,2011-05-10,"PCA Stadium, Mohali",19,32.8,20,4,8.8,0.0
+501252,2011-05-11,"Sawai Mansingh Stadium, Jaipur",19,36.3,15,10,11.9,0.0
+501253,2011-05-12,"MA Chidambaram Stadium, Chennai",19,29.8,73,9,20.6,0.0
+501254,2011-05-13,"Holkar Stadium, Indore",19,35.2,18,0,13.6,0.0
+501255,2011-05-14,"M Chinnaswamy Stadium, Bengaluru",19,24.1,83,92,7.5,1.9
+501256,2011-05-14,"Wankhede Stadium, Mumbai",19,28.3,77,0,14.6,0.0
+501257,2011-05-15,"HPCA Stadium, Dharamsala",19,25.4,29,19,3.1,0.0
+501258,2011-05-15,"Holkar Stadium, Indore",19,36.0,15,14,9.7,0.0
+501259,2011-05-16,"DY Patil Stadium, Mumbai",19,31.2,64,67,9.7,0.0
+501260,2011-05-17,"HPCA Stadium, Dharamsala",19,25.4,26,19,4.3,0.0
+501261,2011-05-18,"MA Chidambaram Stadium, Chennai",19,29.3,77,0,21.7,0.0
+501262,2011-05-19,"DY Patil Stadium, Mumbai",19,28.8,71,0,14.1,0.0
+501263,2011-05-20,"Wankhede Stadium, Mumbai",19,29.4,72,27,18.6,0.0
+501264,2011-05-21,"HPCA Stadium, Dharamsala",19,22.9,41,100,4.0,0.0
+501266,2011-05-22,"M Chinnaswamy Stadium, Bengaluru",19,26.7,52,73,3.6,0.0
+501267,2011-05-22,"Eden Gardens, Kolkata",19,31.1,79,88,8.6,0.0
+501268,2011-05-24,"Wankhede Stadium, Mumbai",19,29.1,78,1,9.7,0.0
+501269,2011-05-25,"Wankhede Stadium, Mumbai",19,29.0,74,0,13.1,0.0
+501270,2011-05-27,"MA Chidambaram Stadium, Chennai",19,31.3,73,4,18.4,0.0
+501271,2011-05-28,"MA Chidambaram Stadium, Chennai",19,31.1,70,97,11.4,0.0
+548306,2012-04-04,"MA Chidambaram Stadium, Chennai",19,28.1,76,0,18.7,0.0
+548307,2012-04-05,"Eden Gardens, Kolkata",19,28.3,72,35,15.8,0.0
+548308,2012-04-06,"Wankhede Stadium, Mumbai",19,26.8,76,0,8.6,0.0
+548309,2012-04-06,"Sawai Mansingh Stadium, Jaipur",19,32.2,12,0,8.8,0.0
+548311,2012-04-07,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,28.7,77,18,15.2,0.0
+548310,2012-04-07,"M Chinnaswamy Stadium, Bengaluru",19,29.3,30,58,5.1,0.0
+548312,2012-04-08,"Sawai Mansingh Stadium, Jaipur",19,31.5,16,0,8.9,0.0
+548313,2012-04-08,"Subrata Roy Sahara Stadium, Pune",19,29.4,44,78,17.6,0.0
+548314,2012-04-09,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,29.1,76,90,17.9,0.0
+548316,2012-04-10,"Arun Jaitley Stadium, Delhi",19,30.2,35,84,14.3,0.0
+548315,2012-04-10,"M Chinnaswamy Stadium, Bengaluru",19,30.5,28,97,8.7,0.0
+548317,2012-04-11,"Wankhede Stadium, Mumbai",19,26.8,81,21,10.5,0.0
+548318,2012-04-12,"MA Chidambaram Stadium, Chennai",19,28.4,79,87,17.9,0.0
+548319,2012-04-12,"PCA Stadium, Mohali",19,24.4,37,79,8.3,0.0
+548320,2012-04-13,"Eden Gardens, Kolkata",19,24.2,90,28,11.3,0.6
+548322,2012-04-14,"Subrata Roy Sahara Stadium, Pune",19,30.8,33,59,16.3,0.0
+548323,2012-04-15,"Eden Gardens, Kolkata",19,28.4,67,28,9.2,0.0
+548324,2012-04-15,"M Chinnaswamy Stadium, Bengaluru",19,29.5,23,2,11.8,0.0
+548325,2012-04-16,"Wankhede Stadium, Mumbai",19,28.7,76,100,8.7,0.0
+548326,2012-04-17,"Sawai Mansingh Stadium, Jaipur",19,29.2,28,98,7.2,0.0
+548327,2012-04-17,"M Chinnaswamy Stadium, Bengaluru",19,26.1,56,90,7.4,0.3
+548328,2012-04-18,"PCA Stadium, Mohali",19,26.8,40,89,8.2,0.0
+548321,2012-04-19,"Arun Jaitley Stadium, Delhi",19,30.0,38,95,8.7,0.0
+548330,2012-04-19,"MA Chidambaram Stadium, Chennai",19,29.2,78,77,14.6,0.0
+548331,2012-04-20,"PCA Stadium, Mohali",19,27.9,40,100,7.4,0.0
+548332,2012-04-21,"MA Chidambaram Stadium, Chennai",19,29.5,77,100,14.0,0.0
+548333,2012-04-21,"Arun Jaitley Stadium, Delhi",19,29.0,30,5,10.1,0.0
+548334,2012-04-22,"Wankhede Stadium, Mumbai",19,28.2,67,0,18.6,0.0
+548335,2012-04-22,"Barabati Stadium, Cuttack",19,30.0,76,50,15.1,0.0
+548336,2012-04-23,"Sawai Mansingh Stadium, Jaipur",19,29.7,26,8,5.6,0.0
+548337,2012-04-24,"Subrata Roy Sahara Stadium, Pune",19,28.7,54,0,16.5,0.0
+548339,2012-04-25,"PCA Stadium, Mohali",19,27.4,38,69,5.6,0.1
+548341,2012-04-26,"Subrata Roy Sahara Stadium, Pune",19,31.2,31,11,20.7,0.0
+548342,2012-04-27,"Arun Jaitley Stadium, Delhi",19,29.5,29,26,7.1,0.0
+548343,2012-04-28,"MA Chidambaram Stadium, Chennai",19,29.7,74,32,18.0,0.0
+548344,2012-04-28,"Eden Gardens, Kolkata",19,27.1,86,25,10.6,0.5
+548345,2012-04-29,"Arun Jaitley Stadium, Delhi",19,29.3,25,10,10.6,0.0
+548346,2012-04-29,"Wankhede Stadium, Mumbai",19,26.7,78,2,13.0,0.0
+548347,2012-04-30,"MA Chidambaram Stadium, Chennai",19,29.8,79,75,17.2,0.0
+548348,2012-05-01,"Barabati Stadium, Cuttack",19,31.3,72,24,9.8,0.0
+548349,2012-05-01,"Sawai Mansingh Stadium, Jaipur",19,31.9,15,0,4.9,0.0
+548350,2012-05-02,"M Chinnaswamy Stadium, Bengaluru",19,24.9,70,93,10.9,0.0
+548351,2012-05-03,"Subrata Roy Sahara Stadium, Pune",19,28.0,50,4,18.5,0.0
+548352,2012-05-04,"MA Chidambaram Stadium, Chennai",19,30.4,77,27,24.2,0.0
+548354,2012-05-05,"PCA Stadium, Mohali",19,31.5,21,47,8.9,0.0
+548353,2012-05-05,"Eden Gardens, Kolkata",19,28.1,82,9,5.4,0.0
+548355,2012-05-06,"Wankhede Stadium, Mumbai",19,28.0,71,14,15.5,0.0
+548356,2012-05-06,"M Chinnaswamy Stadium, Bengaluru",19,26.7,43,26,8.1,0.0
+548357,2012-05-07,"Arun Jaitley Stadium, Delhi",19,34.4,27,79,9.8,0.0
+548358,2012-05-08,"Subrata Roy Sahara Stadium, Pune",19,29.4,50,19,17.1,0.0
+548359,2012-05-08,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.3,29,51,6.9,0.0
+548360,2012-05-09,"Wankhede Stadium, Mumbai",19,27.4,83,3,14.4,0.0
+548361,2012-05-10,"Sawai Mansingh Stadium, Jaipur",19,34.4,21,93,10.2,0.0
+548329,2012-05-10,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.9,37,49,5.9,0.0
+548362,2012-05-11,"Subrata Roy Sahara Stadium, Pune",19,28.1,58,24,10.2,0.0
+548363,2012-05-12,"Eden Gardens, Kolkata",19,30.5,73,70,17.4,0.0
+548364,2012-05-12,"MA Chidambaram Stadium, Chennai",19,30.7,73,15,16.6,0.0
+548365,2012-05-13,"Sawai Mansingh Stadium, Jaipur",19,32.0,29,56,5.8,0.0
+548366,2012-05-13,"PCA Stadium, Mohali",19,31.4,21,34,13.3,0.0
+548367,2012-05-14,"M Chinnaswamy Stadium, Bengaluru",19,23.9,80,97,6.0,0.0
+548368,2012-05-14,"Eden Gardens, Kolkata",19,31.7,76,50,19.8,0.0
+548369,2012-05-15,"Arun Jaitley Stadium, Delhi",19,34.3,23,1,11.0,0.0
+548370,2012-05-16,"Wankhede Stadium, Mumbai",19,27.8,75,4,14.6,0.0
+548372,2012-05-17,"Arun Jaitley Stadium, Delhi",19,34.5,25,5,7.9,0.0
+548371,2012-05-17,"HPCA Stadium, Dharamsala",19,23.1,30,17,5.6,0.0
+548373,2012-05-18,"Rajiv Gandhi Intl Stadium, Hyderabad",19,35.8,17,2,9.7,0.0
+548374,2012-05-19,"HPCA Stadium, Dharamsala",19,22.4,24,36,6.9,0.0
+548375,2012-05-19,"Subrata Roy Sahara Stadium, Pune",19,30.5,42,1,14.8,0.0
+548376,2012-05-20,"Rajiv Gandhi Intl Stadium, Hyderabad",19,35.9,18,8,3.9,0.0
+548377,2012-05-20,"Sawai Mansingh Stadium, Jaipur",19,35.1,18,1,8.0,0.0
+548378,2012-05-22,"Subrata Roy Sahara Stadium, Pune",19,28.1,60,0,20.5,0.0
+548379,2012-05-23,"M Chinnaswamy Stadium, Bengaluru",19,27.2,54,30,12.9,0.0
+548380,2012-05-25,"MA Chidambaram Stadium, Chennai",19,33.8,55,100,18.8,0.0
+548381,2012-05-27,"MA Chidambaram Stadium, Chennai",19,34.2,43,100,18.6,0.0
+597998,2013-04-03,"Eden Gardens, Kolkata",19,31.5,51,21,10.5,0.0
+597999,2013-04-04,"M Chinnaswamy Stadium, Bengaluru",19,29.4,41,34,5.6,0.0
+598000,2013-04-05,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.6,18,0,8.7,0.0
+598002,2013-04-06,"MA Chidambaram Stadium, Chennai",19,29.5,81,65,17.1,0.0
+598001,2013-04-06,"Arun Jaitley Stadium, Delhi",19,26.3,36,0,10.9,0.0
+598003,2013-04-07,"Subrata Roy Sahara Stadium, Pune",19,29.3,31,0,14.1,0.0
+598005,2013-04-08,"Sawai Mansingh Stadium, Jaipur",19,31.1,18,94,7.4,0.0
+598006,2013-04-09,"Wankhede Stadium, Mumbai",19,27.5,73,0,13.7,0.0
+598048,2013-04-09,"M Chinnaswamy Stadium, Bengaluru",19,29.7,36,57,3.8,0.0
+598007,2013-04-10,"PCA Stadium, Mohali",19,25.2,42,33,11.4,0.0
+598008,2013-04-11,"M Chinnaswamy Stadium, Bengaluru",19,30.1,27,85,5.8,0.0
+598009,2013-04-11,"Subrata Roy Sahara Stadium, Pune",19,30.1,37,0,17.1,0.0
+598010,2013-04-12,"Arun Jaitley Stadium, Delhi",19,29.5,33,97,8.5,0.0
+598011,2013-04-13,"Wankhede Stadium, Mumbai",19,28.2,73,0,8.0,0.0
+598012,2013-04-13,"MA Chidambaram Stadium, Chennai",19,28.6,80,63,15.9,0.0
+598013,2013-04-14,"Eden Gardens, Kolkata",19,29.7,57,2,8.9,0.0
+598014,2013-04-14,"Sawai Mansingh Stadium, Jaipur",19,30.6,19,50,7.1,0.0
+598015,2013-04-15,"MA Chidambaram Stadium, Chennai",19,29.9,79,38,19.4,0.0
+598016,2013-04-16,"PCA Stadium, Mohali",19,26.8,39,0,6.0,0.0
+598018,2013-04-17,Maharashtra Cricket Association Stadium,19,26.3,50,0,17.7,0.0
+598019,2013-04-17,"Sawai Mansingh Stadium, Jaipur",19,31.9,12,0,9.9,0.0
+598020,2013-04-18,"Arun Jaitley Stadium, Delhi",19,30.2,24,2,10.1,0.0
+598021,2013-04-19,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.7,20,4,7.9,0.0
+598023,2013-04-20,"M Chinnaswamy Stadium, Bengaluru",19,28.8,32,19,6.3,0.0
+598022,2013-04-20,"Eden Gardens, Kolkata",19,26.6,80,48,6.2,0.0
+598024,2013-04-21,"Arun Jaitley Stadium, Delhi",19,24.7,60,81,13.0,1.0
+598025,2013-04-21,"PCA Stadium, Mohali",19,24.0,60,99,6.1,0.0
+598026,2013-04-22,"MA Chidambaram Stadium, Chennai",19,29.0,80,23,16.0,0.0
+598027,2013-04-23,"M Chinnaswamy Stadium, Bengaluru",19,26.2,59,53,15.3,0.0
+598059,2013-04-23,"Arun Jaitley Stadium, Delhi",19,28.9,37,50,8.0,0.0
+598029,2013-04-24,"Eden Gardens, Kolkata",19,27.6,76,17,6.8,0.0
+598030,2013-04-25,"MA Chidambaram Stadium, Chennai",19,29.1,77,11,12.0,0.0
+598031,2013-04-26,"Eden Gardens, Kolkata",19,29.4,71,23,13.7,0.0
+598032,2013-04-27,"Sawai Mansingh Stadium, Jaipur",19,32.4,25,73,12.1,0.0
+598033,2013-04-27,"Wankhede Stadium, Mumbai",19,30.1,61,0,14.5,0.0
+598034,2013-04-28,"MA Chidambaram Stadium, Chennai",19,30.3,76,0,17.4,0.0
+598035,2013-04-28,Shaheed Veer Narayan Singh International Stadium,19,33.5,31,14,6.9,0.0
+598037,2013-04-29,"Wankhede Stadium, Mumbai",19,29.2,72,0,12.9,0.0
+598036,2013-04-29,"Sawai Mansingh Stadium, Jaipur",19,33.2,22,46,8.6,0.0
+598038,2013-04-30,"Subrata Roy Sahara Stadium, Pune",19,33.4,38,50,20.8,0.0
+598040,2013-05-01,Shaheed Veer Narayan Singh International Stadium,19,36.5,22,4,8.5,0.0
+598039,2013-05-01,"Rajiv Gandhi Intl Stadium, Hyderabad",19,36.0,23,41,4.7,0.0
+598041,2013-05-02,"MA Chidambaram Stadium, Chennai",19,29.6,78,10,19.0,0.0
+598042,2013-05-02,"Subrata Roy Sahara Stadium, Pune",19,31.6,44,1,18.5,0.0
+598043,2013-05-03,"Eden Gardens, Kolkata",19,30.1,76,10,22.1,0.0
+598044,2013-05-04,"Rajiv Gandhi Intl Stadium, Hyderabad",19,36.4,19,13,7.7,0.0
+598046,2013-05-05,"Wankhede Stadium, Mumbai",19,28.3,77,0,14.9,0.0
+598047,2013-05-05,"Sawai Mansingh Stadium, Jaipur",19,35.7,14,2,9.3,0.0
+598064,2013-05-06,"PCA Stadium, Mohali",19,33.0,24,73,5.1,0.0
+598049,2013-05-07,"Sawai Mansingh Stadium, Jaipur",19,35.1,11,0,8.9,0.0
+598050,2013-05-07,"Wankhede Stadium, Mumbai",19,28.1,76,38,12.7,0.0
+598051,2013-05-08,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.5,39,96,13.2,0.2
+598052,2013-05-09,"PCA Stadium, Mohali",19,32.7,20,7,8.0,0.0
+598053,2013-05-09,"Subrata Roy Sahara Stadium, Pune",19,30.0,54,0,18.9,0.0
+598054,2013-05-10,"Arun Jaitley Stadium, Delhi",19,35.8,22,9,7.9,0.0
+598055,2013-05-11,"Subrata Roy Sahara Stadium, Pune",19,29.8,50,0,16.5,0.0
+598056,2013-05-11,"PCA Stadium, Mohali",19,29.7,36,92,2.0,0.0
+598057,2013-05-12,JSCA International Stadium Complex,19,31.5,39,85,19.2,0.0
+598058,2013-05-12,"Sawai Mansingh Stadium, Jaipur",19,29.5,39,78,0.4,0.0
+598060,2013-05-13,"Wankhede Stadium, Mumbai",19,28.3,75,5,15.5,0.0
+598045,2013-05-14,"M Chinnaswamy Stadium, Bengaluru",19,27.6,44,100,7.9,0.0
+598062,2013-05-14,"MA Chidambaram Stadium, Chennai",19,30.6,76,100,16.9,0.0
+598061,2013-05-15,JSCA International Stadium Complex,19,30.2,45,32,11.8,0.0
+598063,2013-05-15,"Wankhede Stadium, Mumbai",19,28.3,73,17,13.0,0.0
+598028,2013-05-16,"HPCA Stadium, Dharamsala",19,23.2,26,19,5.8,0.0
+598065,2013-05-17,"Rajiv Gandhi Intl Stadium, Hyderabad",19,35.7,27,38,4.9,0.0
+598066,2013-05-18,"HPCA Stadium, Dharamsala",19,25.6,23,0,4.3,0.0
+598068,2013-05-18,"M Chinnaswamy Stadium, Bengaluru",19,24.8,79,93,8.3,2.3
+598067,2013-05-19,"Subrata Roy Sahara Stadium, Pune",19,29.7,59,18,16.5,0.0
+598069,2013-05-19,"Rajiv Gandhi Intl Stadium, Hyderabad",19,34.7,33,37,6.1,0.0
+598070,2013-05-21,"Arun Jaitley Stadium, Delhi",19,37.8,20,0,11.0,0.0
+598071,2013-05-22,"Arun Jaitley Stadium, Delhi",19,38.1,17,0,9.4,0.0
+598072,2013-05-24,"Eden Gardens, Kolkata",19,27.2,92,100,8.8,0.0
+598073,2013-05-26,"Eden Gardens, Kolkata",19,29.4,78,50,13.6,0.0
+729279,2014-04-16,"Sheikh Zayed Stadium, Abu Dhabi",19,34.0,27,96,22.8,0.0
+729281,2014-04-17,Sharjah Cricket Stadium,19,32.8,40,8,20.2,0.0
+729283,2014-04-18,"Sheikh Zayed Stadium, Abu Dhabi",19,32.9,36,65,15.1,0.0
+729285,2014-04-18,"Sheikh Zayed Stadium, Abu Dhabi",19,32.9,36,65,15.1,0.0
+729289,2014-04-19,Dubai International Cricket Stadium,19,33.5,29,43,18.6,0.0
+729287,2014-04-19,Dubai International Cricket Stadium,19,33.5,29,43,18.6,0.0
+729291,2014-04-20,Sharjah Cricket Stadium,19,29.5,46,0,25.9,0.0
+729293,2014-04-21,"Sheikh Zayed Stadium, Abu Dhabi",19,32.3,37,0,19.9,0.0
+729295,2014-04-22,Sharjah Cricket Stadium,19,32.4,48,96,18.1,0.0
+729297,2014-04-23,Dubai International Cricket Stadium,19,32.6,44,99,15.3,0.0
+729299,2014-04-24,Sharjah Cricket Stadium,19,33.7,37,0,17.5,0.0
+729301,2014-04-25,Dubai International Cricket Stadium,19,31.9,33,0,20.8,0.0
+729303,2014-04-25,Dubai International Cricket Stadium,19,31.9,33,0,20.8,0.0
+729305,2014-04-26,"Sheikh Zayed Stadium, Abu Dhabi",19,32.5,35,0,17.1,0.0
+729307,2014-04-26,"Sheikh Zayed Stadium, Abu Dhabi",19,32.5,35,0,17.1,0.0
+729309,2014-04-27,Sharjah Cricket Stadium,19,32.4,44,22,20.1,0.0
+729311,2014-04-27,Sharjah Cricket Stadium,19,32.4,44,22,20.1,0.0
+729313,2014-04-28,Dubai International Cricket Stadium,19,35.3,26,0,20.2,0.0
+729317,2014-04-30,Dubai International Cricket Stadium,19,36.6,19,6,18.6,0.0
+733971,2014-05-02,JSCA International Stadium Complex,19,32.0,23,92,9.3,0.0
+733973,2014-05-03,"Wankhede Stadium, Mumbai",19,28.0,78,0,11.6,0.0
+733975,2014-05-03,"Arun Jaitley Stadium, Delhi",19,30.9,35,72,7.6,0.0
+733977,2014-05-04,"M Chinnaswamy Stadium, Bengaluru",19,27.6,49,100,7.6,0.5
+733979,2014-05-05,"Narendra Modi Stadium, Ahmedabad",19,36.5,24,24,6.9,0.0
+733981,2014-05-05,"Arun Jaitley Stadium, Delhi",19,30.7,43,39,11.9,0.0
+733983,2014-05-06,"Wankhede Stadium, Mumbai",19,29.3,81,9,12.4,0.0
+733985,2014-05-07,"Arun Jaitley Stadium, Delhi",19,33.4,33,27,7.6,0.0
+733987,2014-05-07,"Barabati Stadium, Cuttack",19,29.9,72,21,19.9,0.0
+733989,2014-05-08,"Narendra Modi Stadium, Ahmedabad",19,36.8,17,3,10.1,0.0
+733991,2014-05-09,"M Chinnaswamy Stadium, Bengaluru",19,24.4,70,100,10.5,0.0
+733993,2014-05-10,"Arun Jaitley Stadium, Delhi",19,33.3,25,80,9.4,0.0
+733995,2014-05-10,"Wankhede Stadium, Mumbai",19,28.8,70,1,11.5,0.0
+733999,2014-05-11,"M Chinnaswamy Stadium, Bengaluru",19,26.4,57,89,5.6,0.0
+733997,2014-05-11,"Barabati Stadium, Cuttack",19,30.9,69,14,16.5,0.0
+734001,2014-05-12,"Rajiv Gandhi Intl Stadium, Hyderabad",19,30.2,48,7,5.8,0.0
+734003,2014-05-13,JSCA International Stadium Complex,19,31.0,31,58,7.9,0.0
+734005,2014-05-13,"M Chinnaswamy Stadium, Bengaluru",19,26.9,50,65,8.9,0.0
+734009,2014-05-14,"Barabati Stadium, Cuttack",19,33.1,52,19,7.8,0.0
+734007,2014-05-14,"Rajiv Gandhi Intl Stadium, Hyderabad",19,30.3,41,6,7.9,0.0
+734011,2014-05-15,"Narendra Modi Stadium, Ahmedabad",19,33.3,35,39,19.3,0.0
+734013,2014-05-18,JSCA International Stadium Complex,19,32.3,30,13,6.9,0.0
+734015,2014-05-18,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.8,39,88,7.1,0.0
+734017,2014-05-19,"Narendra Modi Stadium, Ahmedabad",19,36.8,26,6,9.4,0.0
+734019,2014-05-19,"Arun Jaitley Stadium, Delhi",19,32.5,28,0,8.9,0.0
+734021,2014-05-20,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.6,44,50,5.9,0.0
+734023,2014-05-20,"Eden Gardens, Kolkata",19,31.1,73,0,17.6,0.0
+734025,2014-05-21,"PCA Stadium, Mohali",19,31.1,25,4,11.8,0.0
+734027,2014-05-22,"Eden Gardens, Kolkata",19,32.1,59,15,20.2,0.0
+734029,2014-05-22,JSCA International Stadium Complex,19,32.3,22,4,11.9,0.0
+734031,2014-05-23,"Wankhede Stadium, Mumbai",19,28.9,74,0,13.4,0.0
+734033,2014-05-23,"PCA Stadium, Mohali",19,32.9,30,64,13.6,0.0
+734035,2014-05-24,"M Chinnaswamy Stadium, Bengaluru",19,27.5,55,88,7.2,0.0
+734037,2014-05-24,"Eden Gardens, Kolkata",19,30.1,71,99,13.6,0.0
+734039,2014-05-25,"PCA Stadium, Mohali",19,33.0,21,42,4.3,0.0
+734041,2014-05-25,"Wankhede Stadium, Mumbai",19,28.8,75,6,14.9,0.0
+734043,2014-05-27,"Eden Gardens, Kolkata",19,26.6,90,100,17.5,0.1
+734045,2014-05-28,"Brabourne Stadium, Mumbai",19,29.6,75,5,16.2,0.0
+734047,2014-05-30,"Wankhede Stadium, Mumbai",19,29.5,71,16,15.5,0.0
+734049,2014-06-01,"M Chinnaswamy Stadium, Bengaluru",19,22.6,95,97,5.8,1.0
+829705,2015-04-08,"Eden Gardens, Kolkata",19,27.3,84,51,5.8,0.0
+829707,2015-04-09,"MA Chidambaram Stadium, Chennai",19,28.6,76,25,12.3,0.0
+829709,2015-04-10,Maharashtra Cricket Association Stadium,19,28.4,61,4,9.3,0.0
+829711,2015-04-11,"MA Chidambaram Stadium, Chennai",19,28.4,71,0,19.7,0.0
+829713,2015-04-11,"Eden Gardens, Kolkata",19,27.9,77,100,15.5,0.0
+829715,2015-04-12,"Arun Jaitley Stadium, Delhi",19,24.9,54,81,5.8,0.0
+829717,2015-04-12,"Wankhede Stadium, Mumbai",19,26.5,76,10,12.6,0.0
+829719,2015-04-13,"M Chinnaswamy Stadium, Bengaluru",19,20.7,92,87,5.2,4.4
+829721,2015-04-14,"Narendra Modi Stadium, Ahmedabad",19,31.1,37,17,7.6,0.0
+829725,2015-04-15,Maharashtra Cricket Association Stadium,19,25.8,65,33,17.1,0.0
+829727,2015-04-16,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,27.4,70,22,3.2,0.0
+829729,2015-04-17,"Wankhede Stadium, Mumbai",19,28.9,78,4,14.8,0.0
+829733,2015-04-18,Maharashtra Cricket Association Stadium,19,30.2,48,23,18.6,0.0
+829731,2015-04-18,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,28.5,76,4,14.5,0.0
+829735,2015-04-19,"Narendra Modi Stadium, Ahmedabad",19,37.3,19,0,10.2,0.0
+829737,2015-04-19,"M Chinnaswamy Stadium, Bengaluru",19,25.6,56,58,6.5,0.0
+829739,2015-04-20,"Arun Jaitley Stadium, Delhi",19,32.8,32,0,13.0,0.0
+829743,2015-04-22,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,29.6,80,20,20.8,0.0
+829745,2015-04-22,"M Chinnaswamy Stadium, Bengaluru",19,24.2,78,100,9.6,0.8
+829747,2015-04-23,"Arun Jaitley Stadium, Delhi",19,33.6,18,0,7.9,0.0
+829749,2015-04-24,"Narendra Modi Stadium, Ahmedabad",19,36.2,19,0,10.4,0.0
+829751,2015-04-25,"Wankhede Stadium, Mumbai",19,28.2,69,6,11.5,0.0
+829753,2015-04-25,"MA Chidambaram Stadium, Chennai",19,28.8,78,35,12.4,0.0
+829757,2015-04-26,"Arun Jaitley Stadium, Delhi",19,30.2,43,0,11.5,0.0
+829759,2015-04-27,"PCA Stadium, Mohali",19,29.7,44,99,4.0,0.0
+829765,2015-04-28,"MA Chidambaram Stadium, Chennai",19,28.9,78,0,18.6,0.0
+829723,2015-04-30,"Eden Gardens, Kolkata",19,26.7,89,14,11.6,0.4
+829769,2015-05-01,"Wankhede Stadium, Mumbai",19,28.7,75,0,10.8,0.0
+829767,2015-05-01,"Arun Jaitley Stadium, Delhi",19,32.0,29,73,8.2,0.0
+829771,2015-05-02,"M Chinnaswamy Stadium, Bengaluru",19,23.3,84,100,7.2,0.0
+829773,2015-05-02,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.9,28,10,2.9,0.0
+829775,2015-05-03,"PCA Stadium, Mohali",19,30.5,17,3,8.0,0.0
+829777,2015-05-03,"Brabourne Stadium, Mumbai",19,29.0,75,0,13.0,0.0
+829779,2015-05-04,"MA Chidambaram Stadium, Chennai",19,29.1,77,14,13.6,0.0
+829781,2015-05-04,"Eden Gardens, Kolkata",19,28.9,79,47,11.6,0.0
+829783,2015-05-05,"Wankhede Stadium, Mumbai",19,29.9,71,0,11.9,0.0
+829785,2015-05-06,"M Chinnaswamy Stadium, Bengaluru",19,25.2,69,100,2.4,0.5
+829761,2015-05-07,"Eden Gardens, Kolkata",19,29.7,76,8,14.0,0.0
+829787,2015-05-07,"Brabourne Stadium, Mumbai",19,29.6,70,6,14.6,0.0
+829789,2015-05-08,"MA Chidambaram Stadium, Chennai",19,30.1,76,28,18.2,0.0
+829791,2015-05-09,"Eden Gardens, Kolkata",19,29.7,78,44,14.1,0.0
+829793,2015-05-09,Shaheed Veer Narayan Singh International Stadium,19,35.8,23,46,7.6,0.0
+829795,2015-05-10,"Wankhede Stadium, Mumbai",19,29.5,72,3,12.6,0.0
+829797,2015-05-10,"MA Chidambaram Stadium, Chennai",19,29.8,77,100,14.6,0.0
+829799,2015-05-11,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.9,44,87,5.9,0.0
+829801,2015-05-12,Shaheed Veer Narayan Singh International Stadium,19,35.3,31,60,5.9,0.0
+829803,2015-05-13,"PCA Stadium, Mohali",19,27.3,60,64,8.1,0.0
+829805,2015-05-14,"Wankhede Stadium, Mumbai",19,29.4,75,37,12.4,0.0
+829807,2015-05-15,"Rajiv Gandhi Intl Stadium, Hyderabad",19,30.1,53,80,6.5,0.0
+829811,2015-05-16,"Brabourne Stadium, Mumbai",19,29.7,80,20,13.1,0.0
+829809,2015-05-16,"PCA Stadium, Mohali",19,32.1,35,1,7.9,0.0
+829815,2015-05-17,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.7,45,78,7.4,0.0
+829817,2015-05-19,"Wankhede Stadium, Mumbai",19,29.3,75,2,14.4,0.0
+829819,2015-05-20,Maharashtra Cricket Association Stadium,19,29.4,60,4,18.7,0.0
+829821,2015-05-22,JSCA International Stadium Complex,19,31.7,30,3,8.3,0.0
+829823,2015-05-24,"Eden Gardens, Kolkata",19,31.8,76,13,21.9,0.0
+980901,2016-04-09,"Wankhede Stadium, Mumbai",19,28.8,63,2,14.0,0.0
+980903,2016-04-10,"Eden Gardens, Kolkata",19,31.8,61,1,13.3,0.0
+980905,2016-04-11,"PCA Stadium, Mohali",19,27.3,35,6,8.9,0.0
+980907,2016-04-12,"M Chinnaswamy Stadium, Bengaluru",19,31.6,31,43,6.4,0.0
+980909,2016-04-13,"Eden Gardens, Kolkata",19,31.4,58,0,17.6,0.0
+980911,2016-04-14,Saurashtra Cricket Association Stadium,19,31.1,37,0,16.7,0.0
+980913,2016-04-15,"Arun Jaitley Stadium, Delhi",19,34.4,25,54,8.9,0.0
+980915,2016-04-16,"Rajiv Gandhi Intl Stadium, Hyderabad",19,36.1,26,31,6.9,0.0
+980917,2016-04-16,"Wankhede Stadium, Mumbai",19,27.8,75,4,10.8,0.0
+980921,2016-04-17,"M Chinnaswamy Stadium, Bengaluru",19,31.3,30,40,10.9,0.0
+980919,2016-04-17,"PCA Stadium, Mohali",19,32.3,24,70,6.5,0.0
+980923,2016-04-18,"Rajiv Gandhi Intl Stadium, Hyderabad",19,34.5,29,55,8.4,0.0
+980925,2016-04-19,"PCA Stadium, Mohali",19,30.2,31,31,8.1,0.0
+980927,2016-04-20,"Wankhede Stadium, Mumbai",19,28.6,70,26,11.6,0.0
+980929,2016-04-21,Saurashtra Cricket Association Stadium,19,30.4,33,0,14.8,0.0
+980931,2016-04-22,Maharashtra Cricket Association Stadium,19,27.4,38,0,15.2,0.0
+980933,2016-04-23,"Arun Jaitley Stadium, Delhi",19,31.3,15,0,11.1,0.0
+980935,2016-04-23,"Rajiv Gandhi Intl Stadium, Hyderabad",19,36.3,17,6,8.0,0.0
+980937,2016-04-24,Saurashtra Cricket Association Stadium,19,32.7,26,30,11.2,0.0
+980939,2016-04-24,Maharashtra Cricket Association Stadium,19,27.5,50,0,13.6,0.0
+980941,2016-04-25,"PCA Stadium, Mohali",19,30.7,13,0,10.4,0.0
+980943,2016-04-26,"Rajiv Gandhi Intl Stadium, Hyderabad",19,34.5,30,29,9.4,0.0
+980945,2016-04-27,"Arun Jaitley Stadium, Delhi",19,32.4,18,21,11.5,0.0
+980947,2016-04-28,"Wankhede Stadium, Mumbai",19,29.3,75,69,10.3,0.0
+980949,2016-04-29,Maharashtra Cricket Association Stadium,19,30.3,45,1,16.6,0.0
+980953,2016-04-30,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.1,33,66,5.9,0.0
+980951,2016-04-30,"Arun Jaitley Stadium, Delhi",19,34.0,17,2,7.4,0.0
+980955,2016-05-01,Saurashtra Cricket Association Stadium,19,32.7,38,97,15.9,0.0
+980957,2016-05-01,Maharashtra Cricket Association Stadium,19,29.4,50,0,18.4,0.0
+980959,2016-05-02,"M Chinnaswamy Stadium, Bengaluru",19,28.1,52,76,6.0,0.0
+980961,2016-05-03,Saurashtra Cricket Association Stadium,19,33.0,42,0,14.8,0.0
+980963,2016-05-04,"Eden Gardens, Kolkata",19,29.1,80,42,5.4,0.0
+980965,2016-05-05,"Arun Jaitley Stadium, Delhi",19,28.7,52,100,6.9,0.8
+980967,2016-05-06,"Rajiv Gandhi Intl Stadium, Hyderabad",19,30.8,49,16,6.6,0.0
+980969,2016-05-07,"M Chinnaswamy Stadium, Bengaluru",19,22.9,87,89,9.6,1.3
+980971,2016-05-07,"PCA Stadium, Mohali",19,32.1,30,42,7.4,0.0
+980973,2016-05-08,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,30.3,74,22,11.7,0.0
+980975,2016-05-08,"Eden Gardens, Kolkata",19,29.3,75,100,11.2,0.0
+980977,2016-05-09,"PCA Stadium, Mohali",19,32.2,38,94,2.3,0.0
+980979,2016-05-10,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,30.3,72,11,15.9,0.0
+980981,2016-05-11,"M Chinnaswamy Stadium, Bengaluru",19,27.1,53,96,4.7,0.0
+980983,2016-05-12,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.7,41,21,5.8,0.0
+980985,2016-05-13,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,30.7,78,8,19.0,0.0
+980989,2016-05-14,"Eden Gardens, Kolkata",19,30.3,75,41,18.7,0.0
+980987,2016-05-14,"M Chinnaswamy Stadium, Bengaluru",19,26.0,70,94,3.2,0.0
+980993,2016-05-15,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,30.2,78,1,17.8,0.0
+980991,2016-05-15,"PCA Stadium, Mohali",19,35.2,17,0,8.6,0.0
+980995,2016-05-16,"Eden Gardens, Kolkata",19,30.4,72,91,21.5,0.0
+980997,2016-05-17,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,29.5,78,100,14.8,0.0
+980999,2016-05-18,"M Chinnaswamy Stadium, Bengaluru",19,23.1,91,100,11.8,1.0
+981001,2016-05-19,Green Park,19,36.6,32,2,12.6,0.0
+981003,2016-05-20,Shaheed Veer Narayan Singh International Stadium,19,36.7,30,100,6.9,0.0
+981005,2016-05-21,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,30.9,79,72,22.3,0.0
+981007,2016-05-21,Green Park,19,36.5,39,78,14.0,0.0
+981009,2016-05-22,"Eden Gardens, Kolkata",19,30.5,80,3,11.8,0.0
+981011,2016-05-22,Shaheed Veer Narayan Singh International Stadium,19,38.6,19,16,9.3,0.0
+981013,2016-05-24,"M Chinnaswamy Stadium, Bengaluru",19,28.3,48,38,11.6,0.0
+981015,2016-05-25,"Arun Jaitley Stadium, Delhi",19,31.1,51,16,4.6,0.0
+981017,2016-05-27,"Arun Jaitley Stadium, Delhi",19,36.5,30,0,10.3,0.0
+981019,2016-05-29,"M Chinnaswamy Stadium, Bengaluru",19,23.9,81,19,9.9,0.0
+1082591,2017-04-05,"Rajiv Gandhi Intl Stadium, Hyderabad",19,30.5,46,44,12.6,0.0
+1082592,2017-04-06,Maharashtra Cricket Association Stadium,19,27.6,50,0,14.1,0.0
+1082593,2017-04-07,Saurashtra Cricket Association Stadium,19,27.4,16,0,12.0,0.0
+1082594,2017-04-08,"Holkar Stadium, Indore",19,28.7,11,0,9.2,0.0
+1082595,2017-04-08,"M Chinnaswamy Stadium, Bengaluru",19,29.1,36,65,4.9,0.0
+1082597,2017-04-09,"Wankhede Stadium, Mumbai",19,28.9,58,0,18.7,0.0
+1082596,2017-04-09,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.7,34,8,9.7,0.0
+1082598,2017-04-10,"Holkar Stadium, Indore",19,27.5,11,0,9.1,0.0
+1082599,2017-04-11,Maharashtra Cricket Association Stadium,19,29.9,35,2,15.3,0.0
+1082600,2017-04-12,"Wankhede Stadium, Mumbai",19,27.8,76,1,6.2,0.0
+1082601,2017-04-13,"Eden Gardens, Kolkata",19,28.9,63,7,13.0,0.0
+1082602,2017-04-14,"M Chinnaswamy Stadium, Bengaluru",19,28.0,20,96,8.6,0.0
+1082603,2017-04-14,Saurashtra Cricket Association Stadium,19,33.8,10,0,15.8,0.0
+1082604,2017-04-15,"Eden Gardens, Kolkata",19,27.7,72,0,19.3,0.0
+1082605,2017-04-15,"Arun Jaitley Stadium, Delhi",19,34.6,17,0,11.3,0.0
+1082606,2017-04-16,"Wankhede Stadium, Mumbai",19,28.5,68,5,21.2,0.0
+1082607,2017-04-16,"M Chinnaswamy Stadium, Bengaluru",19,29.0,33,57,8.4,0.0
+1082608,2017-04-17,"Arun Jaitley Stadium, Delhi",19,36.2,27,0,9.3,0.0
+1082609,2017-04-17,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.0,19,9,10.8,0.0
+1082610,2017-04-18,Saurashtra Cricket Association Stadium,19,31.0,34,0,14.0,0.0
+1082611,2017-04-19,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.1,27,12,8.5,0.0
+1082612,2017-04-20,"Holkar Stadium, Indore",19,33.2,21,0,15.5,0.0
+1082613,2017-04-21,"Eden Gardens, Kolkata",19,29.1,80,88,18.1,0.1
+1082614,2017-04-22,"Wankhede Stadium, Mumbai",19,28.6,74,57,16.1,0.0
+1082615,2017-04-22,Maharashtra Cricket Association Stadium,19,27.5,47,0,15.5,0.0
+1082617,2017-04-23,"Eden Gardens, Kolkata",19,29.0,83,47,11.4,0.3
+1082616,2017-04-23,Saurashtra Cricket Association Stadium,19,29.5,41,0,18.9,0.0
+1082618,2017-04-24,"Wankhede Stadium, Mumbai",19,27.7,76,7,11.5,0.0
+1082620,2017-04-26,Maharashtra Cricket Association Stadium,19,28.0,60,0,15.3,0.0
+1082621,2017-04-27,"M Chinnaswamy Stadium, Bengaluru",19,28.7,43,61,6.9,0.0
+1082622,2017-04-28,"Eden Gardens, Kolkata",19,28.2,78,14,17.7,0.0
+1082623,2017-04-28,"PCA Stadium, Mohali",19,29.2,25,6,10.4,0.0
+1082624,2017-04-29,Maharashtra Cricket Association Stadium,19,28.6,39,2,15.0,0.0
+1082626,2017-04-30,"PCA Stadium, Mohali",19,26.6,38,7,6.5,0.0
+1082627,2017-04-30,"Rajiv Gandhi Intl Stadium, Hyderabad",19,28.5,43,10,5.6,0.0
+1082628,2017-05-01,"Wankhede Stadium, Mumbai",19,27.4,83,5,13.8,0.0
+1082629,2017-05-01,Maharashtra Cricket Association Stadium,19,27.1,59,0,14.5,0.0
+1082630,2017-05-02,"Arun Jaitley Stadium, Delhi",19,33.8,20,94,12.1,0.0
+1082631,2017-05-03,"Eden Gardens, Kolkata",19,29.8,70,31,12.6,0.0
+1082632,2017-05-04,"Arun Jaitley Stadium, Delhi",19,33.0,20,60,14.1,0.0
+1082633,2017-05-05,"M Chinnaswamy Stadium, Bengaluru",19,28.5,46,32,9.3,0.0
+1082635,2017-05-06,"Arun Jaitley Stadium, Delhi",19,35.6,20,93,13.5,0.0
+1082634,2017-05-06,"Rajiv Gandhi Intl Stadium, Hyderabad",19,30.8,42,45,6.0,0.0
+1082637,2017-05-07,"PCA Stadium, Mohali",19,34.2,18,99,10.5,0.0
+1082636,2017-05-07,"M Chinnaswamy Stadium, Bengaluru",19,27.5,46,84,14.8,0.0
+1082638,2017-05-08,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.2,35,97,4.1,0.0
+1082639,2017-05-09,"PCA Stadium, Mohali",19,31.6,34,87,6.9,0.0
+1082640,2017-05-10,Green Park,19,33.5,38,74,4.0,0.0
+1082641,2017-05-11,"Wankhede Stadium, Mumbai",19,28.7,84,3,16.5,0.0
+1082642,2017-05-12,"Arun Jaitley Stadium, Delhi",19,31.5,48,3,7.2,0.0
+1082643,2017-05-13,Green Park,19,34.6,29,0,9.5,0.0
+1082644,2017-05-13,"Eden Gardens, Kolkata",19,30.0,70,21,11.9,0.0
+1082645,2017-05-14,Maharashtra Cricket Association Stadium,19,29.6,59,84,13.8,0.0
+1082646,2017-05-14,"Arun Jaitley Stadium, Delhi",19,36.0,21,0,13.6,0.0
+1082647,2017-05-16,"Wankhede Stadium, Mumbai",19,29.0,82,0,15.1,0.0
+1082648,2017-05-17,"M Chinnaswamy Stadium, Bengaluru",19,24.4,73,90,16.7,0.2
+1082649,2017-05-19,"M Chinnaswamy Stadium, Bengaluru",19,25.5,71,23,5.8,0.0
+1082650,2017-05-21,"Rajiv Gandhi Intl Stadium, Hyderabad",19,35.9,20,17,4.3,0.0
+1136561,2018-04-07,"Wankhede Stadium, Mumbai",19,27.6,79,10,12.5,0.0
+1136562,2018-04-08,"PCA Stadium, Mohali",19,26.2,48,99,6.9,0.0
+1136563,2018-04-08,"Eden Gardens, Kolkata",19,27.0,63,86,8.4,0.0
+1136564,2018-04-09,"Rajiv Gandhi Intl Stadium, Hyderabad",19,25.8,60,14,4.3,0.0
+1136565,2018-04-10,"MA Chidambaram Stadium, Chennai",19,28.6,78,10,15.1,0.0
+1136566,2018-04-11,"Sawai Mansingh Stadium, Jaipur",19,28.5,36,70,13.5,0.0
+1136567,2018-04-12,"Rajiv Gandhi Intl Stadium, Hyderabad",19,29.1,46,11,3.6,0.0
+1136568,2018-04-13,"M Chinnaswamy Stadium, Bengaluru",19,27.5,40,92,10.6,0.0
+1136569,2018-04-14,"Wankhede Stadium, Mumbai",19,27.6,83,56,18.6,0.0
+1136570,2018-04-14,"Eden Gardens, Kolkata",19,28.2,83,45,16.6,0.0
+1136571,2018-04-15,"M Chinnaswamy Stadium, Bengaluru",19,27.6,46,84,12.5,0.0
+1136572,2018-04-15,"PCA Stadium, Mohali",19,27.4,30,81,7.6,0.0
+1136573,2018-04-16,"Eden Gardens, Kolkata",19,28.4,79,2,10.4,0.0
+1136574,2018-04-17,"Wankhede Stadium, Mumbai",19,29.1,88,39,16.1,0.0
+1136575,2018-04-18,"Sawai Mansingh Stadium, Jaipur",19,32.0,17,0,13.3,0.0
+1136576,2018-04-19,"PCA Stadium, Mohali",19,28.6,28,17,10.1,0.0
+1136577,2018-04-20,Maharashtra Cricket Association Stadium,19,27.6,49,0,12.3,0.0
+1136579,2018-04-21,"M Chinnaswamy Stadium, Bengaluru",19,27.8,50,85,4.3,0.0
+1136578,2018-04-21,"Eden Gardens, Kolkata",19,29.3,81,70,17.3,0.0
+1136580,2018-04-22,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.0,41,19,5.6,0.0
+1136581,2018-04-22,"Sawai Mansingh Stadium, Jaipur",19,29.4,11,0,12.9,0.0
+1136582,2018-04-23,"Arun Jaitley Stadium, Delhi",19,30.8,19,0,6.7,0.0
+1136583,2018-04-24,"Wankhede Stadium, Mumbai",19,28.5,75,1,15.3,0.0
+1136584,2018-04-25,"M Chinnaswamy Stadium, Bengaluru",19,25.4,69,73,10.1,0.0
+1136586,2018-04-27,"Arun Jaitley Stadium, Delhi",19,30.8,47,7,17.2,0.0
+1136587,2018-04-28,Maharashtra Cricket Association Stadium,19,28.4,60,1,16.2,0.0
+1136588,2018-04-29,"Sawai Mansingh Stadium, Jaipur",19,36.0,13,53,6.5,0.0
+1136589,2018-04-29,"M Chinnaswamy Stadium, Bengaluru",19,27.5,51,54,8.1,0.0
+1136590,2018-04-30,Maharashtra Cricket Association Stadium,19,27.2,56,0,15.2,0.0
+1136591,2018-05-01,"M Chinnaswamy Stadium, Bengaluru",19,27.6,55,45,9.4,0.0
+1136592,2018-05-02,"Arun Jaitley Stadium, Delhi",19,24.0,80,100,22.6,2.5
+1136593,2018-05-03,"Eden Gardens, Kolkata",19,26.9,81,4,10.5,0.0
+1136594,2018-05-04,"Holkar Stadium, Indore",19,33.8,23,2,12.5,0.0
+1136596,2018-05-05,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.2,37,20,7.3,0.0
+1136595,2018-05-05,Maharashtra Cricket Association Stadium,19,29.2,58,0,17.3,0.0
+1136597,2018-05-06,"Wankhede Stadium, Mumbai",19,28.7,84,7,17.4,0.0
+1136598,2018-05-06,"Holkar Stadium, Indore",19,35.2,18,2,18.4,0.0
+1136599,2018-05-07,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.2,35,27,2.9,0.0
+1136600,2018-05-08,"Sawai Mansingh Stadium, Jaipur",19,30.4,26,39,6.2,0.0
+1136601,2018-05-09,"Eden Gardens, Kolkata",19,30.0,81,19,13.6,0.0
+1136602,2018-05-10,"Arun Jaitley Stadium, Delhi",19,32.7,31,0,12.1,0.0
+1136603,2018-05-11,"Sawai Mansingh Stadium, Jaipur",19,35.5,14,16,8.0,0.0
+1136604,2018-05-12,"Holkar Stadium, Indore",19,35.1,15,0,18.7,0.0
+1136605,2018-05-12,"Arun Jaitley Stadium, Delhi",19,30.4,50,70,12.6,0.1
+1136606,2018-05-13,Maharashtra Cricket Association Stadium,19,30.0,55,28,12.1,0.0
+1136607,2018-05-13,"Wankhede Stadium, Mumbai",19,29.3,80,1,18.4,0.0
+1136608,2018-05-14,"Holkar Stadium, Indore",19,34.1,18,9,15.3,0.0
+1136609,2018-05-15,"Eden Gardens, Kolkata",19,28.0,81,29,14.0,0.0
+1136610,2018-05-16,"Wankhede Stadium, Mumbai",19,29.0,78,12,18.2,0.0
+1136611,2018-05-17,"M Chinnaswamy Stadium, Bengaluru",19,26.5,58,86,6.0,0.0
+1136612,2018-05-18,"Arun Jaitley Stadium, Delhi",19,33.0,35,0,9.3,0.0
+1136613,2018-05-19,"Sawai Mansingh Stadium, Jaipur",19,32.5,35,22,17.9,0.0
+1136614,2018-05-19,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.5,33,57,6.1,0.0
+1136615,2018-05-20,"Arun Jaitley Stadium, Delhi",19,35.2,23,2,10.0,0.0
+1136616,2018-05-20,Maharashtra Cricket Association Stadium,19,28.0,64,4,21.9,0.0
+1136617,2018-05-22,"Wankhede Stadium, Mumbai",19,29.2,76,2,12.3,0.0
+1136618,2018-05-23,"Eden Gardens, Kolkata",19,28.4,79,96,14.6,0.0
+1136619,2018-05-25,"Eden Gardens, Kolkata",19,29.2,78,8,22.2,0.0
+1136620,2018-05-27,"Wankhede Stadium, Mumbai",19,29.8,81,9,14.4,0.0
+1175356,2019-03-23,"MA Chidambaram Stadium, Chennai",19,27.5,83,0,16.6,0.0
+1175357,2019-03-24,"Eden Gardens, Kolkata",19,24.0,59,0,8.7,0.0
+1175358,2019-03-24,"Wankhede Stadium, Mumbai",19,29.4,47,0,24.8,0.0
+1175359,2019-03-25,"Sawai Mansingh Stadium, Jaipur",19,25.5,32,36,16.4,0.0
+1175360,2019-03-26,"Arun Jaitley Stadium, Delhi",19,24.2,52,0,8.7,0.0
+1175361,2019-03-27,"Eden Gardens, Kolkata",19,26.0,72,3,6.6,0.0
+1175362,2019-03-28,"M Chinnaswamy Stadium, Bengaluru",19,28.8,23,16,7.9,0.0
+1175363,2019-03-29,"Rajiv Gandhi Intl Stadium, Hyderabad",19,30.6,31,1,8.0,0.0
+1175364,2019-03-30,"PCA Stadium, Mohali",19,26.3,32,29,16.6,0.0
+1175367,2019-03-31,"MA Chidambaram Stadium, Chennai",19,28.4,86,0,21.5,0.0
+1175366,2019-03-31,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.5,26,35,8.0,0.0
+1175368,2019-04-01,"PCA Stadium, Mohali",19,24.4,46,0,12.2,0.0
+1175369,2019-04-02,"Sawai Mansingh Stadium, Jaipur",19,28.4,17,0,9.1,0.0
+1175370,2019-04-03,"Wankhede Stadium, Mumbai",19,26.6,87,1,14.3,0.0
+1175371,2019-04-04,"Arun Jaitley Stadium, Delhi",19,31.1,33,0,9.7,0.0
+1175372,2019-04-05,"M Chinnaswamy Stadium, Bengaluru",19,29.6,23,21,13.4,0.0
+1178393,2019-04-06,"MA Chidambaram Stadium, Chennai",19,28.1,86,8,16.4,0.0
+1178394,2019-04-06,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.5,29,18,7.8,0.0
+1178395,2019-04-07,"M Chinnaswamy Stadium, Bengaluru",19,30.5,21,84,8.1,0.0
+1178396,2019-04-07,"Sawai Mansingh Stadium, Jaipur",19,30.9,30,56,7.2,0.0
+1178397,2019-04-08,"PCA Stadium, Mohali",19,24.9,56,7,9.8,0.0
+1178398,2019-04-09,"MA Chidambaram Stadium, Chennai",19,29.0,83,32,19.5,0.0
+1178399,2019-04-10,"Wankhede Stadium, Mumbai",19,27.4,85,0,15.7,0.0
+1178400,2019-04-11,"Sawai Mansingh Stadium, Jaipur",19,32.5,22,8,18.0,0.0
+1178401,2019-04-12,"Eden Gardens, Kolkata",19,28.5,81,43,13.2,0.0
+1178403,2019-04-13,"PCA Stadium, Mohali",19,27.0,45,77,9.2,0.0
+1178402,2019-04-13,"Wankhede Stadium, Mumbai",19,29.6,61,1,23.2,0.0
+1178404,2019-04-14,"Eden Gardens, Kolkata",19,28.7,82,6,18.8,0.0
+1178405,2019-04-14,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.2,30,21,7.4,0.0
+1178406,2019-04-15,"Wankhede Stadium, Mumbai",19,28.8,75,0,11.9,0.0
+1178407,2019-04-16,"PCA Stadium, Mohali",19,24.1,53,100,8.6,0.0
+1178408,2019-04-17,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.0,39,19,4.7,0.0
+1178409,2019-04-18,"Arun Jaitley Stadium, Delhi",19,24.3,65,23,7.3,0.0
+1178410,2019-04-19,"Eden Gardens, Kolkata",19,27.2,76,8,6.6,0.0
+1178411,2019-04-20,"Sawai Mansingh Stadium, Jaipur",19,28.5,30,0,9.6,0.0
+1178412,2019-04-20,"Arun Jaitley Stadium, Delhi",19,29.4,35,8,6.1,0.0
+1178413,2019-04-21,"Rajiv Gandhi Intl Stadium, Hyderabad",19,30.4,32,18,7.2,0.0
+1178414,2019-04-21,"M Chinnaswamy Stadium, Bengaluru",19,28.4,50,64,5.6,0.0
+1178415,2019-04-22,"Sawai Mansingh Stadium, Jaipur",19,33.5,15,8,11.9,0.0
+1178416,2019-04-23,"MA Chidambaram Stadium, Chennai",19,29.5,78,8,12.7,0.0
+1178417,2019-04-24,"M Chinnaswamy Stadium, Bengaluru",19,27.9,37,37,10.2,0.0
+1178418,2019-04-25,"Eden Gardens, Kolkata",19,28.6,74,2,14.2,0.0
+1178419,2019-04-26,"MA Chidambaram Stadium, Chennai",19,29.6,81,95,20.3,0.0
+1178420,2019-04-27,"Sawai Mansingh Stadium, Jaipur",19,34.6,15,0,7.6,0.0
+1178421,2019-04-28,"Arun Jaitley Stadium, Delhi",19,34.7,17,0,11.3,0.0
+1178422,2019-04-28,"Eden Gardens, Kolkata",19,29.1,81,3,21.2,0.0
+1178423,2019-04-29,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.3,33,21,6.1,0.0
+1178425,2019-05-01,"MA Chidambaram Stadium, Chennai",19,30.1,75,100,14.2,0.0
+1178427,2019-05-03,"PCA Stadium, Mohali",19,29.9,21,1,15.0,0.0
+1178428,2019-05-04,"Arun Jaitley Stadium, Delhi",19,33.4,13,0,15.8,0.0
+1178429,2019-05-04,"M Chinnaswamy Stadium, Bengaluru",19,28.5,41,99,5.8,0.0
+1178430,2019-05-05,"PCA Stadium, Mohali",19,30.1,19,7,10.1,0.0
+1178431,2019-05-05,"Wankhede Stadium, Mumbai",19,28.0,78,0,14.2,0.0
+1181764,2019-05-07,"MA Chidambaram Stadium, Chennai",19,30.2,83,96,28.2,0.0
+1181766,2019-05-08,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,29.3,89,31,11.5,0.0
+1181767,2019-05-10,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,19,29.5,86,31,14.8,0.0
+1181768,2019-05-12,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.2,34,35,5.7,0.0
+1216492,2020-09-19,"Sheikh Zayed Stadium, Abu Dhabi",19,33.2,61,0,25.4,0.0
+1216534,2020-09-21,Dubai International Cricket Stadium,19,32.7,66,0,18.5,0.0
+1216496,2020-09-22,Sharjah Cricket Stadium,19,33.3,61,0,16.1,0.0
+1216508,2020-09-23,"Sheikh Zayed Stadium, Abu Dhabi",19,33.0,70,0,24.7,0.0
+1216510,2020-09-24,Dubai International Cricket Stadium,19,32.7,71,0,16.6,0.0
+1216539,2020-09-25,Dubai International Cricket Stadium,19,32.9,59,0,19.7,0.0
+1216545,2020-09-26,"Sheikh Zayed Stadium, Abu Dhabi",19,32.4,70,0,21.9,0.0
+1216527,2020-09-27,Sharjah Cricket Stadium,19,31.6,70,0,16.1,0.0
+1216532,2020-09-29,"Sheikh Zayed Stadium, Abu Dhabi",19,33.5,51,0,18.7,0.0
+1216504,2020-09-30,Dubai International Cricket Stadium,19,33.6,44,0,15.5,0.0
+1216503,2020-10-01,"Sheikh Zayed Stadium, Abu Dhabi",19,33.8,35,0,15.1,0.0
+1216516,2020-10-02,Dubai International Cricket Stadium,19,32.0,69,0,17.1,0.0
+1216515,2020-10-03,Sharjah Cricket Stadium,19,31.4,68,2,17.1,0.0
+1216514,2020-10-03,"Sheikh Zayed Stadium, Abu Dhabi",19,31.8,65,0,19.7,0.0
+1216538,2020-10-04,Sharjah Cricket Stadium,19,32.0,66,3,20.0,0.0
+1216513,2020-10-04,Dubai International Cricket Stadium,19,32.0,68,6,20.0,0.0
+1216519,2020-10-05,Dubai International Cricket Stadium,19,32.5,58,0,21.3,0.0
+1216511,2020-10-06,"Sheikh Zayed Stadium, Abu Dhabi",19,32.7,58,0,21.4,0.0
+1216501,2020-10-07,"Sheikh Zayed Stadium, Abu Dhabi",19,32.8,61,0,24.1,0.0
+1216542,2020-10-08,Dubai International Cricket Stadium,19,32.3,64,1,21.9,0.0
+1216500,2020-10-09,Sharjah Cricket Stadium,19,31.9,62,10,18.6,0.0
+1216523,2020-10-10,"Sheikh Zayed Stadium, Abu Dhabi",19,31.9,48,0,24.5,0.0
+1216525,2020-10-10,Dubai International Cricket Stadium,19,32.3,44,1,20.0,0.0
+1216529,2020-10-11,"Sheikh Zayed Stadium, Abu Dhabi",19,31.2,50,1,21.7,0.0
+1216507,2020-10-11,Dubai International Cricket Stadium,19,31.6,51,2,21.1,0.0
+1216540,2020-10-12,Sharjah Cricket Stadium,19,32.0,57,1,18.1,0.0
+1216528,2020-10-13,Dubai International Cricket Stadium,19,31.4,52,0,25.8,0.0
+1216543,2020-10-14,Dubai International Cricket Stadium,19,30.8,43,0,21.3,0.0
+1216531,2020-10-15,Sharjah Cricket Stadium,19,30.8,40,0,23.3,0.0
+1216526,2020-10-16,"Sheikh Zayed Stadium, Abu Dhabi",19,30.7,40,0,20.3,0.0
+1216509,2020-10-17,Sharjah Cricket Stadium,19,30.5,40,0,18.1,0.0
+1216522,2020-10-17,Dubai International Cricket Stadium,19,30.5,44,0,20.0,0.0
+1216533,2020-10-19,"Sheikh Zayed Stadium, Abu Dhabi",19,29.5,56,0,21.4,0.0
+1216546,2020-10-20,Dubai International Cricket Stadium,19,29.4,57,0,16.9,0.0
+1216494,2020-10-21,"Sheikh Zayed Stadium, Abu Dhabi",19,30.2,47,0,17.5,0.0
+1216518,2020-10-22,Dubai International Cricket Stadium,19,29.5,61,0,14.6,0.0
+1216521,2020-10-23,Sharjah Cricket Stadium,19,28.8,58,0,16.7,0.0
+1216497,2020-10-24,"Sheikh Zayed Stadium, Abu Dhabi",19,29.7,46,0,18.4,0.0
+1216498,2020-10-24,Dubai International Cricket Stadium,19,29.8,54,0,18.1,0.0
+1216544,2020-10-25,Dubai International Cricket Stadium,19,29.7,51,0,18.9,0.0
+1216541,2020-10-25,"Sheikh Zayed Stadium, Abu Dhabi",19,30.0,45,0,17.5,0.0
+1216520,2020-10-26,Sharjah Cricket Stadium,19,28.6,55,0,17.0,0.0
+1216524,2020-10-27,Dubai International Cricket Stadium,19,28.8,37,0,13.5,0.0
+1216499,2020-10-28,"Sheikh Zayed Stadium, Abu Dhabi",19,28.8,42,0,17.9,0.0
+1216536,2020-10-29,Dubai International Cricket Stadium,19,29.0,58,0,14.1,0.0
+1216537,2020-10-30,"Sheikh Zayed Stadium, Abu Dhabi",19,28.4,66,0,18.3,0.0
+1216502,2020-10-31,Sharjah Cricket Stadium,19,28.6,62,0,17.0,0.0
+1216535,2020-10-31,Dubai International Cricket Stadium,19,28.6,60,0,19.2,0.0
+1216530,2020-11-01,Dubai International Cricket Stadium,19,28.2,64,0,14.5,0.0
+1216506,2020-11-01,"Sheikh Zayed Stadium, Abu Dhabi",19,28.1,69,0,16.5,0.0
+1216505,2020-11-02,"Sheikh Zayed Stadium, Abu Dhabi",19,28.8,57,0,17.1,0.0
+1216495,2020-11-03,Sharjah Cricket Stadium,19,28.6,60,0,19.5,0.0
+1237177,2020-11-05,Dubai International Cricket Stadium,19,28.3,57,0,12.9,0.0
+1237178,2020-11-06,"Sheikh Zayed Stadium, Abu Dhabi",19,28.8,50,0,12.3,0.0
+1237180,2020-11-08,"Sheikh Zayed Stadium, Abu Dhabi",19,28.9,62,25,16.9,0.0
+1237181,2020-11-10,Dubai International Cricket Stadium,19,28.2,68,0,17.7,0.0
+1254058,2021-04-09,"MA Chidambaram Stadium, Chennai",19,27.6,73,0,12.8,0.0
+1254059,2021-04-10,"Wankhede Stadium, Mumbai",19,27.8,81,13,9.7,0.0
+1254060,2021-04-11,"MA Chidambaram Stadium, Chennai",19,28.0,81,98,12.1,0.0
+1254061,2021-04-12,"Wankhede Stadium, Mumbai",19,29.7,68,20,17.0,0.0
+1254062,2021-04-13,"MA Chidambaram Stadium, Chennai",19,28.3,79,11,13.5,0.0
+1254063,2021-04-14,"MA Chidambaram Stadium, Chennai",19,28.0,83,87,12.3,0.0
+1254064,2021-04-15,"Wankhede Stadium, Mumbai",19,28.6,74,2,9.7,0.0
+1254065,2021-04-16,"Wankhede Stadium, Mumbai",19,27.9,76,3,22.2,0.0
+1254066,2021-04-17,"MA Chidambaram Stadium, Chennai",19,28.8,83,60,15.1,0.0
+1254067,2021-04-18,"MA Chidambaram Stadium, Chennai",19,28.6,87,52,18.5,0.0
+1254068,2021-04-18,"Wankhede Stadium, Mumbai",19,29.5,75,0,16.8,0.0
+1254069,2021-04-19,"Wankhede Stadium, Mumbai",19,28.4,80,0,13.8,0.0
+1254070,2021-04-20,"MA Chidambaram Stadium, Chennai",19,28.8,86,78,17.7,0.0
+1254071,2021-04-21,"MA Chidambaram Stadium, Chennai",19,28.8,85,10,19.7,0.0
+1254072,2021-04-21,"Wankhede Stadium, Mumbai",19,27.8,77,15,11.9,0.0
+1254073,2021-04-22,"Wankhede Stadium, Mumbai",19,28.4,78,73,20.2,0.0
+1254074,2021-04-23,"MA Chidambaram Stadium, Chennai",19,29.2,84,96,11.2,0.0
+1254075,2021-04-24,"Wankhede Stadium, Mumbai",19,28.2,78,55,17.1,0.0
+1254076,2021-04-25,"Wankhede Stadium, Mumbai",19,29.6,80,40,17.1,0.0
+1254078,2021-04-26,"Narendra Modi Stadium, Ahmedabad",19,37.5,12,39,12.0,0.0
+1254079,2021-04-27,"Narendra Modi Stadium, Ahmedabad",19,37.1,14,49,8.0,0.0
+1254080,2021-04-28,"Arun Jaitley Stadium, Delhi",19,35.6,13,1,11.6,0.0
+1254082,2021-04-29,"Narendra Modi Stadium, Ahmedabad",19,36.7,17,81,7.4,0.0
+1254081,2021-04-29,"Arun Jaitley Stadium, Delhi",19,34.2,23,56,17.6,0.0
+1254083,2021-04-30,"Narendra Modi Stadium, Ahmedabad",19,36.2,18,91,10.8,0.0
+1254084,2021-05-01,"Arun Jaitley Stadium, Delhi",19,34.0,24,92,9.6,0.0
+1254085,2021-05-02,"Arun Jaitley Stadium, Delhi",19,33.7,25,59,4.7,0.0
+1254086,2021-05-02,"Narendra Modi Stadium, Ahmedabad",19,35.5,19,25,7.4,0.0
+1254104,2021-09-19,Dubai International Cricket Stadium,19,34.9,52,9,23.7,0.0
+1254087,2021-09-20,"Sheikh Zayed Stadium, Abu Dhabi",19,34.0,56,1,20.6,0.0
+1254111,2021-09-21,Dubai International Cricket Stadium,19,33.1,71,2,20.8,0.0
+1254105,2021-09-22,Dubai International Cricket Stadium,19,33.3,54,0,13.8,0.0
+1254096,2021-09-23,"Sheikh Zayed Stadium, Abu Dhabi",19,33.5,52,0,16.9,0.0
+1254113,2021-09-24,Sharjah Cricket Stadium,19,33.6,61,35,15.6,0.0
+1254107,2021-09-25,Sharjah Cricket Stadium,19,33.0,63,0,17.2,0.0
+1254097,2021-09-25,"Sheikh Zayed Stadium, Abu Dhabi",19,33.6,58,1,17.5,0.0
+1254108,2021-09-26,Dubai International Cricket Stadium,19,33.7,61,2,22.1,0.0
+1254098,2021-09-26,"Sheikh Zayed Stadium, Abu Dhabi",19,34.1,52,44,27.5,0.0
+1254100,2021-09-27,Dubai International Cricket Stadium,19,32.8,57,30,17.1,0.0
+1254099,2021-09-28,"Sheikh Zayed Stadium, Abu Dhabi",19,32.6,64,32,25.6,0.0
+1254092,2021-09-28,Sharjah Cricket Stadium,19,33.2,64,49,18.2,0.0
+1254103,2021-09-29,Dubai International Cricket Stadium,19,32.8,63,44,18.4,0.0
+1254091,2021-09-30,Sharjah Cricket Stadium,19,32.3,69,23,17.8,0.0
+1254102,2021-10-01,Dubai International Cricket Stadium,19,32.2,74,0,19.2,0.0
+1254089,2021-10-02,"Sheikh Zayed Stadium, Abu Dhabi",19,32.9,71,94,19.3,0.0
+1254112,2021-10-02,Sharjah Cricket Stadium,19,32.5,72,58,13.7,0.0
+1254090,2021-10-03,Sharjah Cricket Stadium,19,33.0,49,97,27.3,0.0
+1254109,2021-10-03,Dubai International Cricket Stadium,19,33.2,46,98,28.6,0.0
+1254110,2021-10-04,Dubai International Cricket Stadium,19,32.4,60,100,10.8,0.0
+1254093,2021-10-05,Sharjah Cricket Stadium,19,32.3,68,5,16.9,0.0
+1254095,2021-10-06,"Sheikh Zayed Stadium, Abu Dhabi",19,33.0,57,0,21.1,0.0
+1254094,2021-10-07,Dubai International Cricket Stadium,19,33.0,51,0,20.2,0.0
+1254106,2021-10-07,Sharjah Cricket Stadium,19,32.3,61,0,18.9,0.0
+1254101,2021-10-08,Dubai International Cricket Stadium,19,32.2,70,0,16.3,0.0
+1254088,2021-10-08,"Sheikh Zayed Stadium, Abu Dhabi",19,32.4,67,0,18.5,0.0
+1254114,2021-10-10,Dubai International Cricket Stadium,19,33.0,55,0,15.6,0.0
+1254115,2021-10-11,Sharjah Cricket Stadium,19,32.7,59,0,19.3,0.0
+1254116,2021-10-13,Sharjah Cricket Stadium,19,32.3,52,0,11.7,0.0
+1254117,2021-10-15,Dubai International Cricket Stadium,19,31.2,67,0,13.6,0.0
+1304047,2022-03-26,"Wankhede Stadium, Mumbai",19,26.8,84,20,12.6,0.0
+1304049,2022-03-27,"DY Patil Stadium, Mumbai",19,28.1,70,46,6.6,0.0
+1304048,2022-03-27,"Brabourne Stadium, Mumbai",19,27.1,84,19,18.6,0.0
+1304050,2022-03-28,"Wankhede Stadium, Mumbai",19,27.4,83,2,16.1,0.0
+1304051,2022-03-29,"MCA Stadium, Pune",19,31.6,25,0,19.3,0.0
+1304052,2022-03-30,"DY Patil Stadium, Mumbai",19,28.5,61,0,7.0,0.0
+1304053,2022-03-31,"Brabourne Stadium, Mumbai",19,26.6,80,0,9.5,0.0
+1304054,2022-04-01,"Wankhede Stadium, Mumbai",19,26.8,87,0,16.1,0.0
+1304055,2022-04-02,"DY Patil Stadium, Mumbai",19,27.0,78,43,8.9,0.0
+1304056,2022-04-02,"MCA Stadium, Pune",19,28.1,54,0,16.3,0.0
+1304057,2022-04-03,"Brabourne Stadium, Mumbai",19,27.7,77,11,16.7,0.0
+1304058,2022-04-04,"DY Patil Stadium, Mumbai",19,27.8,84,2,10.8,0.0
+1304059,2022-04-05,"Wankhede Stadium, Mumbai",19,27.9,84,9,14.1,0.0
+1304060,2022-04-06,"MCA Stadium, Pune",19,28.4,63,16,18.3,0.0
+1304061,2022-04-07,"DY Patil Stadium, Mumbai",19,28.4,81,17,10.2,0.0
+1304062,2022-04-08,"Brabourne Stadium, Mumbai",19,28.0,88,4,9.1,0.0
+1304063,2022-04-09,"DY Patil Stadium, Mumbai",19,28.4,81,7,10.1,0.0
+1304064,2022-04-09,"MCA Stadium, Pune",19,28.4,58,12,17.6,0.0
+1304066,2022-04-10,"Wankhede Stadium, Mumbai",19,28.3,75,95,15.1,0.0
+1304065,2022-04-10,"Brabourne Stadium, Mumbai",19,28.3,75,95,15.1,0.0
+1304067,2022-04-11,"DY Patil Stadium, Mumbai",19,28.6,72,20,9.7,0.0
+1304068,2022-04-12,"DY Patil Stadium, Mumbai",19,30.1,58,3,12.1,0.0
+1304069,2022-04-13,"MCA Stadium, Pune",19,32.2,32,100,15.1,0.0
+1304070,2022-04-14,"DY Patil Stadium, Mumbai",19,28.5,80,1,12.8,0.0
+1304071,2022-04-15,"Brabourne Stadium, Mumbai",19,27.9,75,0,11.2,0.0
+1304072,2022-04-16,"Brabourne Stadium, Mumbai",19,27.6,82,0,12.2,0.0
+1304073,2022-04-16,"Wankhede Stadium, Mumbai",19,27.6,82,0,12.2,0.0
+1304074,2022-04-17,"DY Patil Stadium, Mumbai",19,28.0,75,9,10.0,0.0
+1304075,2022-04-17,"MCA Stadium, Pune",19,28.6,45,0,18.6,0.0
+1304076,2022-04-18,"Brabourne Stadium, Mumbai",19,28.2,76,5,16.8,0.0
+1304077,2022-04-19,"DY Patil Stadium, Mumbai",19,28.2,73,71,11.6,0.0
+1304078,2022-04-20,"Brabourne Stadium, Mumbai",19,30.2,70,13,22.6,0.0
+1304079,2022-04-21,"DY Patil Stadium, Mumbai",19,33.3,36,33,6.7,0.0
+1304080,2022-04-22,"Wankhede Stadium, Mumbai",19,31.2,59,0,25.1,0.0
+1304082,2022-04-23,"Brabourne Stadium, Mumbai",19,30.1,80,3,9.4,0.0
+1304081,2022-04-23,"DY Patil Stadium, Mumbai",19,30.9,67,11,9.0,0.0
+1304083,2022-04-24,"Wankhede Stadium, Mumbai",19,29.2,80,0,15.1,0.0
+1304084,2022-04-25,"Wankhede Stadium, Mumbai",19,31.5,49,0,21.4,0.0
+1304085,2022-04-26,"MCA Stadium, Pune",19,32.0,33,7,19.3,0.0
+1304086,2022-04-27,"Wankhede Stadium, Mumbai",19,32.0,50,0,28.0,0.0
+1304087,2022-04-28,"Wankhede Stadium, Mumbai",19,29.7,82,0,14.2,0.0
+1304088,2022-04-29,"MCA Stadium, Pune",19,32.2,40,8,19.7,0.0
+1304089,2022-04-30,"Brabourne Stadium, Mumbai",19,29.0,82,0,14.3,0.0
+1304090,2022-04-30,"DY Patil Stadium, Mumbai",19,29.0,77,0,10.6,0.0
+1304091,2022-05-01,"Wankhede Stadium, Mumbai",19,29.0,84,14,17.8,0.0
+1304092,2022-05-01,"MCA Stadium, Pune",19,29.8,46,2,16.8,0.0
+1304093,2022-05-02,"Wankhede Stadium, Mumbai",19,29.7,76,25,10.5,0.0
+1304094,2022-05-03,"DY Patil Stadium, Mumbai",19,29.7,74,3,9.8,0.0
+1304095,2022-05-04,"MCA Stadium, Pune",19,29.9,50,0,16.9,0.0
+1304096,2022-05-05,"Brabourne Stadium, Mumbai",19,28.5,85,18,23.8,0.0
+1304097,2022-05-06,"Brabourne Stadium, Mumbai",19,28.8,79,7,17.2,0.0
+1304099,2022-05-07,"MCA Stadium, Pune",19,29.1,63,8,18.7,0.0
+1304098,2022-05-07,"Wankhede Stadium, Mumbai",19,29.1,81,8,18.9,0.0
+1304100,2022-05-08,"Wankhede Stadium, Mumbai",19,29.3,83,100,24.2,0.0
+1304101,2022-05-08,"DY Patil Stadium, Mumbai",19,30.0,76,100,11.8,0.0
+1304102,2022-05-09,"DY Patil Stadium, Mumbai",19,29.3,78,79,13.6,0.0
+1304103,2022-05-10,"MCA Stadium, Pune",19,27.0,72,100,19.9,0.0
+1304104,2022-05-11,"DY Patil Stadium, Mumbai",19,30.0,73,100,15.9,0.0
+1304105,2022-05-12,"Wankhede Stadium, Mumbai",19,29.4,76,100,13.0,0.0
+1304106,2022-05-13,"Brabourne Stadium, Mumbai",19,29.5,74,22,15.3,0.0
+1304107,2022-05-14,"MCA Stadium, Pune",19,28.6,52,15,15.6,0.0
+1304109,2022-05-15,"Brabourne Stadium, Mumbai",19,29.1,78,2,18.2,0.0
+1304108,2022-05-15,"Wankhede Stadium, Mumbai",19,29.1,78,2,18.2,0.0
+1304110,2022-05-16,"DY Patil Stadium, Mumbai",19,29.2,76,0,12.2,0.0
+1304111,2022-05-17,"Wankhede Stadium, Mumbai",19,29.1,79,7,14.2,0.0
+1304112,2022-05-18,"DY Patil Stadium, Mumbai",19,29.2,75,100,14.8,0.0
+1304113,2022-05-19,"Wankhede Stadium, Mumbai",19,29.2,75,100,17.5,0.0
+1304114,2022-05-20,"Brabourne Stadium, Mumbai",19,28.9,70,99,14.7,0.0
+1304115,2022-05-21,"Wankhede Stadium, Mumbai",19,29.8,67,48,17.2,0.0
+1304116,2022-05-22,"Wankhede Stadium, Mumbai",19,29.8,70,59,21.6,0.0
+1312197,2022-05-24,"Eden Gardens, Kolkata",19,27.5,84,24,4.3,0.0
+1312198,2022-05-25,"Eden Gardens, Kolkata",19,27.4,78,100,8.4,0.4
+1312199,2022-05-27,"Narendra Modi Stadium, Ahmedabad",19,35.7,28,0,25.7,0.0
+1312200,2022-05-29,"Narendra Modi Stadium, Ahmedabad",19,35.3,33,0,22.9,0.0
+1359475,2023-03-31,"Narendra Modi Stadium, Ahmedabad",19,30.0,29,26,11.3,0.0
+1359476,2023-04-01,"PCA Stadium, Mohali",19,17.0,88,100,15.9,5.4
+1359477,2023-04-01,"Ekana Stadium, Lucknow",19,22.3,65,4,5.7,0.0
+1359478,2023-04-02,"Rajiv Gandhi Intl Stadium, Hyderabad",19,28.0,42,2,6.0,0.0
+1359479,2023-04-02,"M Chinnaswamy Stadium, Bengaluru",19,26.8,39,20,4.0,0.0
+1359480,2023-04-03,"MA Chidambaram Stadium, Chennai",19,28.0,84,44,15.2,0.0
+1359481,2023-04-04,"Arun Jaitley Stadium, Delhi",19,23.1,59,0,11.2,0.0
+1359482,2023-04-05,"Barsapara Cricket Stadium, Guwahati",19,22.2,90,0,5.6,0.0
+1359483,2023-04-06,"Eden Gardens, Kolkata",19,28.8,42,27,9.5,0.0
+1359484,2023-04-07,"Ekana Stadium, Lucknow",19,26.5,25,0,8.0,0.0
+1359485,2023-04-08,"Barsapara Cricket Stadium, Guwahati",19,24.2,77,50,5.0,0.0
+1359486,2023-04-08,"Wankhede Stadium, Mumbai",19,29.1,69,16,10.7,0.0
+1359487,2023-04-09,"Narendra Modi Stadium, Ahmedabad",19,32.5,24,25,9.0,0.0
+1359488,2023-04-09,"Rajiv Gandhi Intl Stadium, Hyderabad",19,27.7,39,12,8.6,0.0
+1359489,2023-04-10,"M Chinnaswamy Stadium, Bengaluru",19,27.2,38,22,17.7,0.0
+1359490,2023-04-11,"Arun Jaitley Stadium, Delhi",19,30.5,21,39,14.1,0.0
+1359491,2023-04-12,"MA Chidambaram Stadium, Chennai",19,28.0,84,0,12.2,0.0
+1359492,2023-04-13,"PCA Stadium, Mohali",19,27.8,33,7,7.1,0.0
+1359493,2023-04-14,"Eden Gardens, Kolkata",19,32.5,46,1,10.1,0.0
+1359494,2023-04-15,"M Chinnaswamy Stadium, Bengaluru",19,28.1,25,100,16.2,0.0
+1359495,2023-04-15,"Ekana Stadium, Lucknow",19,34.3,16,100,7.8,0.0
+1359496,2023-04-16,"Wankhede Stadium, Mumbai",19,28.3,76,2,14.1,0.0
+1359497,2023-04-16,"Narendra Modi Stadium, Ahmedabad",19,34.8,16,83,10.8,0.0
+1359498,2023-04-17,"M Chinnaswamy Stadium, Bengaluru",19,28.6,24,4,14.3,0.0
+1359499,2023-04-18,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.2,24,15,8.0,0.0
+1359500,2023-04-19,"Sawai Mansingh Stadium, Jaipur",19,32.2,20,97,16.0,0.0
+1359501,2023-04-20,"PCA Stadium, Mohali",19,24.8,52,16,6.0,0.0
+1359502,2023-04-20,"Arun Jaitley Stadium, Delhi",19,28.4,41,100,11.6,0.0
+1359503,2023-04-21,"MA Chidambaram Stadium, Chennai",19,29.8,85,11,15.6,0.0
+1359504,2023-04-22,"Ekana Stadium, Lucknow",19,30.6,23,24,4.1,0.0
+1359505,2023-04-22,"Wankhede Stadium, Mumbai",19,27.5,78,0,16.3,0.0
+1359507,2023-04-23,"Eden Gardens, Kolkata",19,26.9,73,11,5.7,0.0
+1359506,2023-04-23,"M Chinnaswamy Stadium, Bengaluru",19,26.5,58,39,11.7,0.0
+1359508,2023-04-24,"Rajiv Gandhi Intl Stadium, Hyderabad",19,29.8,43,18,15.1,0.0
+1359509,2023-04-25,"Narendra Modi Stadium, Ahmedabad",19,34.5,11,94,8.1,0.0
+1359510,2023-04-26,"M Chinnaswamy Stadium, Bengaluru",19,27.2,51,94,2.8,0.0
+1359511,2023-04-27,"Sawai Mansingh Stadium, Jaipur",19,28.3,24,82,7.5,0.0
+1359512,2023-04-28,"PCA Stadium, Mohali",19,26.4,44,81,5.8,0.0
+1359513,2023-04-29,"Eden Gardens, Kolkata",19,28.4,77,15,6.7,0.0
+1359514,2023-04-29,"Arun Jaitley Stadium, Delhi",19,26.4,54,62,5.2,0.0
+1359515,2023-04-30,"MA Chidambaram Stadium, Chennai",19,28.9,80,26,16.1,0.0
+1359516,2023-04-30,"Wankhede Stadium, Mumbai",19,28.4,68,0,13.9,0.0
+1359517,2023-05-01,"Ekana Stadium, Lucknow",19,22.5,77,100,15.7,0.0
+1359518,2023-05-02,"Narendra Modi Stadium, Ahmedabad",19,29.7,48,65,8.1,0.0
+1359520,2023-05-03,"PCA Stadium, Mohali",19,22.2,69,16,3.0,0.0
+1359521,2023-05-04,"Rajiv Gandhi Intl Stadium, Hyderabad",19,26.2,73,20,7.0,0.0
+1359522,2023-05-05,"Sawai Mansingh Stadium, Jaipur",19,29.1,36,21,9.3,0.0
+1359523,2023-05-06,"MA Chidambaram Stadium, Chennai",19,28.4,84,100,6.4,0.7
+1359524,2023-05-06,"Arun Jaitley Stadium, Delhi",19,25.8,64,1,12.7,0.0
+1359526,2023-05-07,"Sawai Mansingh Stadium, Jaipur",19,31.2,20,82,6.4,0.0
+1359525,2023-05-07,"Narendra Modi Stadium, Ahmedabad",19,35.6,23,52,5.8,0.0
+1359527,2023-05-08,"Eden Gardens, Kolkata",19,30.5,67,3,10.6,0.0
+1359528,2023-05-09,"Wankhede Stadium, Mumbai",19,29.3,81,23,17.8,0.0
+1359529,2023-05-10,"MA Chidambaram Stadium, Chennai",19,29.2,80,100,11.2,0.0
+1359530,2023-05-11,"Eden Gardens, Kolkata",19,31.3,66,88,14.8,0.0
+1359531,2023-05-12,"Wankhede Stadium, Mumbai",19,29.6,83,0,15.4,0.0
+1359532,2023-05-13,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.0,20,100,16.0,0.0
+1359533,2023-05-13,"Arun Jaitley Stadium, Delhi",19,35.4,19,5,10.2,0.0
+1359534,2023-05-14,"Sawai Mansingh Stadium, Jaipur",19,33.9,21,86,15.6,0.0
+1359535,2023-05-14,"MA Chidambaram Stadium, Chennai",19,31.0,78,100,13.2,0.0
+1359536,2023-05-15,"Narendra Modi Stadium, Ahmedabad",19,35.8,33,0,16.4,0.0
+1359537,2023-05-16,"Ekana Stadium, Lucknow",19,33.8,23,5,7.8,0.0
+1359538,2023-05-17,"HPCA Stadium, Dharamsala",19,21.3,68,6,4.8,0.0
+1359539,2023-05-18,"Rajiv Gandhi Intl Stadium, Hyderabad",19,29.8,49,23,7.4,0.0
+1359540,2023-05-19,"HPCA Stadium, Dharamsala",19,19.8,70,8,4.8,0.0
+1359541,2023-05-20,"Arun Jaitley Stadium, Delhi",19,35.2,19,0,9.7,0.0
+1359542,2023-05-20,"Eden Gardens, Kolkata",19,30.2,73,2,19.9,0.0
+1359543,2023-05-21,"Wankhede Stadium, Mumbai",19,29.3,75,7,16.0,0.0
+1359544,2023-05-21,"M Chinnaswamy Stadium, Bengaluru",19,22.5,87,100,13.1,0.1
+1370350,2023-05-23,"MA Chidambaram Stadium, Chennai",19,29.6,88,18,18.9,0.0
+1370351,2023-05-24,"MA Chidambaram Stadium, Chennai",19,30.1,84,74,15.9,0.0
+1370352,2023-05-26,"Narendra Modi Stadium, Ahmedabad",19,34.5,40,7,26.9,0.0
+1370353,2023-05-29,"Narendra Modi Stadium, Ahmedabad",19,29.3,63,93,3.8,0.0
+1422119,2024-03-22,"MA Chidambaram Stadium, Chennai",19,27.9,76,0,12.0,0.0
+1422120,2024-03-23,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",19,23.6,36,100,12.7,0.0
+1422121,2024-03-23,"Eden Gardens, Kolkata",19,23.5,84,0,9.4,0.0
+1422122,2024-03-24,"Sawai Mansingh Stadium, Jaipur",19,27.6,34,3,22.5,0.0
+1422123,2024-03-24,"Narendra Modi Stadium, Ahmedabad",19,31.4,23,29,8.2,0.0
+1422124,2024-03-25,"M Chinnaswamy Stadium, Bengaluru",19,29.1,28,14,14.4,0.0
+1422125,2024-03-26,"MA Chidambaram Stadium, Chennai",19,27.6,73,0,10.7,0.0
+1422126,2024-03-27,"Rajiv Gandhi Intl Stadium, Hyderabad",19,30.1,29,0,12.9,0.0
+1422127,2024-03-28,"Sawai Mansingh Stadium, Jaipur",19,32.8,20,87,6.8,0.0
+1422128,2024-03-29,"M Chinnaswamy Stadium, Bengaluru",19,29.5,29,2,12.9,0.0
+1422129,2024-03-30,"Ekana Stadium, Lucknow",19,26.1,59,3,14.6,0.0
+1422131,2024-03-31,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",19,27.5,80,3,11.2,0.0
+1422130,2024-03-31,"Narendra Modi Stadium, Ahmedabad",19,30.4,25,51,7.7,0.0
+1422132,2024-04-01,"Wankhede Stadium, Mumbai",19,26.9,73,0,14.5,0.0
+1422133,2024-04-02,"M Chinnaswamy Stadium, Bengaluru",19,30.8,20,72,13.2,0.0
+1422134,2024-04-03,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",19,28.5,80,6,11.1,0.0
+1422135,2024-04-04,"Narendra Modi Stadium, Ahmedabad",19,32.8,24,96,12.4,0.0
+1422136,2024-04-05,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.3,26,99,9.4,0.0
+1422137,2024-04-06,"Sawai Mansingh Stadium, Jaipur",19,28.4,20,12,7.6,0.0
+1422138,2024-04-07,"Wankhede Stadium, Mumbai",19,27.9,55,0,18.8,0.0
+1422139,2024-04-07,"Ekana Stadium, Lucknow",19,29.0,15,0,8.9,0.0
+1426260,2024-04-08,"MA Chidambaram Stadium, Chennai",19,29.0,80,0,14.9,0.0
+1426261,2024-04-09,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",19,26.0,24,98,10.7,0.0
+1426262,2024-04-10,"Sawai Mansingh Stadium, Jaipur",19,29.1,26,52,6.0,0.1
+1426263,2024-04-11,"Wankhede Stadium, Mumbai",19,27.5,74,99,15.5,0.0
+1426264,2024-04-12,"Ekana Stadium, Lucknow",19,31.1,25,46,7.6,0.0
+1426265,2024-04-13,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",19,25.6,46,100,9.1,0.0
+1426267,2024-04-14,"Wankhede Stadium, Mumbai",19,27.5,85,1,22.4,0.0
+1426266,2024-04-14,"Eden Gardens, Kolkata",19,28.6,65,15,8.0,0.0
+1426268,2024-04-15,"M Chinnaswamy Stadium, Bengaluru",19,29.5,36,89,15.9,0.0
+1426269,2024-04-16,"Eden Gardens, Kolkata",19,31.5,58,40,13.8,0.0
+1426270,2024-04-17,"Narendra Modi Stadium, Ahmedabad",19,37.8,18,11,16.1,0.0
+1426271,2024-04-18,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",19,25.7,42,9,8.6,0.0
+1426272,2024-04-19,"Ekana Stadium, Lucknow",19,32.8,22,0,8.3,0.0
+1426273,2024-04-20,"Arun Jaitley Stadium, Delhi",19,32.3,22,2,17.4,0.0
+1426274,2024-04-21,"Eden Gardens, Kolkata",19,32.7,62,29,21.2,0.0
+1426275,2024-04-21,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",19,26.1,33,1,8.4,0.0
+1426276,2024-04-22,"Sawai Mansingh Stadium, Jaipur",19,31.4,20,11,5.4,0.0
+1426277,2024-04-23,"MA Chidambaram Stadium, Chennai",19,29.9,71,0,14.5,0.0
+1426278,2024-04-24,"Arun Jaitley Stadium, Delhi",19,32.1,18,0,14.9,0.0
+1426279,2024-04-25,"Rajiv Gandhi Intl Stadium, Hyderabad",19,32.6,19,1,9.4,0.0
+1426280,2024-04-26,"Eden Gardens, Kolkata",19,31.9,73,0,12.8,0.0
+1426281,2024-04-27,"Arun Jaitley Stadium, Delhi",19,33.0,18,0,15.6,0.0
+1426282,2024-04-27,"Ekana Stadium, Lucknow",19,34.0,20,81,9.6,0.0
+1426283,2024-04-28,"Narendra Modi Stadium, Ahmedabad",19,33.6,18,0,11.5,0.0
+1426284,2024-04-28,"MA Chidambaram Stadium, Chennai",19,30.1,79,50,18.7,0.0
+1426285,2024-04-29,"Eden Gardens, Kolkata",19,32.6,60,1,20.7,0.0
+1426286,2024-04-30,"Ekana Stadium, Lucknow",19,33.0,15,0,12.6,0.0
+1426287,2024-05-01,"MA Chidambaram Stadium, Chennai",19,30.9,88,100,18.7,0.0
+1426288,2024-05-02,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.8,20,0,10.8,0.0
+1426289,2024-05-03,"Wankhede Stadium, Mumbai",19,28.1,80,0,17.9,0.0
+1426290,2024-05-04,"M Chinnaswamy Stadium, Bengaluru",19,29.8,45,100,15.5,0.0
+1426291,2024-05-05,"HPCA Stadium, Dharamsala",19,25.1,29,0,6.3,0.0
+1426292,2024-05-05,"Ekana Stadium, Lucknow",19,35.8,17,0,10.9,0.0
+1426293,2024-05-06,"Wankhede Stadium, Mumbai",19,28.1,83,7,13.7,0.0
+1426294,2024-05-07,"Arun Jaitley Stadium, Delhi",19,35.8,19,4,10.0,0.0
+1426295,2024-05-08,"Rajiv Gandhi Intl Stadium, Hyderabad",19,30.9,47,100,10.2,0.0
+1426296,2024-05-09,"HPCA Stadium, Dharamsala",19,24.5,43,0,4.2,0.0
+1426297,2024-05-10,"Narendra Modi Stadium, Ahmedabad",19,38.7,24,15,13.1,0.0
+1426298,2024-05-11,"Eden Gardens, Kolkata",19,26.4,85,12,11.9,0.0
+1426299,2024-05-12,"MA Chidambaram Stadium, Chennai",19,31.2,73,77,13.2,0.0
+1426300,2024-05-12,"M Chinnaswamy Stadium, Bengaluru",19,26.1,70,100,10.9,0.1
+1426302,2024-05-14,"Arun Jaitley Stadium, Delhi",19,33.5,19,0,9.3,0.0
+1426303,2024-05-15,"Barsapara Cricket Stadium, Guwahati",19,28.3,79,18,5.5,0.0
+1426305,2024-05-17,"Wankhede Stadium, Mumbai",19,30.1,75,27,12.9,0.0
+1426306,2024-05-18,"M Chinnaswamy Stadium, Bengaluru",19,24.8,78,100,3.5,0.0
+1426307,2024-05-19,"Rajiv Gandhi Intl Stadium, Hyderabad",19,26.0,88,100,3.4,0.1
+1426309,2024-05-21,"Narendra Modi Stadium, Ahmedabad",19,38.2,20,1,7.4,0.0
+1426310,2024-05-22,"Narendra Modi Stadium, Ahmedabad",19,39.2,16,0,9.0,0.0
+1426311,2024-05-24,"MA Chidambaram Stadium, Chennai",19,32.0,73,100,20.7,0.0
+1426312,2024-05-26,"MA Chidambaram Stadium, Chennai",19,34.0,52,100,14.4,0.0
+1473438,2025-03-22,"Eden Gardens, Kolkata",19,23.5,76,77,4.7,0.0
+1473439,2025-03-23,"Rajiv Gandhi Intl Stadium, Hyderabad",19,27.4,74,11,1.8,0.0
+1473440,2025-03-23,"MA Chidambaram Stadium, Chennai",19,29.3,74,38,14.5,0.0
+1473441,2025-03-24,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",19,27.6,76,3,8.9,0.0
+1473442,2025-03-25,"Narendra Modi Stadium, Ahmedabad",19,32.3,20,0,7.9,0.0
+1473443,2025-03-26,"Barsapara Cricket Stadium, Guwahati",19,25.8,75,1,1.0,0.0
+1473444,2025-03-27,"Rajiv Gandhi Intl Stadium, Hyderabad",19,31.9,28,0,7.2,0.0
+1473445,2025-03-28,"MA Chidambaram Stadium, Chennai",19,29.3,80,99,13.8,0.0
+1473446,2025-03-29,"Narendra Modi Stadium, Ahmedabad",19,29.2,9,0,8.3,0.0
+1473448,2025-03-30,"Barsapara Cricket Stadium, Guwahati",19,26.3,73,55,2.3,0.0
+1473447,2025-03-30,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",19,28.2,84,3,11.1,0.0
+1473449,2025-03-31,"Wankhede Stadium, Mumbai",19,31.3,41,47,12.3,0.0
+1473450,2025-04-01,"Ekana Stadium, Lucknow",19,30.1,13,54,6.5,0.0
+1473451,2025-04-02,"M Chinnaswamy Stadium, Bengaluru",19,28.4,41,21,12.5,0.0
+1473452,2025-04-03,"Eden Gardens, Kolkata",19,31.6,59,3,8.6,0.0
+1473453,2025-04-04,"Ekana Stadium, Lucknow",19,32.0,14,0,10.2,0.0
+1473454,2025-04-05,"MA Chidambaram Stadium, Chennai",19,29.5,70,52,8.8,0.0
+1473455,2025-04-05,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",19,28.1,22,0,12.0,0.0
+1473457,2025-04-06,"Rajiv Gandhi Intl Stadium, Hyderabad",19,28.2,55,4,5.1,0.0
+1473458,2025-04-07,"Wankhede Stadium, Mumbai",19,31.7,43,2,19.3,0.0
+1473456,2025-04-08,"Eden Gardens, Kolkata",19,28.0,64,10,9.8,0.0
+1473459,2025-04-08,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",19,31.1,22,91,5.9,0.0
+1473460,2025-04-09,"Narendra Modi Stadium, Ahmedabad",19,35.2,14,89,9.0,0.0
+1473461,2025-04-10,"M Chinnaswamy Stadium, Bengaluru",19,29.4,36,100,5.9,0.0
+1473462,2025-04-11,"MA Chidambaram Stadium, Chennai",19,29.5,83,19,9.1,0.0
+1473464,2025-04-12,"Rajiv Gandhi Intl Stadium, Hyderabad",19,33.3,18,7,6.2,0.0
+1473463,2025-04-12,"Ekana Stadium, Lucknow",19,27.7,56,0,4.8,0.0
+1473466,2025-04-13,"Arun Jaitley Stadium, Delhi",19,30.6,40,10,4.3,0.0
+1473465,2025-04-13,"Sawai Mansingh Stadium, Jaipur",19,31.5,25,0,11.8,0.0
+1473467,2025-04-14,"Ekana Stadium, Lucknow",19,28.2,50,1,7.7,0.0
+1473468,2025-04-15,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",19,28.3,47,1,6.6,0.0
+1473470,2025-04-17,"Wankhede Stadium, Mumbai",19,28.4,81,4,12.7,0.0
+1473471,2025-04-18,"M Chinnaswamy Stadium, Bengaluru",19,26.4,64,20,4.9,0.0
+1473472,2025-04-19,"Narendra Modi Stadium, Ahmedabad",19,34.4,14,0,21.0,0.0
+1473473,2025-04-19,"Sawai Mansingh Stadium, Jaipur",19,35.5,9,1,8.4,0.0
+1473474,2025-04-20,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",19,30.2,35,11,16.8,0.0
+1473475,2025-04-20,"Wankhede Stadium, Mumbai",19,28.8,78,0,14.5,0.0
+1473476,2025-04-21,"Eden Gardens, Kolkata",19,29.9,83,7,15.3,0.0
+1473477,2025-04-22,"Ekana Stadium, Lucknow",19,33.7,14,0,12.2,0.0
+1473478,2025-04-23,"Rajiv Gandhi Intl Stadium, Hyderabad",19,34.9,27,6,6.5,0.0
+1473479,2025-04-24,"M Chinnaswamy Stadium, Bengaluru",19,31.5,29,40,6.5,0.0
+1473480,2025-04-25,"MA Chidambaram Stadium, Chennai",19,30.1,79,0,16.1,0.0
+1473482,2025-04-27,"Wankhede Stadium, Mumbai",19,29.0,77,1,14.0,0.0
+1473483,2025-04-27,"Arun Jaitley Stadium, Delhi",19,36.2,11,0,0.8,0.0
+1473484,2025-04-28,"Sawai Mansingh Stadium, Jaipur",19,36.7,7,0,11.1,0.0
+1473485,2025-04-29,"Arun Jaitley Stadium, Delhi",19,34.5,26,0,8.3,0.0
+1473486,2025-04-30,"MA Chidambaram Stadium, Chennai",19,30.4,78,100,15.0,0.0
+1473487,2025-05-01,"Sawai Mansingh Stadium, Jaipur",19,34.8,14,17,7.1,0.0
+1473488,2025-05-02,"Narendra Modi Stadium, Ahmedabad",19,37.4,14,6,17.0,0.0
+1473489,2025-05-03,"M Chinnaswamy Stadium, Bengaluru",19,29.1,46,34,4.6,0.0
+1473490,2025-05-04,"Eden Gardens, Kolkata",19,26.0,86,100,6.3,0.1
+1473491,2025-05-04,"HPCA Stadium, Dharamsala",19,18.5,73,100,3.7,0.0
+1473493,2025-05-06,"Wankhede Stadium, Mumbai",19,28.0,81,99,11.3,0.0
+1473494,2025-05-07,"Eden Gardens, Kolkata",19,30.8,71,94,7.0,0.0
+1473497,2025-05-18,"Sawai Mansingh Stadium, Jaipur",19,37.6,15,0,7.4,0.0
+1473498,2025-05-18,"Arun Jaitley Stadium, Delhi",19,35.8,38,0,10.0,0.0
+1473499,2025-05-19,"Ekana Stadium, Lucknow",19,32.8,51,0,13.5,0.0
+1473500,2025-05-20,"Arun Jaitley Stadium, Delhi",19,36.5,44,1,10.7,0.0
+1473501,2025-05-21,"Wankhede Stadium, Mumbai",19,29.5,81,100,7.0,0.0
+1473502,2025-05-22,"Narendra Modi Stadium, Ahmedabad",19,37.2,38,3,3.1,0.0
+1473503,2025-05-23,"Ekana Stadium, Lucknow",19,32.3,49,12,13.5,0.0
+1485779,2025-05-24,"Sawai Mansingh Stadium, Jaipur",19,36.5,27,4,13.5,0.0
+1473504,2025-05-25,"Narendra Modi Stadium, Ahmedabad",19,37.5,35,4,1.5,0.0
+1473505,2025-05-25,"Arun Jaitley Stadium, Delhi",19,29.0,74,36,5.4,0.0
+1473506,2025-05-26,"Sawai Mansingh Stadium, Jaipur",19,34.5,38,0,12.0,0.0
+1473507,2025-05-27,"Ekana Stadium, Lucknow",19,33.7,51,6,9.9,0.0
+1473508,2025-05-29,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",19,34.6,25,1,6.4,0.0
+1473509,2025-05-30,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",19,32.8,30,11,8.0,0.0
+1473510,2025-06-01,"Narendra Modi Stadium, Ahmedabad",19,34.7,43,26,9.9,0.0
+1473511,2025-06-03,"Narendra Modi Stadium, Ahmedabad",19,33.3,46,41,20.2,0.0

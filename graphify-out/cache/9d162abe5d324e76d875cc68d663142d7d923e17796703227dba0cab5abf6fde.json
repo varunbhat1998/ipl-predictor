@@ -1,0 +1,1 @@
+{"nodes": [{"id": "tmp_check2_py", "label": "_tmp_check2.py", "file_type": "code", "source_file": "_tmp_check2.py", "source_location": "L1"}], "edges": [{"source": "tmp_check2_py", "target": "pandas", "relation": "imports", "confidence": "EXTRACTED", "source_file": "_tmp_check2.py", "source_location": "L1", "weight": 1.0}]}

@@ -1,0 +1,850 @@
+full_name,data_name,team_2026,role,home_venue,career_bat_innings,career_runs,career_balls_faced,career_bat_avg,career_bat_sr,career_fours,career_sixes,career_bowl_innings,career_balls_bowled,career_wickets,career_runs_conceded,career_econ,career_bowl_sr,form5_bat_innings,form5_runs,form5_bat_avg,form5_bat_sr,form5_boundary_pct,form5_bowl_innings,form5_wickets,form5_econ,form5_bowl_sr,form5_bowl_dot_pct,recent_bat_innings,recent_runs,recent_bat_avg,recent_bat_sr,recent_bowl_innings,recent_wickets,recent_econ,recent_bowl_sr,bat_score,bowl_score,overall_score
+Ruturaj Gaikwad,RD Gaikwad,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",70,2502,1820,35.74,137.47,231,95,,,,,,,5,122,24.4,150.62,22.2,,,,,,34,1295,38.09,144.85,,,,,89.7,0.0,71.8
+MS Dhoni,MS Dhoni,Chennai Super Kings,wk-batter,"MA Chidambaram Stadium, Chennai",241,5439,3957,22.57,137.45,375,264,,,,,,,5,62,12.4,108.77,10.5,,,,,,36,461,12.81,167.64,,,,,66.5,0.0,53.2
+Sanju Samson,SV Samson,Chennai Super Kings,wk-batter,"MA Chidambaram Stadium, Chennai",171,4704,3383,27.51,139.05,379,219,,,,,,,5,148,29.6,130.97,16.8,,,,,,38,1178,31.0,150.06,,,,,83.9,0.0,67.1
+Dewald Brevis,D Brevis,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",16,455,297,28.44,153.2,30,33,1,3,1,8,16.0,3.0,5,183,36.6,183.0,25.0,1,1,16.0,3.0,33.3,9,294,32.67,159.78,,,,,95.6,0.0,76.5
+Ayush Mhatre,A Mhatre,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",7,240,127,34.29,188.98,31,11,,,,,,,5,178,35.6,191.4,32.3,,,,,,7,240,34.29,188.98,,,,,106.6,0.0,85.3
+Kartik Sharma,Kartik Sharma,Chennai Super Kings,wk-batter,"MA Chidambaram Stadium, Chennai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Sarfaraz Khan,Sarfaraz Khan,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Urvil Patel,Urvil Patel,Chennai Super Kings,wk-batter,"MA Chidambaram Stadium, Chennai",3,68,32,22.67,212.5,5,6,,,,,,,3,68,22.67,212.5,34.4,,,,,,3,68,22.67,212.5,,,,,5.0,0.0,4.0
+Shivam Dube,S Dube,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",75,1859,1294,24.79,143.66,108,122,15,124,6,223,10.79,20.7,5,115,23.0,129.21,14.6,5,1,15.0,42.0,7.1,42,1171,27.88,150.51,2,1,15.67,18.0,79.2,9.5,44.4
+Jamie Overton,J Overton,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",2,15,7,7.5,214.29,1,1,3,36,0,84,14.0,,2,15,7.5,214.29,28.6,3,0,14.0,,25.0,2,15,7.5,214.29,3,0,14.0,,5.0,0.0,2.5
+Ramakrishna Ghosh,Ramakrishna Ghosh,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Prashant Veer,Prashant Veer,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Matthew Short,MW Short,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",6,117,92,19.5,127.17,15,4,3,24,0,25,6.25,,5,116,23.2,130.34,21.3,3,0,6.25,,45.8,6,117,19.5,127.17,3,0,6.25,,68.5,0.0,34.2
+Aman Khan,Aman Khan,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Zak Foulkes,Z Foulkes,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Anshul Kamboj,A Kamboj,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",6,16,14,2.67,114.29,2,0,11,189,10,288,9.14,18.9,5,14,2.8,116.67,16.7,5,5,8.74,16.2,37.0,6,16,2.67,114.29,11,10,9.14,18.9,41.7,35.7,36.9
+Khaleel Ahmed,KK Ahmed,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",6,2,9,0.33,22.22,0,0,71,1556,94,2372,9.15,16.6,5,2,0.4,25.0,0.0,5,3,11.05,29.3,46.6,1,1,1.0,50.0,37,43,9.69,18.1,12.2,30.8,27.1
+Noor Ahmad,Noor Ahmad,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",11,20,35,1.82,57.14,2,0,37,792,48,1088,8.24,16.5,5,7,1.4,46.67,0.0,5,10,8.53,11.4,35.1,11,20,1.82,57.14,37,48,8.24,16.5,20.1,58.6,50.9
+Mukesh Choudhary,Mukesh Choudhary,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",2,6,6,3.0,100.0,1,0,16,315,17,523,9.96,18.5,2,6,3.0,100.0,16.7,5,1,11.93,84.0,31.0,,,,,3,1,14.0,42.0,5.0,13.0,11.4
+Nathan Ellis,NT Ellis,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",5,19,25,3.8,76.0,0,1,17,378,20,553,8.78,18.9,5,19,3.8,76.0,4.0,5,5,8.45,24.0,29.2,2,1,0.5,14.29,12,15,8.8,18.4,20.2,45.2,40.2
+Shreyas Gopal,S Gopal,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",22,180,169,8.18,106.51,19,2,51,991,53,1358,8.22,18.7,5,45,9.0,115.38,15.4,5,4,10.0,16.5,28.8,,,,,3,3,9.57,14.0,47.7,32.6,35.6
+Gurjapneet Singh,Gurjapneet Singh,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Akeal Hosein,AJ Hosein,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",1,16,10,16.0,160.0,1,1,1,24,1,41,10.25,24.0,1,16,16.0,160.0,20.0,1,1,10.25,24.0,20.8,1,16,16.0,160.0,1,1,10.25,24.0,5.0,0.0,1.0
+Matt Henry,MJ Henry,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",,,,,,,,6,102,3,183,10.76,34.0,,,,,,5,1,10.86,84.0,31.0,,,,,4,1,9.33,72.0,5.0,11.1,9.9
+Rahul Chahar,RD Chahar,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",22,129,124,5.86,104.03,13,5,78,1670,76,2174,7.81,22.0,5,46,9.2,95.83,14.6,5,5,9.25,19.2,33.3,4,21,5.25,87.5,24,18,8.29,27.2,39.9,41.9,41.5
+Ajinkya Rahane,AM Rahane,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",183,5032,4025,27.5,125.02,515,123,1,6,1,5,5.0,6.0,5,169,33.8,146.96,20.0,1,1,5.0,6.0,33.3,35,958,27.37,147.61,,,,,83.6,0.0,66.9
+Angkrish Raghuvanshi,A Raghuvanshi,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",18,463,320,25.72,144.69,46,16,,,,,,,5,130,26.0,135.42,15.6,,,,,,18,463,25.72,144.69,,,,,79.6,0.0,63.7
+Manish Pandey,MK Pandey,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",161,3942,3244,24.48,121.52,340,115,,,,,,,5,134,26.8,135.35,14.1,,,,,,13,294,22.62,121.49,,,,,72.4,0.0,57.9
+Rinku Singh,RK Singh,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",51,1099,757,21.55,145.18,87,56,,,,,,,5,90,18.0,157.89,21.1,,,,,,36,848,23.56,150.35,,,,,77.0,0.0,61.6
+Sunil Narine,SP Narine,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",118,1780,1069,15.08,166.51,189,116,187,4345,212,5018,6.93,20.5,5,99,19.8,162.3,29.5,5,5,8.05,24.0,32.5,36,755,20.97,171.98,40,41,7.58,21.7,79.4,57.2,68.3
+Varun Chakaravarthy,CV Varun,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",11,26,47,2.36,55.32,2,0,83,1888,102,2432,7.73,18.5,5,4,0.8,33.33,0.0,5,7,9.79,16.3,34.2,3,2,0.67,20.0,41,58,8.16,15.8,13.1,52.4,44.5
+Harshit Rana,Harshit Rana,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",10,59,56,5.9,105.36,5,3,32,649,42,1047,9.68,15.5,5,48,9.6,123.08,17.9,5,4,12.18,25.5,31.4,8,57,7.12,105.56,30,41,9.64,15.1,46.3,32.5,35.3
+Umran Malik,Umran Malik,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",5,23,16,4.6,143.75,1,2,26,493,31,785,9.55,15.9,5,23,4.6,143.75,18.8,5,1,11.1,60.0,26.7,1,19,19.0,237.5,9,6,11.14,21.0,73.4,18.8,29.7
+Vaibhav Arora,VG Arora,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",9,9,24,1.0,37.5,0,0,32,638,39,1029,9.68,16.4,5,4,0.8,36.36,0.0,5,9,11.24,11.3,37.3,5,4,0.8,36.36,27,35,9.76,15.2,13.3,38.0,33.1
+Ramandeep Singh,Ramandeep Singh,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",20,217,137,10.85,158.39,9,17,4,40,6,64,9.6,6.7,5,19,3.8,135.71,14.3,4,6,9.6,6.7,30.0,16,172,10.75,177.32,1,0,13.5,,63.9,0.0,31.9
+Rovman Powell,R Powell,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",23,365,249,15.87,146.59,22,28,2,18,1,35,11.67,18.0,5,44,8.8,110.0,17.5,2,1,11.67,18.0,22.2,11,115,10.45,140.24,1,1,9.0,12.0,58.8,0.0,47.0
+Cameron Green,C Green,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",28,707,460,25.25,153.7,62,32,29,439,20,675,9.23,22.0,5,144,28.8,158.24,19.8,5,6,7.33,15.0,38.9,28,707,25.25,153.7,29,20,9.23,22.0,84.6,37.8,61.2
+Finn Allen,FA Allen,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",3,14,19,4.67,73.68,1,0,4,90,2,136,9.07,45.0,3,14,4.67,73.68,5.3,4,2,9.07,45.0,28.9,,,,,,,,,5.0,24.1,8.8
+Matheesha Pathirana,M Pathirana,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",,,,,,,,32,702,53,1047,8.95,13.2,,,,,,5,6,10.08,17.2,28.2,,,,,30,51,9.0,13.0,5.0,47.4,38.9
+Anukul Roy,Anukul Roy,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Tejasvi Singh,Tejasvi Singh,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Kartik Tyagi,Kartik Tyagi,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",6,13,16,2.17,81.25,1,0,20,422,16,720,10.24,26.4,5,11,2.2,84.62,7.7,5,2,13.13,42.5,28.2,,,,,4,1,14.16,61.0,30.4,11.5,15.3
+Prashant Solanki,PH Solanki,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",,,,,,,,2,36,2,39,6.5,18.0,,,,,,2,2,6.5,18.0,30.6,,,,,,,,,5.0,0.0,1.0
+Rahul Tripathi,RA Tripathi,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",98,2291,1662,23.38,137.85,229,85,1,6,0,12,12.0,,5,55,11.0,96.49,12.3,1,0,12.0,,0.0,24,493,20.54,128.05,,,,,63.7,0.0,51.0
+Tim Seifert,TL Seifert,Kolkata Knight Riders,wk-batter,"Eden Gardens, Kolkata",3,26,23,8.67,113.04,4,0,,,,,,,3,26,8.67,113.04,17.4,,,,,,,,,,,,,,5.0,0.0,4.0
+Sarthak Ranjan,Sarthak Ranjan,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Daksh Kamra,Daksh Kamra,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Rachin Ravindra,R Ravindra,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",18,413,287,22.94,143.9,40,16,2,12,0,7,3.5,,5,85,17.0,123.19,15.9,2,0,3.5,,41.7,18,413,22.94,143.9,2,0,3.5,,72.3,0.0,36.1
+Akash Deep,Akash Deep,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",5,25,14,5.0,178.57,2,2,14,278,11,554,11.96,25.3,5,25,5.0,178.57,28.6,5,2,12.27,45.0,30.0,4,25,6.25,208.33,9,5,12.65,33.0,70.4,14.4,25.6
+Blessing Muzarabani,Blessing Muzarabani,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Rohit Sharma,RG Sharma,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",266,7046,5334,26.49,132.1,640,303,32,339,16,462,8.18,21.2,5,125,25.0,137.36,20.9,5,1,8.89,27.0,18.5,45,1167,25.93,144.43,,,,,78.5,27.1,68.2
+Suryakumar Yadav,SA Yadav,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",151,4311,2900,28.55,148.66,454,168,1,6,0,8,8.0,,5,242,48.4,159.21,23.0,1,0,8.0,,33.3,43,1667,38.77,172.39,,,,,102.0,0.0,81.6
+Hardik Pandya,HH Pandya,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",140,2749,1871,19.64,146.93,207,149,107,1628,84,2541,9.36,19.4,5,67,13.4,145.65,19.6,5,2,11.67,27.0,24.1,40,786,19.65,145.29,37,31,10.16,18.6,70.8,19.7,45.2
+Tilak Varma,Tilak Varma,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",51,1499,1038,29.39,144.41,113,74,4,22,0,28,7.64,,5,104,20.8,133.33,11.5,4,0,7.64,,36.4,37,1102,29.78,149.93,2,0,9.0,,81.5,0.0,65.2
+Jasprit Bumrah,JJ Bumrah,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",27,68,79,2.52,86.08,5,1,145,3337,199,4132,7.43,16.8,5,12,2.4,92.31,7.7,5,7,6.36,16.6,49.1,5,12,2.4,92.31,25,42,6.69,14.2,33.2,77.4,68.6
+Trent Boult,TA Boult,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",24,85,81,3.54,104.94,5,3,119,2683,151,3791,8.48,17.8,5,16,3.2,88.89,11.1,5,7,9.33,16.7,34.2,10,32,3.2,96.97,41,52,8.62,17.2,36.4,47.8,45.5
+Will Jacks,WG Jacks,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",19,463,303,24.37,152.81,38,29,13,138,8,221,9.61,17.2,5,142,28.4,147.92,22.9,5,3,10.83,12.0,36.1,19,463,24.37,152.81,13,8,9.61,17.2,82.4,18.7,50.6
+Ryan Rickelton,RD Rickelton,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",14,388,257,27.71,150.97,47,17,,,,,,,5,173,34.6,157.27,24.5,,,,,,14,388,27.71,150.97,,,,,88.2,0.0,70.6
+Robin Minz,R Minz,Mumbai Indians,wk-batter,"Wankhede Stadium, Mumbai",2,6,15,3.0,40.0,0,0,,,,,,,2,6,3.0,40.0,0.0,,,,,,2,6,3.0,40.0,,,,,5.0,0.0,4.0
+Raj Bawa,RA Bawa,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",3,19,18,6.33,105.56,1,0,,,,,,,3,19,6.33,105.56,5.6,,,,,,1,8,8.0,200.0,,,,,5.0,0.0,2.5
+Raghu Sharma,Raghu Sharma,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Mitchell Santner,MJ Santner,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",19,110,104,5.79,105.77,6,6,31,603,26,744,7.4,23.2,5,9,1.8,100.0,11.1,5,6,6.4,15.0,38.9,13,56,4.31,103.7,19,16,7.64,22.7,39.4,58.8,49.1
+Corbin Bosch,C Bosch,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",2,47,32,23.5,146.88,3,3,2,42,1,56,8.0,42.0,2,47,23.5,146.88,18.8,2,1,8.0,42.0,54.8,2,47,23.5,146.88,2,1,8.0,42.0,5.0,0.0,2.5
+Naman Dhir,Naman Dhir,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",19,392,217,20.63,180.65,37,23,5,52,1,76,8.77,52.0,5,97,19.4,179.63,27.8,5,1,8.77,52.0,21.2,19,392,20.63,180.65,5,1,8.77,52.0,85.4,0.0,42.7
+Allah Ghazanfar,Allah Ghazanfar,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Ashwani Kumar,Ashwani Kumar,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,7,123,11,234,11.41,11.2,,,,,,5,6,11.72,14.5,24.1,,,,,7,11,11.41,11.2,5.0,36.5,30.2
+Deepak Chahar,DL Chahar,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",16,117,84,7.31,139.29,5,8,95,1915,91,2621,8.21,21.0,5,38,7.6,140.74,18.5,5,3,9.5,28.0,48.8,5,38,7.6,140.74,32,30,8.95,19.7,56.2,34.9,39.2
+Sherfane Rutherford,SE Rutherford,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",20,397,289,19.85,137.37,25,26,6,41,1,60,8.78,41.0,5,133,26.6,147.78,17.8,5,1,9.43,35.0,17.1,11,291,26.45,157.3,,,,,80.1,0.0,40.0
+Mayank Markande,M Markande,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",10,48,42,4.8,114.29,5,1,37,720,37,1081,9.01,19.5,5,30,6.0,107.14,14.3,5,6,12.0,14.0,16.7,3,21,7.0,161.54,17,20,9.32,18.0,51.2,35.4,38.6
+Shardul Thakur,SN Thakur,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",40,325,233,8.12,139.48,30,13,102,2070,115,3284,9.52,18.0,5,18,3.6,150.0,25.0,5,5,11.29,20.4,25.5,17,152,8.94,153.54,28,27,10.53,19.3,58.3,27.4,33.6
+Quinton de Kock,Q de Kock,Mumbai Indians,wk-batter,"Wankhede Stadium, Mumbai",115,3309,2469,28.77,134.02,325,134,,,,,,,5,50,10.0,104.17,10.4,,,,,,23,545,23.7,134.57,,,,,68.2,0.0,54.6
+Danish Malewar,Danish Malewar,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Mohammad Izhar,Mohammad Izhar,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Atharva Ankolekar,Atharva Ankolekar,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Mayank Rawat,M Rawat,Mumbai Indians,wk-batter,"Wankhede Stadium, Mumbai",11,55,69,5.0,79.71,4,1,,,,,,,5,23,4.6,67.65,2.9,,,,,,,,,,,,,,30.6,0.0,24.5
+Rajat Patidar,RM Patidar,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",38,1111,720,29.24,154.31,76,68,,,,,,,5,84,16.8,135.48,14.5,,,,,,27,707,26.19,160.68,,,,,80.8,0.0,64.6
+Virat Kohli,V Kohli,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",259,8661,6519,33.44,132.86,772,292,26,251,5,371,8.87,50.2,5,214,42.8,158.52,24.4,5,1,12.34,35.0,14.3,44,2037,46.3,146.55,,,,,100.4,12.0,82.7
+Devdutt Padikkal,D Padikkal,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",74,1806,1430,24.41,126.29,192,56,,,,,,,5,168,33.6,157.01,23.4,,,,,,28,546,19.5,130.94,,,,,77.3,0.0,61.8
+Phil Salt,PD Salt,Royal Challengers Bengaluru,wk-batter,"M Chinnaswamy Stadium, Bengaluru",34,1056,601,31.06,175.71,122,56,,,,,,,5,190,38.0,172.73,28.2,,,,,,34,1056,31.06,175.71,,,,,99.7,0.0,79.8
+Jitesh Sharma,Jitesh Sharma,Royal Challengers Bengaluru,wk-batter,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Krunal Pandya,KH Pandya,Royal Challengers Bengaluru,all-rounder,"M Chinnaswamy Stadium, Bengaluru",114,1756,1326,15.4,132.43,153,65,132,2398,97,3024,7.57,24.7,5,104,20.8,133.33,15.4,5,4,7.36,21.0,34.5,32,430,13.44,120.79,39,32,7.92,22.7,63.0,49.1,56.0
+Swapnil Singh,Swapnil Singh,Royal Challengers Bengaluru,all-rounder,"M Chinnaswamy Stadium, Bengaluru",9,51,45,5.67,113.33,3,3,14,162,7,241,8.93,23.1,5,37,7.4,176.19,28.6,5,3,7.78,18.0,35.2,6,39,6.5,156.0,9,6,8.88,17.0,57.9,32.9,45.4
+Tim David,TH David,Royal Challengers Bengaluru,all-rounder,"M Chinnaswamy Stadium, Bengaluru",44,846,488,19.23,173.36,54,60,,,,,,,5,95,19.0,175.93,27.8,,,,,,35,659,18.83,165.16,,,,,80.7,0.0,40.4
+Romario Shepherd,R Shepherd,Royal Challengers Bengaluru,all-rounder,"M Chinnaswamy Stadium, Bengaluru",12,185,87,15.42,212.64,12,17,15,210,12,416,11.89,17.5,5,72,14.4,266.67,44.4,5,5,11.18,13.2,30.3,9,127,14.11,276.09,12,8,12.23,19.5,103.0,20.2,61.6
+Jacob Bethell,JG Bethell,Royal Challengers Bengaluru,all-rounder,"M Chinnaswamy Stadium, Bengaluru",2,67,39,33.5,171.79,9,3,,,,,,,2,67,33.5,171.79,30.8,,,,,,2,67,33.5,171.79,,,,,5.0,0.0,2.5
+Josh Hazlewood,JR Hazlewood,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",7,19,29,2.71,65.52,1,0,39,867,58,1219,8.44,14.9,5,9,1.8,81.82,9.1,5,10,9.6,11.5,40.9,2,1,0.5,33.33,15,25,8.77,12.7,21.1,56.3,49.3
+Yash Dayal,Yash Dayal,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",4,4,9,1.0,44.44,0,0,43,871,45,1412,9.73,19.4,4,4,1.0,44.44,0.0,5,4,10.12,25.5,27.5,3,4,1.33,50.0,34,32,9.86,21.2,5.0,25.0,21.0
+Bhuvneshwar Kumar,B Kumar,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",71,320,351,4.51,91.17,31,3,190,4222,213,5541,7.87,19.8,5,14,2.8,60.87,4.3,5,5,11.22,21.6,30.6,16,79,4.94,78.22,44,48,9.23,20.0,30.8,38.7,37.1
+Nuwan Thushara,N Thushara,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,8,180,9,289,9.63,20.0,,,,,,5,8,9.21,14.2,36.8,,,,,8,9,9.63,20.0,5.0,37.9,31.3
+Rasikh Salam,Rasikh Salam,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",6,40,40,6.67,100.0,5,0,13,231,10,412,10.7,23.1,5,35,7.0,97.22,13.9,5,4,10.67,22.5,32.2,4,28,7.0,93.33,10,10,11.21,18.3,40.8,21.8,25.6
+Abhinandan Singh,Abhinandan Singh,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Suyash Sharma,Suyash Sharma,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,27,558,20,835,8.98,27.9,,,,,,5,4,11.13,22.5,22.2,,,,,27,20,8.98,27.9,5.0,27.9,23.3
+Venkatesh Iyer,VR Iyer,Royal Challengers Bengaluru,all-rounder,"M Chinnaswamy Stadium, Bengaluru",56,1468,1069,26.21,137.32,136,65,9,81,3,145,10.74,27.0,5,133,26.6,154.65,20.9,5,0,14.8,,10.0,34,916,26.94,149.67,1,0,28.0,,82.4,2.5,42.5
+Jacob Duffy,Jacob Duffy,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Satvik Deswal,Satvik Deswal,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Mangesh Yadav,Mangesh Yadav,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Jordan Cox,Jordan Cox,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Vicky Ostwal,Vicky Ostwal,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Vihaan Malhotra,Vihaan Malhotra,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Kanishk Chouhan,Kanishk Chouhan,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Shubman Gill,Shubman Gill,Gujarat Titans,batter,"Narendra Modi Stadium, Ahmedabad",114,3866,2787,33.91,138.72,372,119,,,,,,,5,185,37.0,142.31,17.7,,,,,,44,1966,44.68,154.8,,,,,97.7,0.0,78.2
+Sai Sudharsan,B Sai Sudharsan,Gujarat Titans,batter,"Narendra Modi Stadium, Ahmedabad",40,1793,1229,44.82,145.89,183,53,,,,,,,5,255,51.0,160.38,23.9,,,,,,35,1648,47.09,147.8,,,,,109.8,0.0,87.8
+Jos Buttler,JC Buttler,Gujarat Titans,wk-batter,"Narendra Modi Stadium, Ahmedabad",119,4120,2758,34.62,149.38,408,185,,,,,,,5,182,36.4,158.26,20.0,,,,,,38,1289,33.92,148.67,,,,,94.2,0.0,75.4
+Kumar Kushagra,Kumar Kushagra,Gujarat Titans,wk-batter,"Narendra Modi Stadium, Ahmedabad",3,3,7,1.0,42.86,0,0,,,,,,,3,3,1.0,42.86,0.0,,,,,,3,3,1.0,42.86,,,,,5.0,0.0,4.0
+Anuj Rawat,Anuj Rawat,Gujarat Titans,wk-batter,"Narendra Modi Stadium, Ahmedabad",21,318,267,15.14,119.1,26,14,,,,,,,5,98,19.6,127.27,16.9,,,,,,12,189,15.75,127.7,,,,,62.6,0.0,50.1
+Nishant Sindhu,N Sindhu,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Washington Sundar,Washington Sundar,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",43,511,405,11.88,126.17,42,16,63,1119,41,1447,7.76,27.3,5,133,26.6,166.25,21.2,5,2,10.34,32.5,23.1,11,193,17.55,136.88,14,6,9.88,33.5,70.7,21.2,46.0
+Glenn Phillips,GD Phillips,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",8,65,55,8.12,118.18,3,6,4,30,2,40,8.0,15.0,5,39,7.8,177.27,27.3,4,2,8.0,15.0,33.3,5,39,7.8,177.27,2,1,6.67,18.0,63.1,0.0,31.6
+Arshad Khan,Arshad Khan,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",10,119,84,11.9,141.67,5,9,18,260,12,502,11.58,21.7,5,23,4.6,115.0,15.0,5,4,10.79,21.0,33.3,10,119,11.9,141.67,18,12,11.58,21.7,56.7,17.7,37.2
+Shahrukh Khan,M Shahrukh Khan,Gujarat Titans,batter,"Narendra Modi Stadium, Ahmedabad",48,732,491,15.25,149.08,46,50,3,18,1,29,9.67,18.0,5,101,20.2,171.19,22.0,3,1,9.67,18.0,22.2,30,462,15.4,171.75,3,1,9.67,18.0,75.9,0.0,60.7
+Rahul Tewatia,R Tewatia,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",76,1112,811,14.63,137.11,90,54,52,843,36,1117,7.95,23.4,5,49,9.8,140.0,14.3,5,1,8.71,31.0,32.3,30,374,12.47,152.65,2,0,6.92,,63.5,34.6,49.0
+Kagiso Rabada,K Rabada,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",30,215,201,7.17,106.97,16,9,84,1902,125,2807,8.85,15.2,5,29,5.8,131.82,13.6,5,2,11.06,51.0,28.4,7,29,4.14,120.83,21,20,10.04,23.7,46.9,28.0,31.8
+Mohammed Siraj,Mohammed Siraj,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",21,112,123,5.33,91.06,10,4,108,2300,112,3434,8.96,20.5,5,25,5.0,92.59,11.1,5,2,9.84,57.0,38.6,4,16,4.0,114.29,43,51,8.96,18.9,39.5,32.3,33.7
+Prasidh Krishna,M Prasidh Krishna,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",7,9,24,1.29,37.5,0,0,66,1499,79,2237,8.95,19.0,5,8,1.6,47.06,0.0,5,7,10.45,17.1,31.7,,,,,15,26,8.58,13.6,15.9,47.8,41.4
+Ishant Sharma,I Sharma,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",21,57,69,2.71,82.61,4,2,117,2419,100,3465,8.59,24.2,5,13,2.6,81.25,12.5,5,3,11.58,28.7,24.4,3,2,0.67,25.0,24,26,9.75,16.2,22.0,28.3,27.0
+Gurnoor Singh Brar,Gurnoor Brar,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",,,,,,,,1,18,0,42,14.0,,,,,,,1,0,14.0,,38.9,,,,,1,0,14.0,,5.0,0.0,1.0
+Rashid Khan,Rashid Khan,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",66,585,365,8.86,160.27,41,41,136,3189,166,3843,7.23,19.2,5,18,3.6,100.0,11.1,5,2,9.33,54.0,24.1,25,272,10.88,171.07,44,47,8.76,21.1,58.9,41.9,45.3
+Manav Suthar,MJ Suthar,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",1,1,2,1.0,50.0,0,0,1,12,0,26,13.0,,1,1,1.0,50.0,0.0,1,0,13.0,,33.3,1,1,1.0,50.0,1,0,13.0,,5.0,0.0,1.0
+Sai Kishore,R Sai Kishore,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",4,18,16,4.5,112.5,0,2,25,441,32,655,8.91,13.8,4,18,4.5,112.5,12.5,5,7,10.65,14.6,25.5,4,18,4.5,112.5,20,26,9.27,13.3,5.0,40.8,33.6
+Jayant Yadav,JD Yadav,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Ashok Sharma,Ashok Sharma,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Jason Holder,JO Holder,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",27,259,211,9.59,122.75,13,18,46,995,59,1489,8.98,16.9,5,14,2.8,93.33,6.7,5,1,11.68,111.0,18.0,3,12,4.0,109.09,8,4,10.18,42.8,42.8,19.9,31.3
+Tom Banton,T Banton,Gujarat Titans,batter,"Narendra Modi Stadium, Ahmedabad",2,18,20,9.0,90.0,1,1,,,,,,,2,18,9.0,90.0,10.0,,,,,,,,,,,,,,5.0,0.0,4.0
+Prithvi Raj Yarra,Prithvi Raj Yarra,Gujarat Titans,batter,"Narendra Modi Stadium, Ahmedabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Luke Wood,L Wood,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",1,9,3,9.0,300.0,0,1,2,36,1,94,15.67,36.0,1,9,9.0,300.0,33.3,2,1,15.67,36.0,22.2,1,9,9.0,300.0,2,1,15.67,36.0,5.0,0.0,1.0
+Yashasvi Jaiswal,YBK Jaiswal,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",66,2166,1417,32.82,152.86,259,92,1,1,0,6,36.0,,5,203,40.6,182.88,32.4,1,0,36.0,,0.0,43,1619,37.65,160.14,,,,,101.3,0.0,81.0
+Riyan Parag,R Parag,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",72,1566,1104,21.75,141.85,111,87,30,295,9,478,9.72,32.8,5,159,31.8,191.57,26.5,5,3,9.0,22.0,24.2,35,1044,29.83,152.19,11,4,8.61,34.5,88.6,22.1,55.3
+Dhruv Jurel,Dhruv Jurel,Rajasthan Royals,wk-batter,"Sawai Mansingh Stadium, Jaipur",35,680,442,19.43,153.85,51,38,,,,,,,5,142,28.4,159.55,21.3,,,,,,35,680,19.43,153.85,,,,,79.5,0.0,63.6
+Shimron Hetmyer,SO Hetmyer,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",78,1482,976,19.0,151.84,93,93,,,,,,,5,63,12.6,128.57,12.2,,,,,,35,651,18.6,151.4,,,,,69.4,0.0,55.5
+Ravindra Jadeja,RA Jadeja,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",194,3260,2502,16.8,130.3,240,117,225,4056,179,5242,7.75,22.7,5,135,27.0,150.0,21.1,5,4,9.07,22.5,32.2,37,758,20.49,139.85,44,38,7.95,22.4,73.3,42.8,58.0
+Sam Curran,SM Curran,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",53,997,731,18.81,136.39,85,41,63,1253,63,2059,9.86,19.9,5,114,22.8,135.71,17.9,5,1,11.25,72.0,22.2,30,660,22.0,130.43,32,28,10.45,21.6,71.2,18.3,44.8
+Donovan Ferreira,D Ferreira,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",3,9,14,3.0,64.29,0,0,,,,,,,3,9,3.0,64.29,0.0,,,,,,3,9,3.0,64.29,,,,,5.0,0.0,2.5
+Vaibhav Suryavanshi,Vaibhav Suryavanshi,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Sandeep Sharma,Sandeep Sharma,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",26,60,75,2.31,80.0,4,0,136,3041,163,4121,8.13,18.7,5,16,3.2,88.89,5.6,5,5,10.65,22.2,24.3,3,8,2.67,72.73,32,40,8.92,18.1,30.0,41.4,39.1
+Shubham Dubey,Shubham Dubey,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Lhuan-Dre Pretorius,L Pretorius,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Jofra Archer,JC Archer,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",30,262,178,8.73,147.19,14,18,52,1218,61,1655,8.15,20.0,5,46,9.2,109.52,11.9,5,5,9.45,24.0,34.2,9,67,7.44,124.07,17,14,9.88,28.1,52.7,34.1,37.8
+Tushar Deshpande,TU Deshpande,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",8,28,22,3.5,127.27,2,1,46,965,55,1617,10.05,17.5,5,7,1.4,77.78,0.0,5,4,10.06,25.5,29.4,6,7,1.17,70.0,39,51,9.92,16.1,32.3,28.4,29.2
+Kwena Maphaka,K Maphaka,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Nandre Burger,N Burger,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",,,,,,,,5,102,7,152,8.94,14.6,,,,,,5,7,8.94,14.6,45.1,,,,,5,7,8.94,14.6,5.0,48.3,39.6
+Ravi Bishnoi,Ravi Bishnoi,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",16,45,66,2.81,68.18,2,2,76,1633,77,2263,8.31,21.2,5,17,3.4,77.27,9.1,5,3,10.07,28.0,32.1,12,37,3.08,75.51,39,36,9.0,21.9,28.5,32.7,31.9
+Sushant Mishra,Sushant Mishra,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Yudhvir Singh Charak,Yudhvir Singh Charak,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Yash Raj Punja,Yash Raj Punja,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Vignesh Puthur,Vignesh Puthur,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Ravi Singh,Ravi Singh,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Aman Rao,Aman Rao,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Brijesh Sharma,Brijesh Sharma,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Adam Milne,AF Milne,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",6,23,29,3.83,79.31,0,1,10,207,9,339,9.83,23.0,5,21,4.2,80.77,3.8,5,4,9.33,24.8,37.4,,,,,,,,,31.7,26.5,27.5
+Kuldeep Sen,Kuldeep Sen,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Pat Cummins,PJ Cummins,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",48,612,402,12.75,152.24,39,41,72,1617,82,2436,9.04,19.7,5,63,12.6,203.23,25.8,5,7,8.44,15.4,39.8,19,233,12.26,152.29,30,34,9.32,19.5,71.5,43.2,48.9
+Travis Head,TM Head,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",37,1146,674,30.97,170.03,126,55,6,58,3,113,11.69,19.3,5,132,26.4,153.49,26.7,5,3,11.77,17.3,17.3,27,941,34.85,178.9,1,0,19.2,,95.1,0.0,76.1
+Abhishek Sharma,Abhishek Sharma,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",74,1816,1114,24.54,163.02,174,101,32,336,11,509,9.09,30.5,5,199,39.8,207.29,33.3,5,0,10.67,,27.8,40,1149,28.72,185.02,15,4,9.7,45.0,100.2,10.2,55.2
+Ishan Kishan,Ishan Kishan,Sunrisers Hyderabad,wk-batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",112,2998,2178,26.77,137.65,288,134,1,1,0,4,24.0,,5,215,43.0,146.26,19.0,1,0,24.0,,0.0,42,1128,26.86,147.45,1,0,24.0,,87.6,0.0,70.1
+Heinrich Klaasen,H Klaasen,Sunrisers Hyderabad,wk-batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",45,1480,872,32.89,169.72,98,89,,,,,,,5,206,41.2,194.34,26.4,,,,,,39,1414,36.26,173.5,,,,,105.5,0.0,84.4
+Nitish Kumar Reddy,Nitish Kumar Reddy,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Kamindu Mendis,BKG Mendis,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",1,20,10,20.0,200.0,1,2,,,,,,,1,20,20.0,200.0,30.0,,,,,,1,20,20.0,200.0,,,,,5.0,0.0,2.5
+Harshal Patel,HV Patel,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",41,270,229,6.59,117.9,16,15,116,2424,168,3649,9.03,14.4,5,21,4.2,77.78,0.0,5,3,11.11,33.7,32.7,10,40,4.0,78.43,40,62,9.92,13.5,36.1,34.9,35.1
+Brydon Carse,B Carse,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Jaydev Unadkat,JD Unadkat,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",27,197,166,7.3,118.67,16,7,111,2274,121,3396,8.96,18.8,5,24,4.8,92.31,11.5,5,11,7.22,10.3,38.1,6,33,5.5,100.0,21,22,9.37,17.2,41.7,51.1,49.2
+Aniket Verma,Aniket Verma,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",12,236,142,19.67,166.2,12,20,,,,,,,5,65,13.0,151.16,20.9,,,,,,12,236,19.67,166.2,,,,,76.0,0.0,60.8
+R Smaran,R Smaran,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Harsh Dubey,Harsh Dubey,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,3,60,5,98,9.8,12.0,,,,,,3,5,9.8,12.0,30.0,,,,,3,5,9.8,12.0,5.0,44.2,36.4
+Eshan Malinga,E Malinga,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,7,160,14,244,9.15,11.4,,,,,,5,10,8.68,11.2,36.6,,,,,7,14,9.15,11.4,5.0,62.4,50.9
+Zeeshan Ansari,Zeeshan Ansari,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,10,203,8,334,9.87,25.4,,,,,,5,4,10.09,23.5,21.3,,,,,10,8,9.87,25.4,5.0,21.1,17.9
+Shivang Kumar,Shivang Kumar,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Salil Arora,Salil Arora,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Sakib Hussain,Sakib Hussain,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Onkar Tarmale,Onkar Tarmale,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Amit Kumar,Amit Kumar,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Praful Hinge,Praful Hinge,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Krains Fuletra,Krains Fuletra,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Liam Livingstone,LS Livingstone,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",47,1051,662,22.36,158.76,70,75,27,312,13,471,9.06,24.0,5,33,6.6,110.0,10.0,5,2,8.44,27.0,18.5,24,502,20.92,150.75,14,7,9.14,24.0,68.3,25.3,46.8
+Shivam Mavi,Shivam Mavi,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",11,51,56,4.64,91.07,4,2,32,649,33,958,8.86,19.7,5,28,5.6,103.7,14.8,5,5,10.78,21.6,32.4,,,,,,,,,38.9,32.5,33.8
+Jack Edwards,Jack Edwards,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+KL Rahul,KL Rahul,Delhi Capitals,wk-batter,"Arun Jaitley Stadium, Delhi",135,5222,3839,38.68,136.03,452,208,,,,,,,5,175,35.0,157.66,26.1,,,,,,36,1333,37.03,135.47,,,,,93.6,0.0,74.9
+Karun Nair,K Nair,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Axar Patel,AR Patel,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",123,1916,1430,15.58,133.99,130,94,160,3315,137,4131,7.48,24.2,5,123,24.6,155.7,22.8,5,4,7.94,25.5,27.5,36,781,21.69,142.26,39,28,7.86,27.2,73.8,47.5,60.6
+Mitchell Starc,MA Starc,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",21,111,119,5.29,93.28,11,0,50,1059,76,1577,8.93,13.9,5,6,1.2,60.0,0.0,5,5,10.65,19.6,32.7,10,15,1.5,71.43,24,37,10.67,12.9,28.0,38.3,36.2
+Kuldeep Yadav,Kuldeep Yadav,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",37,201,232,5.43,86.64,18,3,96,2064,106,2805,8.15,19.5,5,18,3.6,112.5,12.5,5,3,9.12,34.0,26.5,20,96,4.8,91.43,39,42,7.82,20.7,37.9,44.7,43.3
+Tristan Stubbs,T Stubbs,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",30,705,432,23.5,163.19,51,37,5,36,4,69,11.5,9.0,5,83,16.6,123.88,11.9,5,4,11.5,9.0,33.3,28,703,25.11,164.25,5,4,11.5,9.0,78.2,0.0,62.6
+Abishek Porel,Abishek Porel,Delhi Capitals,wk-batter,"Arun Jaitley Stadium, Delhi",29,661,441,22.79,149.89,65,27,,,,,,,5,76,15.2,149.02,19.6,,,,,,29,661,22.79,149.89,,,,,75.5,0.0,60.4
+Sameer Rizvi,Sameer Rizvi,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",9,172,122,19.11,140.98,15,9,,,,,,,5,136,27.2,156.32,24.1,,,,,,9,172,19.11,140.98,,,,,75.4,0.0,60.3
+T Natarajan,T Natarajan,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",2,3,5,1.5,60.0,0,0,63,1362,77,2054,9.05,17.7,2,3,1.5,60.0,0.0,5,3,9.78,24.3,39.7,,,,,28,34,9.33,17.7,5.0,33.5,27.8
+Nitish Rana,N Rana,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",112,2853,2086,25.47,136.77,261,141,26,192,10,271,8.47,19.2,5,100,20.0,142.86,22.9,5,1,10.8,30.0,23.3,27,672,24.89,145.77,8,3,8.58,21.7,76.9,21.0,65.7
+Ashutosh Sharma,Ashutosh Sharma,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",18,393,240,21.83,163.75,24,28,,,,,,,5,105,21.0,150.0,18.6,,,,,,18,393,21.83,163.75,,,,,80.2,0.0,40.1
+Madhav Tiwari,Madhav Tiwari,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Tripurana Vijay,Tripurana Vijay,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Vipraj Nigam,Vipraj Nigam,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Ajay Mandal,Ajay Mandal,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+David Miller,DA Miller,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",133,3077,2220,23.14,138.6,220,138,,,,,,,5,63,12.6,108.62,8.6,,,,,,32,622,19.44,142.33,,,,,66.8,0.0,53.4
+Ben Duckett,BM Duckett,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Auqib Nabi,Auqib Nabi,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Pathum Nissanka,P Nissanka,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Lungi Ngidi,L Ngidi,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",1,0,2,0.0,0.0,0,0,16,372,32,541,8.73,11.6,1,0,0.0,0.0,0.0,5,9,10.5,13.3,30.8,1,0,0.0,0.0,2,4,10.12,12.0,5.0,53.3,43.6
+Dushmantha Chameera,PVD Chameera,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",10,53,42,5.3,126.19,3,3,19,384,15,640,10.0,25.6,5,21,4.2,105.0,10.0,5,3,12.36,28.0,23.8,3,10,3.33,71.43,7,4,12.35,30.0,37.9,16.1,20.5
+Sahil Parakh,Sahil Parakh,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Prithvi Shaw,PP Shaw,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",79,1892,1283,23.95,147.47,238,61,,,,,,,5,79,15.8,168.09,34.0,,,,,,16,304,19.0,147.57,,,,,75.6,0.0,60.5
+Kyle Jamieson,KA Jamieson,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",9,65,60,7.22,108.33,5,3,13,258,14,418,9.72,18.4,5,22,4.4,73.33,6.7,5,5,9.94,20.4,36.3,2,0,0.0,0.0,4,5,9.8,18.0,22.5,30.4,28.8
+Rishabh Pant,RR Pant,Lucknow Super Giants,wk-batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",123,3553,2407,28.89,147.61,320,170,,,,,,,5,163,32.6,177.17,28.3,,,,,,26,715,27.5,146.22,,,,,88.8,0.0,71.0
+Aiden Markram,AK Markram,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",55,1440,1066,26.18,135.08,111,57,19,187,6,275,8.82,31.2,5,171,34.2,147.41,19.0,5,4,9.27,16.5,22.7,37,913,24.68,135.66,13,5,8.88,25.4,81.3,25.0,70.0
+Nicholas Pooran,N Pooran,Lucknow Super Giants,wk-batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",86,2293,1357,26.66,168.98,158,167,,,,,,,5,147,29.4,177.11,26.5,,,,,,43,1381,32.12,183.16,,,,,96.1,0.0,76.9
+Mitchell Marsh,MR Marsh,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",49,1292,904,26.37,142.92,104,75,34,560,37,803,8.6,15.1,5,283,56.6,167.46,24.9,5,4,11.92,18.0,20.8,26,816,31.38,157.53,11,13,9.76,13.0,98.8,32.4,65.6
+Ayush Badoni,A Badoni,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",46,963,695,20.93,138.56,73,38,7,35,4,50,8.57,8.8,5,198,39.6,162.3,21.3,5,2,9.91,11.5,21.7,35,802,22.91,141.95,5,2,9.91,11.5,83.2,0.0,66.6
+Abdul Samad,Abdul Samad,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",51,741,488,14.53,151.84,45,50,6,56,2,119,12.75,28.0,5,53,10.6,123.26,14.0,5,1,14.62,32.0,15.6,32,515,16.09,156.53,1,0,18.0,,65.8,0.0,32.9
+Matthew Breetzke,M Breetzke,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Himmat Singh,Himmat Singh,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Shahbaz Ahmed,Shahbaz Ahmed,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",38,545,448,14.34,121.65,29,25,45,588,22,953,9.72,26.7,5,38,7.6,95.0,7.5,5,5,10.27,18.0,30.0,19,266,14.0,124.88,23,9,11.05,28.7,53.5,16.1,34.8
+Arshin Kulkarni,Arshin Kulkarni,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Mayank Yadav,Mayank Yadav,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Avesh Khan,Avesh Khan,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",13,62,37,4.77,167.57,6,4,75,1619,94,2497,9.25,17.2,5,24,4.8,171.43,28.6,5,5,11.61,21.4,20.6,7,31,4.43,172.22,37,43,9.96,18.3,62.7,31.5,37.7
+Mohsin Khan,Mohsin Khan,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",5,25,24,5.0,104.17,2,1,23,486,27,698,8.62,18.0,5,25,5.0,104.17,12.5,5,3,10.56,36.0,36.1,2,2,1.0,25.0,14,13,10.33,22.2,28.4,27.8,27.9
+Manimaran Siddharth,M Siddharth,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,5,96,3,140,8.75,32.0,,,,,,5,3,8.75,32.0,34.4,,,,,5,3,8.75,32.0,5.0,30.6,25.5
+Mohammed Shami,Mohammed Shami,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",27,84,89,3.11,94.38,7,2,119,2606,149,3826,8.81,17.5,5,15,3.0,100.0,13.3,5,3,12.24,34.0,27.5,6,15,2.5,93.75,26,34,9.26,16.8,35.5,35.1,35.2
+Anrich Nortje,A Nortje,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",13,49,49,3.77,100.0,6,0,48,1096,63,1701,9.31,17.4,5,9,1.8,52.94,0.0,5,4,13.59,25.5,32.4,9,41,4.56,110.81,18,19,10.94,21.8,34.4,29.0,30.1
+Wanindu Hasaranga,PHKD Hasaranga,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Digvesh Rathi,DS Rathi,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,1,3,1.0,33.33,0,0,13,312,14,435,8.37,22.3,1,1,1.0,33.33,0.0,5,5,9.55,24.0,26.7,1,1,1.0,33.33,13,14,8.37,22.3,5.0,42.3,34.8
+Prince Yadav,Prince Yadav,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2,5,10,2.5,50.0,0,0,6,137,5,226,9.9,27.4,2,5,2.5,50.0,0.0,5,4,9.5,28.2,32.7,2,5,2.5,50.0,6,5,9.9,27.4,5.0,23.3,19.6
+Akash Singh,Akash Singh,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,10,205,9,326,9.54,22.8,,,,,,5,4,10.27,24.2,27.8,,,,,9,9,9.51,20.1,5.0,26.9,22.5
+Arjun Tendulkar,Arjun Tendulkar,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,13,9,13.0,144.44,0,1,5,73,4,117,9.62,18.2,1,13,13.0,144.44,11.1,5,4,9.62,18.2,41.1,1,13,13.0,144.44,5,4,9.62,18.2,5.0,24.8,20.8
+Mukul Choudhary,Mukul Choudhary,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Naman Tiwari,Naman Tiwari,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Akshat Raghuwanshi,Akshat Raghuwanshi,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Josh Inglis,J Inglis,Lucknow Super Giants,wk-batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Shreyas Iyer,SS Iyer,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",131,3731,2798,28.48,133.35,314,152,1,6,0,7,7.0,,5,169,33.8,176.04,24.0,1,0,7.0,,66.7,31,955,30.81,163.53,,,,,91.5,0.0,73.2
+Prabhsimran Singh,Prabhsimran Singh,Punjab Kings,wk-batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Priyansh Arya,Priyansh Arya,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",18,545,299,30.28,182.27,60,31,,,,,,,5,119,23.8,152.56,25.6,,,,,,18,545,30.28,182.27,,,,,93.2,0.0,74.6
+Shashank Singh,Shashank Singh,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",33,773,490,23.42,157.76,56,43,4,30,1,52,10.4,30.0,5,136,27.2,174.36,21.8,4,1,10.4,30.0,16.7,28,704,25.14,158.92,2,1,10.67,18.0,86.0,0.0,43.0
+Nehal Wadhera,Nehal Wadhera,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Marcus Stoinis,MP Stoinis,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",99,2026,1400,20.46,144.71,158,106,71,888,46,1477,9.98,19.3,5,93,18.6,221.43,33.3,5,1,13.94,31.0,22.6,40,956,23.9,153.95,21,11,10.38,21.3,83.7,11.7,47.7
+Azmatullah Omarzai,Azmatullah Omarzai,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",9,99,74,11.0,133.78,8,5,15,288,12,476,9.92,24.0,5,57,11.4,139.02,22.0,5,5,10.59,20.4,22.5,9,99,11.0,133.78,15,12,9.92,24.0,59.0,22.2,40.6
+Marco Jansen,M Jansen,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",20,141,129,7.05,109.3,8,6,35,733,38,1180,9.66,19.3,5,33,6.6,100.0,9.1,5,8,9.74,14.2,43.0,16,132,8.25,110.92,25,28,10.16,18.0,45.0,33.6,39.3
+Harpreet Brar,Harpreet Brar,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",26,244,203,9.38,120.2,19,10,46,811,35,1097,8.12,23.2,5,78,15.6,134.48,19.0,5,7,8.62,13.7,27.1,17,138,8.12,127.78,31,26,8.24,20.1,55.9,45.6,50.8
+Yuzvendra Chahal,YS Chahal,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",17,37,86,2.18,43.02,0,0,172,3791,229,5112,8.09,16.6,5,16,3.2,42.11,0.0,5,7,9.89,16.3,26.3,,,,,42,57,9.07,16.4,17.6,46.3,40.6
+Arshdeep Singh,Arshdeep Singh,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",13,31,46,2.38,67.39,4,0,81,1714,106,2624,9.19,16.2,5,10,2.0,71.43,7.1,5,5,9.5,21.6,28.7,4,8,2.0,72.73,44,60,9.64,16.0,26.2,37.7,35.4
+Musheer Khan,Musheer Khan,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",1,0,3,0.0,0.0,0,0,1,12,1,27,13.5,12.0,1,0,0.0,0.0,0.0,1,1,13.5,12.0,8.3,1,0,0.0,0.0,1,1,13.5,12.0,5.0,0.0,2.5
+Pyala Avinash,Pyala Avinash,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Harnoor Pannu,Harnoor Pannu,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,4.0
+Suryansh Shedge,Suryansh Shedge,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",3,7,11,2.33,63.64,0,0,1,18,0,40,13.33,,3,7,2.33,63.64,0.0,1,0,13.33,,5.6,3,7,2.33,63.64,1,0,13.33,,5.0,0.0,2.5
+Mitchell Owen,Mitchell Owen,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Xavier Bartlett,X Bartlett,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Lockie Ferguson,LH Ferguson,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",8,72,47,9.0,153.19,7,2,49,1023,61,1556,9.13,16.8,5,28,5.6,164.71,23.5,5,7,9.39,13.1,37.0,2,5,2.5,250.0,14,17,10.81,15.2,71.8,37.5,44.4
+Vyshak Vijaykumar,V Vyshak,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Yash Thakur,Yash Thakur,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,21,443,28,782,10.59,15.8,,,,,,5,3,12.99,34.3,24.3,,,,,21,28,10.59,15.8,5.0,27.8,23.2
+Vishnu Vinod,Vishnu Vinod,Punjab Kings,wk-batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",6,56,57,9.33,98.25,3,3,,,,,,,5,47,9.4,90.38,9.6,,,,,,3,37,12.33,119.35,,,,,48.0,0.0,38.4
+Cooper Connolly,C Connolly,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,2.5
+Ben Dwarshuis,B Dwarshuis,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Pravin Dubey,Pravin Dubey,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+Vishal Nishad,Vishal Nishad,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,0.0,1.0
+A Ashish Reddy,A Ashish Reddy,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",23,280,193,12.17,145.08,16,15,20,262,19,400,9.16,13.8,5,70,14.0,140.0,16.0,5,4,9.06,13.2,22.6,,,,,,,,,63.9,33.0,48.5
+A Chandila,A Chandila,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",2,4,7,2.0,57.14,0,0,12,234,11,245,6.28,21.3,2,4,2.0,57.14,0.0,5,4,7.19,24.0,38.5,,,,,,,,,5.0,62.3,50.8
+A Chopra,A Chopra,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",6,53,71,8.83,74.65,7,0,,,,,,,5,51,10.2,77.27,10.6,,,,,,,,,,,,,,37.2,0.0,29.8
+A Choudhary,A Choudhary,Royal Challengers Bangalore,all-rounder,,3,25,20,8.33,125.0,1,1,5,101,5,144,8.55,20.2,3,25,8.33,125.0,10.0,5,5,8.55,20.2,41.6,,,,,,,,,5.0,43.1,24.1
+A Dananjaya,A Dananjaya,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",1,4,5,4.0,80.0,0,0,1,24,0,47,11.75,,1,4,4.0,80.0,0.0,1,0,11.75,,25.0,,,,,,,,,5.0,0.0,1.0
+A Flintoff,A Flintoff,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",3,62,53,20.67,116.98,5,2,3,66,2,106,9.64,33.0,3,62,20.67,116.98,13.2,3,2,9.64,33.0,30.3,,,,,,,,,5.0,21.2,13.1
+A Kumble,A Kumble,Royal Challengers Bangalore,all-rounder,,15,35,47,2.33,74.47,3,0,42,965,49,1089,6.77,19.7,5,6,1.2,54.55,0.0,5,7,7.38,16.7,34.2,,,,,,,,,23.7,68.6,46.1
+A Manohar,A Manohar,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",20,292,235,14.6,124.26,23,14,,,,,,,5,61,12.2,100.0,9.8,,,,,,13,184,14.15,115.0,,,,,54.9,0.0,43.9
+A Mishra,A Mishra,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",55,381,419,6.93,90.93,31,5,162,3371,183,4193,7.46,18.4,5,40,8.0,74.07,7.4,5,5,8.69,15.6,28.2,1,19,19.0,63.33,8,8,8.14,15.8,40.0,49.7,44.9
+A Mithun,A Mithun,Royal Challengers Bangalore,all-rounder,,6,34,26,5.67,130.77,4,1,16,288,8,477,9.94,36.0,5,29,5.8,131.82,18.2,5,2,10.79,42.0,29.8,,,,,,,,,50.9,11.6,31.2
+A Mukund,A Mukund,Royal Challengers Bangalore,batter,,2,19,22,9.5,86.36,1,0,,,,,,,2,19,9.5,86.36,4.5,,,,,,,,,,,,,,5.0,0.0,4.0
+A Nehra,A Nehra,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",17,41,62,2.41,66.13,3,1,88,1908,121,2537,7.98,15.8,5,2,0.4,25.0,0.0,5,8,9.09,12.9,37.9,,,,,,,,,16.9,55.5,36.2
+A Nel,A Nel,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,1,18,1,31,10.33,18.0,,,,,,1,1,10.33,18.0,38.9,,,,,,,,,5.0,0.0,1.0
+A Singh,A Singh,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",5,2,10,0.4,20.0,0,0,23,473,31,639,8.11,15.3,5,2,0.4,20.0,0.0,5,4,11.94,25.2,24.8,,,,,,,,,7.2,38.7,23.0
+A Symonds,A Symonds,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",36,974,750,27.06,129.87,74,41,30,527,23,694,7.9,22.9,5,27,5.4,71.05,2.6,5,2,7.45,33.0,40.9,,,,,,,,,53.8,43.6,48.7
+A Tomar,A Tomar,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",1,4,8,4.0,50.0,1,0,,,,,,,1,4,4.0,50.0,12.5,,,,,,,,,,,,,,5.0,0.0,4.0
+A Uniyal,A Uniyal,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",2,4,7,2.0,57.14,0,0,2,36,3,67,11.17,12.0,2,4,2.0,57.14,0.0,2,3,11.17,12.0,22.2,,,,,,,,,5.0,0.0,1.0
+A Zampa,A Zampa,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",5,15,24,3.0,62.5,1,0,22,467,32,656,8.43,14.6,5,15,3.0,62.5,4.2,5,5,9.74,22.8,25.4,3,10,3.33,62.5,8,11,9.43,16.4,24.7,41.9,33.3
+AA Bilakhia,AA Bilakhia,Deccan Chargers,batter,,7,69,85,9.86,81.18,5,0,,,,,,,5,35,7.0,79.55,4.5,,,,,,,,,,,,,,37.3,0.0,29.8
+AA Chavan,AA Chavan,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",3,12,11,4.0,109.09,2,0,13,248,8,339,8.2,31.0,3,12,4.0,109.09,18.2,5,1,8.43,84.0,44.0,,,,,,,,,5.0,31.3,18.1
+AA Jhunjhunwala,AA Jhunjhunwala,Deccan Chargers,all-rounder,,15,217,210,14.47,103.33,19,5,10,85,1,130,9.18,85.0,5,34,6.8,77.27,9.1,5,1,7.62,48.0,31.2,,,,,,,,,43.4,23.8,33.6
+AA Kazi,AA Kazi,Royal Challengers Bangalore,bowler,,,,,,,,,1,12,1,21,10.5,12.0,,,,,,1,1,10.5,12.0,16.7,,,,,,,,,5.0,0.0,1.0
+AA Kulkarni,AA Kulkarni,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2,9,8,4.5,112.5,2,0,,,,,,,2,9,4.5,112.5,25.0,,,,,,2,9,4.5,112.5,,,,,5.0,0.0,4.0
+AA Noffke,AA Noffke,Royal Challengers Bangalore,bowler,,1,9,10,9.0,90.0,1,0,1,24,1,41,10.25,24.0,1,9,9.0,90.0,10.0,1,1,10.25,24.0,25.0,,,,,,,,,5.0,0.0,1.0
+AB Agarkar,AB Agarkar,Delhi Daredevils,all-rounder,,18,179,154,9.94,116.23,13,5,42,782,33,1174,9.01,23.7,5,34,6.8,103.03,9.1,5,0,9.0,,23.8,,,,,,,,,47.0,22.3,34.6
+AB Barath,AB Barath,Kings XI Punjab,batter,,3,42,42,14.0,100.0,5,1,,,,,,,3,42,14.0,100.0,14.3,,,,,,,,,,,,,,5.0,0.0,4.0
+AB Dinda,AB Dinda,Rising Pune Supergiant,all-rounder,,16,26,48,1.62,54.17,2,0,75,1516,82,2103,8.32,18.5,5,17,3.4,70.83,8.3,5,6,9.24,17.0,43.1,,,,,,,,,24.0,43.9,34.0
+AB McDonald,AB McDonald,Royal Challengers Bangalore,all-rounder,,9,123,100,13.67,123.0,9,4,10,186,14,263,8.48,13.3,5,55,11.0,125.0,18.2,5,6,7.36,14.0,32.1,,,,,,,,,56.8,58.5,57.6
+AB de Villiers,AB de Villiers,Royal Challengers Bangalore,batter,,170,5162,3403,30.36,151.69,413,251,,,,,,,5,83,16.6,123.88,14.9,,,,,,,,,,,,,,75.3,0.0,60.2
+AC Blizzard,AC Blizzard,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",7,120,90,17.14,133.33,21,2,,,,,,,5,77,15.4,126.23,23.0,,,,,,,,,,,,,,63.6,0.0,50.9
+AC Gilchrist,AC Gilchrist,Kings XI Punjab,batter,,80,2069,1495,25.86,138.39,239,92,1,1,1,0,0.0,1.0,5,200,40.0,141.84,22.0,1,1,0.0,1.0,100.0,,,,,,,,,87.9,0.0,70.3
+AC Thomas,AC Thomas,Pune Warriors,all-rounder,,4,20,19,5.0,105.26,1,1,15,315,16,416,7.92,19.7,4,20,5.0,105.26,10.5,5,5,7.82,20.4,38.2,,,,,,,,,5.0,52.5,28.8
+AC Voges,AC Voges,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",7,181,143,25.86,126.57,15,3,7,54,1,76,8.44,54.0,5,99,19.8,102.06,8.2,5,1,9.83,36.0,27.8,,,,,,,,,66.6,0.0,33.3
+AD Hales,AD Hales,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",6,148,118,24.67,125.42,13,6,,,,,,,5,103,20.6,130.38,19.0,,,,,,,,,,,,,,70.9,0.0,56.7
+AD Mascarenhas,AD Mascarenhas,Kings XI Punjab,all-rounder,,11,79,78,7.18,101.28,5,1,13,308,19,365,7.11,16.2,5,22,4.4,91.67,4.2,5,7,6.75,17.1,35.0,,,,,,,,,39.4,74.1,56.8
+AD Mathews,AD Mathews,Delhi Daredevils,all-rounder,,41,724,575,17.66,125.91,44,29,44,791,28,1095,8.31,28.2,5,67,13.4,121.82,12.7,5,2,8.87,45.0,26.7,,,,,,,,,60.7,30.6,45.7
+AD Nath,AD Nath,Royal Challengers Bangalore,batter,,10,90,98,9.0,91.84,7,2,,,,,,,5,61,12.2,107.02,12.3,,,,,,,,,,,,,,46.4,0.0,37.1
+AD Russell,AD Russell,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",114,2651,1522,23.25,174.18,186,223,121,1806,133,2909,9.66,13.6,5,133,26.6,187.32,33.8,5,2,10.97,32.0,23.4,33,616,18.67,162.96,32,34,11.09,11.1,85.9,23.1,54.5
+AG Murtaza,AG Murtaza,Pune Warriors,all-rounder,,3,10,14,3.33,71.43,1,0,12,264,12,322,7.32,22.0,3,10,3.33,71.43,7.1,5,3,7.62,32.0,37.5,,,,,,,,,5.0,51.6,28.3
+AG Paunikar,AG Paunikar,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",5,49,58,9.8,84.48,9,0,,,,,,,5,49,9.8,84.48,15.5,,,,,,,,,,,,,,40.4,0.0,32.3
+AJ Finch,AJ Finch,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",90,2091,1631,23.23,128.2,214,78,5,43,1,67,9.35,43.0,5,86,17.2,140.98,21.3,5,1,9.35,43.0,30.2,,,,,,,,,70.1,0.0,35.0
+AJ Turner,AJ Turner,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",6,24,28,4.0,85.71,0,2,,,,,,,5,24,4.8,88.89,7.4,,,,,,2,21,10.5,116.67,,,,,41.6,0.0,33.3
+AJ Tye,AJ Tye,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",13,91,76,7.0,119.74,6,5,30,684,48,1005,8.82,14.2,5,20,4.0,86.96,13.0,5,5,11.33,21.6,25.9,,,,,,,,,41.3,39.9,40.6
+AL Menaria,AL Menaria,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",23,401,356,17.43,112.64,24,18,12,110,3,144,7.85,36.7,5,66,13.2,101.54,9.2,5,1,8.05,38.0,42.1,,,,,,,,,54.8,31.2,43.0
+AM Nayar,AM Nayar,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",50,672,577,13.44,116.46,55,20,19,229,9,323,8.46,25.4,5,54,10.8,88.52,9.8,5,2,8.4,30.0,25.0,,,,,,,,,49.3,30.5,39.9
+AM Salvi,AM Salvi,Delhi Daredevils,bowler,,,,,,,,,7,150,7,205,8.2,21.4,,,,,,5,6,7.35,20.0,43.3,,,,,,,,,5.0,55.3,45.2
+AN Ahmed,AN Ahmed,Royal Challengers Bangalore,all-rounder,,6,36,26,6.0,138.46,4,1,17,344,15,515,8.98,22.9,5,32,6.4,168.42,26.3,5,3,10.09,36.7,35.5,,,,,,,,,58.9,24.9,41.9
+AN Ghosh,AN Ghosh,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",2,7,8,3.5,87.5,1,0,,,,,,,2,7,3.5,87.5,12.5,,,,,,,,,,,,,,5.0,0.0,4.0
+AP Dole,AP Dole,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",2,34,22,17.0,154.55,3,1,3,66,5,114,10.36,13.2,2,34,17.0,154.55,18.2,3,5,10.36,13.2,30.3,,,,,,,,,5.0,41.7,34.4
+AP Majumdar,AP Majumdar,Pune Warriors,batter,,4,87,76,21.75,114.47,7,2,,,,,,,4,87,21.75,114.47,11.8,,,,,,,,,,,,,,5.0,0.0,4.0
+AP Tare,AP Tare,Delhi Daredevils,batter,,27,339,273,12.56,124.18,40,11,,,,,,,5,26,5.2,68.42,10.5,,,,,,,,,,,,,,43.2,0.0,34.6
+AR Bawne,AR Bawne,Delhi Daredevils,batter,,1,12,12,12.0,100.0,1,0,,,,,,,1,12,12.0,100.0,8.3,,,,,,,,,,,,,,5.0,0.0,4.0
+AS Joseph,AS Joseph,Royal Challengers Bengaluru,all-rounder,"M Chinnaswamy Stadium, Bengaluru",5,27,32,5.4,84.38,3,0,22,434,22,707,9.77,19.7,5,27,5.4,84.38,9.4,5,1,12.27,88.0,28.4,1,7,7.0,58.33,10,8,10.37,25.2,32.2,17.9,25.1
+AS Rajpoot,AS Rajpoot,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",7,26,41,3.71,63.41,2,1,29,529,24,844,9.57,22.0,5,20,4.0,71.43,7.1,5,1,12.77,78.0,30.8,,,,,,,,,27.3,15.5,21.4
+AS Raut,AS Raut,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",16,194,167,12.12,116.17,13,7,5,30,0,45,9.0,,5,62,12.4,100.0,9.7,5,0,9.0,,20.0,,,,,,,,,51.4,0.0,25.7
+AS Roy,AS Roy,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",7,26,25,3.71,104.0,3,0,10,160,8,218,8.17,20.0,5,22,4.4,122.22,11.1,5,3,10.03,21.3,34.4,6,26,4.33,113.04,7,6,8.6,17.7,42.9,32.9,37.9
+AS Yadav,AS Yadav,Deccan Chargers,batter,,6,49,39,8.17,125.64,5,2,,,,,,,5,39,7.8,134.48,20.7,,,,,,,,,,,,,,53.3,0.0,42.6
+AT Carey,AT Carey,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",3,32,29,10.67,110.34,0,1,,,,,,,3,32,10.67,110.34,3.4,,,,,,,,,,,,,,5.0,0.0,4.0
+AT Rayudu,AT Rayudu,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",185,4348,3409,23.5,127.54,359,173,,,,,,,5,75,15.0,144.23,15.4,,,,,,12,158,13.17,139.82,,,,,66.8,0.0,53.4
+AU Rashid,AU Rashid,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",2,22,16,11.0,137.5,2,1,3,60,2,91,9.1,30.0,2,22,11.0,137.5,18.8,3,2,9.1,30.0,33.3,2,22,11.0,137.5,2,2,8.0,21.0,5.0,36.8,30.4
+AUK Pathan,AUK Pathan,Royal Challengers Bangalore,all-rounder,,7,39,23,5.57,169.57,5,2,3,39,0,63,9.69,,5,27,5.4,158.82,23.5,3,0,9.69,,23.1,,,,,,,,,61.6,0.0,30.8
+Abdul Basith,Abdul Basith,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",1,1,1,1.0,100.0,0,0,,,,,,,1,1,1.0,100.0,0.0,,,,,,1,1,1.0,100.0,,,,,5.0,0.0,4.0
+Abdur Razzak,Abdur Razzak,Royal Challengers Bangalore,bowler,,1,0,2,0.0,0.0,0,0,1,12,0,29,14.5,,1,0,0.0,0.0,0.0,1,0,14.5,,41.7,,,,,,,,,5.0,0.0,1.0
+Akash Madhwal,Akash Madhwal,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",2,8,14,4.0,57.14,0,0,17,352,26,598,10.19,13.5,2,8,4.0,57.14,0.0,5,6,11.83,18.2,24.8,2,8,4.0,57.14,17,26,10.19,13.5,5.0,35.8,29.6
+Aman Hakim Khan,Aman Hakim Khan,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",10,115,104,11.5,110.58,8,6,1,6,0,13,13.0,,5,80,16.0,105.26,13.2,1,0,13.0,,16.7,9,110,12.22,108.91,,,,,52.5,0.0,42.0
+Anand Rajan,Anand Rajan,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",,,,,,,,8,149,10,206,8.3,14.9,,,,,,5,5,8.13,21.4,35.5,,,,,,,,,5.0,50.4,41.3
+Anirudh Singh,Anirudh Singh,Deccan Chargers,batter,,4,63,66,15.75,95.45,6,1,,,,,,,4,63,15.75,95.45,10.6,,,,,,,,,,,,,,5.0,0.0,4.0
+Ankit Sharma,Ankit Sharma,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",10,87,67,8.7,129.85,7,4,21,367,12,453,7.41,30.6,5,39,7.8,144.44,14.8,5,1,8.54,78.0,24.4,,,,,,,,,56.0,35.0,45.5
+Ankit Soni,Ankit Soni,Gujarat Lions,all-rounder,,3,7,9,2.33,77.78,0,1,6,109,4,145,7.98,27.2,3,7,2.33,77.78,11.1,5,2,7.71,45.5,34.1,,,,,,,,,5.0,40.3,22.6
+Anmolpreet Singh,Anmolpreet Singh,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",9,139,115,15.44,120.87,19,3,,,,,,,5,79,15.8,127.42,22.6,,,,,,6,110,18.33,125.0,,,,,62.4,0.0,49.9
+Anureet Singh,Anureet Singh,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",8,36,47,4.5,76.6,2,1,22,412,21,636,9.26,19.6,5,26,5.2,113.04,13.0,5,3,10.78,18.0,22.2,,,,,,,,,37.7,24.1,30.9
+Arshad Khan (2),Arshad Khan (2),Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,5,4,5.0,125.0,1,0,1,12,0,25,12.5,,1,5,5.0,125.0,25.0,1,0,12.5,,33.3,1,5,5.0,125.0,1,0,12.5,,5.0,0.0,1.0
+Atharva Taide,Atharva Taide,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",10,260,177,26.0,146.89,30,8,1,1,0,4,24.0,,5,148,29.6,145.1,22.5,1,0,24.0,,0.0,10,260,26.0,146.89,1,0,24.0,,82.6,0.0,66.1
+Azhar Mahmood,Azhar Mahmood,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",21,388,303,18.48,128.05,39,13,23,537,31,707,7.9,17.3,5,165,33.0,139.83,20.3,5,5,8.58,22.8,36.8,,,,,,,,,76.8,51.3,64.0
+B Akhil,B Akhil,Kochi Tuskers Kerala,all-rounder,,11,76,55,6.91,138.18,5,5,13,188,7,246,7.85,26.9,5,35,7.0,125.0,14.3,5,2,6.8,30.0,35.0,,,,,,,,,52.6,45.2,48.9
+B Chipli,B Chipli,Delhi Daredevils,batter,,21,280,251,13.33,111.55,28,7,1,6,0,20,20.0,,5,53,10.6,100.0,13.2,1,0,20.0,,16.7,,,,,,,,,50.2,0.0,40.2
+B Geeves,B Geeves,Delhi Daredevils,bowler,,,,,,,,,2,48,2,91,11.38,24.0,,,,,,2,2,11.38,24.0,31.2,,,,,,,,,5.0,0.0,1.0
+B Indrajith,B Indrajith,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",3,21,30,7.0,70.0,2,0,,,,,,,3,21,7.0,70.0,6.7,,,,,,,,,,,,,,5.0,0.0,4.0
+B Laughlin,B Laughlin,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",4,5,13,1.25,38.46,0,0,9,168,10,284,10.14,16.8,4,5,1.25,38.46,0.0,5,7,10.16,14.4,25.7,,,,,,,,,5.0,31.4,18.2
+B Lee,B Lee,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",19,124,97,6.53,127.84,8,8,38,875,30,1126,7.72,29.2,5,63,12.6,196.88,28.1,5,4,8.8,30.0,42.5,,,,,,,,,66.1,41.6,53.8
+B Stanlake,B Stanlake,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",1,5,2,5.0,250.0,1,0,6,144,7,200,8.33,20.6,1,5,5.0,250.0,50.0,5,5,8.55,24.0,43.3,,,,,,,,,5.0,46.6,38.3
+B Sumanth,B Sumanth,Deccan Chargers,batter,,4,35,37,8.75,94.59,3,0,,,,,,,4,35,8.75,94.59,8.1,,,,,,,,,,,,,,5.0,0.0,4.0
+BA Bhatt,BA Bhatt,Kings XI Punjab,bowler,,2,6,7,3.0,85.71,0,1,15,296,13,408,8.27,22.8,2,6,3.0,85.71,14.3,5,2,8.14,42.0,32.1,,,,,,,,,5.0,38.3,31.6
+BA Stokes,BA Stokes,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",43,935,698,21.74,133.95,81,32,38,689,31,1023,8.91,22.2,5,83,16.6,153.7,25.9,5,2,11.73,33.0,22.7,2,15,7.5,107.14,1,0,18.0,,61.2,13.2,37.2
+BAW Mendis,BAW Mendis,Pune Warriors,all-rounder,,3,3,6,1.0,50.0,0,0,10,240,9,288,7.2,26.7,3,3,1.0,50.0,0.0,5,4,7.3,30.0,34.2,,,,,,,,,5.0,55.6,30.3
+BB McCullum,BB McCullum,Royal Challengers Bangalore,batter,,109,2880,2186,26.42,131.75,293,130,,,,,,,5,84,16.8,137.7,23.0,,,,,,,,,,,,,,71.9,0.0,57.5
+BB Samantray,BB Samantray,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",8,125,113,15.62,110.62,13,2,,,,,,,5,84,16.8,116.67,15.3,,,,,,,,,,,,,,58.1,0.0,46.5
+BB Sran,BB Sran,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",7,10,14,1.43,71.43,0,0,24,483,20,767,9.53,24.2,5,8,1.6,66.67,0.0,5,2,12.29,42.0,29.8,,,,,,,,,24.9,18.4,21.6
+BCJ Cutting,BCJ Cutting,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",17,238,141,14.0,168.79,15,19,17,281,12,430,9.18,23.4,5,59,11.8,134.09,15.9,5,2,10.36,33.0,24.2,,,,,,,,,66.6,18.9,42.8
+BE Hendricks,BE Hendricks,Kings XI Punjab,bowler,,2,1,3,0.5,33.33,0,0,7,150,11,239,9.56,13.6,2,1,0.5,33.33,0.0,5,7,9.94,14.6,32.4,,,,,,,,,5.0,40.3,33.2
+BJ Haddin,BJ Haddin,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",1,18,11,18.0,163.64,2,1,,,,,,,1,18,18.0,163.64,27.3,,,,,,,,,,,,,,5.0,0.0,4.0
+BJ Hodge,BJ Hodge,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",63,1400,1118,22.22,125.22,122,43,20,234,18,310,7.95,13.0,5,120,24.0,130.43,13.0,5,7,6.2,8.6,41.7,,,,,,,,,71.5,65.3,68.4
+BJ Rohrer,BJ Rohrer,Delhi Daredevils,batter,,8,193,140,24.12,137.86,21,5,1,6,0,12,12.0,,5,156,31.2,141.82,20.0,1,0,12.0,,16.7,,,,,,,,,81.2,0.0,65.0
+BMAJ Mendis,BMAJ Mendis,Delhi Daredevils,batter,,3,23,27,7.67,85.19,0,0,2,30,1,36,7.2,30.0,3,23,7.67,85.19,0.0,2,1,7.2,30.0,36.7,,,,,,,,,5.0,0.0,4.0
+BR Dunk,BR Dunk,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",3,40,35,13.33,114.29,7,0,,,,,,,3,40,13.33,114.29,20.0,,,,,,,,,,,,,,5.0,0.0,4.0
+BR Sharath,BR Sharath,Gujarat Titans,batter,"Narendra Modi Stadium, Ahmedabad",1,2,5,2.0,40.0,0,0,,,,,,,1,2,2.0,40.0,0.0,,,,,,1,2,2.0,40.0,,,,,5.0,0.0,4.0
+BW Hilfenhaus,BW Hilfenhaus,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",,,,,,,,17,372,23,497,8.02,16.2,,,,,,5,5,9.67,21.6,44.4,,,,,,,,,5.0,43.8,36.0
+Basil Thampi,Basil Thampi,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",7,32,35,4.57,91.43,1,1,25,521,26,862,9.93,20.0,5,19,3.8,73.08,3.8,5,5,9.88,19.2,39.6,,,,,,,,,32.6,26.7,29.6
+Bipul Sharma,Bipul Sharma,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",17,187,123,11.0,152.03,11,9,28,426,22,581,8.18,19.4,5,63,12.6,165.79,18.4,5,2,9.09,34.0,27.9,,,,,,,,,67.7,31.9,49.8
+C Ganapathy,C Ganapathy,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",,,,,,,,1,6,0,13,13.0,,,,,,,1,0,13.0,,16.7,,,,,,,,,5.0,0.0,1.0
+C Madan,C Madan,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",1,15,19,15.0,78.95,3,0,,,,,,,1,15,15.0,78.95,15.8,,,,,,,,,,,,,,5.0,0.0,4.0
+C Munro,C Munro,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",11,177,141,16.09,125.53,19,8,2,12,0,15,7.5,,5,84,16.8,118.31,18.3,2,0,7.5,,41.7,,,,,,,,,61.2,0.0,49.0
+C Nanda,C Nanda,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",1,0,1,0.0,0.0,0,0,3,48,2,58,7.25,24.0,1,0,0.0,0.0,0.0,3,2,7.25,24.0,27.1,,,,,,,,,5.0,0.0,1.0
+C Sakariya,C Sakariya,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",7,20,31,2.86,64.52,3,0,20,444,20,649,8.77,22.2,5,13,2.6,54.17,8.3,5,5,10.26,22.8,28.9,2,4,2.0,66.67,3,3,11.64,22.0,23.8,29.6,26.7
+C de Grandhomme,C de Grandhomme,Royal Challengers Bangalore,all-rounder,,21,303,225,14.43,134.67,18,18,19,216,7,323,8.97,30.9,5,48,9.6,92.31,11.5,5,0,12.44,,3.7,,,,,,,,,52.8,11.0,31.9
+CA Ingram,CA Ingram,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",15,205,180,13.67,113.89,22,5,,,,,,,5,46,9.2,93.88,12.2,,,,,,,,,,,,,,48.9,0.0,39.1
+CA Lynn,CA Lynn,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",42,1329,945,31.64,140.63,132,66,,,,,,,5,190,38.0,161.02,26.3,,,,,,,,,,,,,,93.8,0.0,75.0
+CA Pujara,CA Pujara,Kings XI Punjab,batter,,22,390,391,17.73,99.74,50,4,,,,,,,5,112,22.4,98.25,13.2,,,,,,,,,,,,,,58.1,0.0,46.5
+CH Gayle,CH Gayle,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",141,4965,3333,35.21,148.96,405,357,38,554,19,755,8.18,29.2,5,74,14.8,134.55,20.0,5,2,6.46,32.5,32.3,,,,,,,,,78.5,44.7,61.6
+CH Morris,CH Morris,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",49,618,398,12.61,155.28,41,35,81,1720,105,2362,8.24,16.4,5,29,5.8,107.41,11.1,5,5,10.05,22.8,28.1,,,,,,,,,55.3,39.7,47.5
+CJ Anderson,CJ Anderson,Royal Challengers Bangalore,all-rounder,,29,538,423,18.55,127.19,40,31,22,297,14,525,10.61,21.2,5,23,4.6,63.89,2.8,5,5,11.71,16.4,23.2,,,,,,,,,46.3,20.5,33.4
+CJ Dala,CJ Dala,Delhi Daredevils,bowler,,,,,,,,,1,18,0,34,11.33,,,,,,,1,0,11.33,,38.9,,,,,,,,,5.0,0.0,1.0
+CJ Ferguson,CJ Ferguson,Pune Warriors,batter,,8,98,117,12.25,83.76,9,0,,,,,,,5,66,13.2,80.49,6.1,,,,,,,,,,,,,,43.3,0.0,34.6
+CJ Green,CJ Green,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",,,,,,,,1,17,0,24,8.47,,,,,,,1,0,8.47,,35.3,,,,,,,,,5.0,0.0,1.0
+CJ Jordan,CJ Jordan,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",12,81,77,6.75,105.19,3,3,34,668,35,1100,9.88,19.1,5,19,3.8,82.61,0.0,5,2,10.72,54.0,31.5,2,6,3.0,50.0,6,3,10.95,44.0,30.9,16.2,23.5
+CJ McKay,CJ McKay,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",1,8,15,8.0,53.33,0,0,2,42,1,60,8.57,42.0,1,8,8.0,53.33,0.0,2,1,8.57,42.0,33.3,,,,,,,,,5.0,0.0,1.0
+CK Kapugedera,CK Kapugedera,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",3,16,23,5.33,69.57,0,0,3,17,0,49,17.29,,3,16,5.33,69.57,0.0,3,0,17.29,,0.0,,,,,,,,,5.0,0.0,2.5
+CK Langeveldt,CK Langeveldt,Royal Challengers Bangalore,bowler,,2,8,9,4.0,88.89,0,1,7,156,13,199,7.65,12.0,2,8,4.0,88.89,11.1,5,8,8.56,13.5,39.8,,,,,,,,,5.0,66.9,54.5
+CL White,CL White,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",45,954,755,21.2,126.36,76,36,6,42,1,86,12.29,42.0,5,86,17.2,134.38,20.3,5,1,10.33,36.0,22.2,,,,,,,,,67.5,0.0,33.8
+CM Gautam,CM Gautam,Delhi Daredevils,batter,,13,169,150,13.0,112.67,17,6,,,,,,,5,52,10.4,98.11,15.1,,,,,,,,,,,,,,49.8,0.0,39.8
+CR Brathwaite,CR Brathwaite,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",14,181,111,12.93,163.06,10,16,16,254,16,384,9.07,15.9,5,83,16.6,153.7,18.5,5,4,9.81,15.8,33.3,,,,,,,,,71.2,29.5,50.4
+CR Woakes,CR Woakes,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",12,78,77,6.5,101.3,7,2,21,440,31,674,9.19,14.2,5,32,6.4,106.67,13.3,5,6,8.94,18.0,42.6,,,,,,,,,42.7,45.1,43.9
+CRD Fernando,CRD Fernando,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",2,4,3,2.0,133.33,0,0,10,234,19,306,7.85,12.3,2,4,2.0,133.33,0.0,5,7,7.47,16.3,43.9,,,,,,,,,5.0,70.5,57.4
+D Jansen,D Jansen,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,1,24,1,53,13.25,24.0,,,,,,1,1,13.25,24.0,25.0,,,,,1,1,13.25,24.0,5.0,0.0,1.0
+D Kalyankrishna,D Kalyankrishna,Deccan Chargers,bowler,,1,3,8,3.0,37.5,0,0,3,48,2,88,11.0,24.0,1,3,3.0,37.5,0.0,3,2,11.0,24.0,20.8,,,,,,,,,5.0,0.0,1.0
+D Pretorius,D Pretorius,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",5,44,28,8.8,157.14,3,3,7,150,7,242,9.68,21.4,5,44,8.8,157.14,21.4,5,3,10.53,34.0,23.5,,,,,1,0,7.25,,63.4,27.0,45.2
+D Salunkhe,D Salunkhe,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",3,33,24,11.0,137.5,5,0,5,47,1,80,10.21,47.0,3,33,11.0,137.5,20.8,5,1,10.21,47.0,27.7,,,,,,,,,5.0,0.0,2.5
+D Wiese,D Wiese,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",11,148,101,13.45,146.53,12,7,15,296,17,447,9.06,17.4,5,38,7.6,172.73,18.2,5,3,10.05,38.0,21.1,3,21,7.0,190.91,1,0,12.67,,68.8,16.5,42.6
+D du Preez,D du Preez,Royal Challengers Bangalore,bowler,,1,10,13,10.0,76.92,0,0,2,42,4,56,8.0,10.5,1,10,10.0,76.92,0.0,2,4,8.0,10.5,42.9,,,,,,,,,5.0,0.0,1.0
+DA Warner,DA Warner,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",184,6565,4697,35.68,139.77,663,236,1,1,0,2,12.0,,5,38,7.6,108.57,17.1,1,0,12.0,,0.0,22,684,31.09,132.3,,,,,74.2,0.0,59.4
+DAJ Bracewell,DAJ Bracewell,Delhi Daredevils,bowler,,1,12,9,12.0,133.33,1,0,1,24,3,32,8.0,8.0,1,12,12.0,133.33,11.1,1,3,8.0,8.0,41.7,,,,,,,,,5.0,0.0,1.0
+DB Das,DB Das,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",22,304,261,13.82,116.48,23,16,,,,,,,5,74,14.8,104.23,14.1,,,,,,,,,,,,,,54.7,0.0,43.8
+DB Ravi Teja,DB Ravi Teja,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",25,375,317,15.0,118.3,35,9,2,18,1,28,9.33,18.0,5,78,15.6,125.81,12.9,2,1,9.33,18.0,22.2,,,,,,,,,59.8,0.0,47.8
+DE Bollinger,DE Bollinger,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",4,21,23,5.25,91.3,1,1,27,576,43,716,7.46,13.4,4,21,5.25,91.3,8.7,5,8,8.82,10.6,43.5,,,,,,,,,5.0,63.2,34.1
+DG Nalkande,DG Nalkande,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",2,12,12,6.0,100.0,0,1,6,84,6,150,10.71,14.0,2,12,6.0,100.0,8.3,5,4,10.27,16.5,27.3,2,12,6.0,100.0,4,4,10.3,13.2,5.0,23.5,19.8
+DH Yagnik,DH Yagnik,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",17,170,137,10.0,124.09,23,2,,,,,,,5,55,11.0,117.02,17.0,,,,,,,,,,,,,,53.3,0.0,42.6
+DJ Bravo,DJ Bravo,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",110,1560,1204,14.18,129.57,120,66,158,3120,207,4436,8.53,15.1,5,22,4.4,95.65,8.7,5,10,8.64,10.0,32.0,,,,,,,,,49.1,59.1,54.1
+DJ Harris,DJ Harris,Deccan Chargers,batter,,4,111,101,27.75,109.9,11,5,2,18,0,26,8.67,,4,111,27.75,109.9,15.8,2,0,8.67,,22.2,,,,,,,,,5.0,0.0,4.0
+DJ Hooda,DJ Hooda,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",101,1496,1172,14.81,127.65,98,62,34,379,10,550,8.71,37.9,5,31,6.2,75.61,7.3,5,0,9.5,,22.2,26,260,10.0,110.17,4,0,9.0,,47.9,13.9,30.9
+DJ Hussey,DJ Hussey,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",61,1322,1075,21.67,122.98,90,60,26,317,10,485,9.18,31.7,5,117,23.4,120.62,14.4,5,2,9.47,41.5,28.9,,,,,,,,,68.8,18.2,43.5
+DJ Jacobs,DJ Jacobs,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",7,92,98,13.14,93.88,10,4,,,,,,,5,69,13.8,90.79,13.2,,,,,,,,,,,,,,47.6,0.0,38.1
+DJ Malan,DJ Malan,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",1,26,26,26.0,100.0,1,1,,,,,,,1,26,26.0,100.0,7.7,,,,,,,,,,,,,,5.0,0.0,4.0
+DJ Mitchell,DJ Mitchell,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",15,351,267,23.4,131.46,28,10,4,48,1,97,12.12,48.0,5,120,24.0,164.38,23.3,4,1,12.12,48.0,10.4,13,318,24.46,142.6,2,1,11.67,36.0,78.6,0.0,39.3
+DJ Muthuswami,DJ Muthuswami,Delhi Daredevils,bowler,,1,1,3,1.0,33.33,0,0,6,84,4,108,7.71,21.0,1,1,1.0,33.33,0.0,5,3,7.82,22.0,53.0,,,,,,,,,5.0,43.8,36.0
+DJ Thornely,DJ Thornely,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",4,39,53,9.75,73.58,2,2,4,42,3,40,5.71,14.0,4,39,9.75,73.58,7.5,4,3,5.71,14.0,45.2,,,,,,,,,5.0,0.0,2.5
+DJ Willey,DJ Willey,Royal Challengers Bangalore,all-rounder,,5,53,62,10.6,85.48,7,0,11,216,7,277,7.69,30.9,5,53,10.6,85.48,11.3,5,4,6.71,25.5,43.1,3,35,11.67,109.38,4,4,7.07,22.5,45.5,56.4,51.0
+DJG Sammy,DJG Sammy,Royal Challengers Bangalore,all-rounder,,20,295,241,14.75,122.41,15,18,19,236,14,354,9.0,16.9,5,52,10.4,118.18,11.4,5,0,10.83,,13.9,,,,,,,,,55.8,15.5,35.6
+DJM Short,DJM Short,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",7,115,99,16.43,116.16,11,5,2,18,1,23,7.67,18.0,5,105,21.0,114.13,15.2,2,1,7.67,18.0,38.9,,,,,,,,,61.8,0.0,49.4
+DL Vettori,DL Vettori,Royal Challengers Bangalore,all-rounder,,16,121,113,7.56,107.08,11,2,34,777,34,894,6.9,22.9,5,28,5.6,127.27,18.2,5,3,6.95,40.0,31.7,,,,,,,,,47.3,58.4,52.8
+DM Bravo,DM Bravo,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",1,6,5,6.0,120.0,1,0,,,,,,,1,6,6.0,120.0,20.0,,,,,,,,,,,,,,5.0,0.0,4.0
+DNT Zoysa,DNT Zoysa,Deccan Chargers,bowler,,2,11,9,5.5,122.22,1,0,3,66,2,100,9.09,33.0,2,11,5.5,122.22,11.1,3,2,9.09,33.0,36.4,,,,,,,,,5.0,28.0,23.4
+DP Conway,DP Conway,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",28,1080,773,38.57,139.72,117,34,,,,,,,5,143,28.6,136.19,19.0,,,,,,21,828,39.43,138.0,,,,,90.9,0.0,72.7
+DP Nannes,DP Nannes,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",2,4,13,2.0,30.77,0,0,29,646,38,815,7.57,17.0,2,4,2.0,30.77,0.0,5,5,8.32,23.8,42.0,,,,,,,,,5.0,54.6,44.7
+DP Vijaykumar,DP Vijaykumar,Deccan Chargers,bowler,,1,1,1,1.0,100.0,0,0,9,152,4,205,8.09,38.0,1,1,1.0,100.0,0.0,5,2,8.93,46.0,37.0,,,,,,,,,5.0,29.2,24.4
+DPMD Jayawardene,DPMD Jayawardene,Delhi Daredevils,batter,,78,1802,1462,23.1,123.26,200,39,,,,,,,5,117,23.4,105.41,16.2,,,,,,,,,,,,,,67.2,0.0,53.8
+DR Martyn,DR Martyn,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",1,19,24,19.0,79.17,1,0,,,,,,,1,19,19.0,79.17,4.2,,,,,,,,,,,,,,5.0,0.0,4.0
+DR Sams,DR Sams,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",13,44,44,3.38,100.0,1,3,16,360,15,528,8.8,24.0,5,17,3.4,77.27,4.5,5,7,7.05,16.3,49.1,,,,,,,,,33.8,55.2,44.5
+DR Shorey,DR Shorey,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",2,13,17,6.5,76.47,0,1,,,,,,,2,13,6.5,76.47,5.9,,,,,,,,,,,,,,5.0,0.0,4.0
+DR Smith,DR Smith,Gujarat Lions,all-rounder,,88,2385,1764,27.1,135.2,245,117,46,539,27,825,9.18,20.0,5,145,29.0,170.59,28.2,5,1,11.0,48.0,16.7,,,,,,,,,86.0,15.0,50.5
+DS Kulkarni,DS Kulkarni,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",20,104,108,5.2,96.3,7,2,92,1787,91,2513,8.44,19.6,5,15,3.0,107.14,7.1,5,2,10.56,54.0,30.6,,,,,,,,,39.0,27.1,33.0
+DS Lehmann,DS Lehmann,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",2,18,18,9.0,100.0,3,0,,,,,,,2,18,9.0,100.0,16.7,,,,,,,,,,,,,,5.0,0.0,4.0
+DT Christian,DT Christian,Royal Challengers Bangalore,all-rounder,,41,460,398,11.22,115.58,23,19,49,883,40,1218,8.28,22.1,5,12,2.4,63.16,5.3,5,4,9.72,14.5,31.0,,,,,,,,,38.3,32.7,35.5
+DT Patil,DT Patil,Royal Challengers Bangalore,batter,,2,13,13,6.5,100.0,1,0,,,,,,,2,13,6.5,100.0,7.7,,,,,,,,,,,,,,5.0,0.0,4.0
+DW Steyn,DW Steyn,Royal Challengers Bangalore,all-rounder,,33,167,160,5.06,104.38,14,3,95,2176,105,2568,7.08,20.7,5,22,4.4,129.41,17.6,5,5,10.58,23.6,34.7,,,,,,,,,44.9,44.6,44.8
+E Lewis,E Lewis,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",26,654,477,25.15,137.11,62,36,,,,,,,5,73,14.6,130.36,19.6,,,,,,,,,,,,,,69.4,0.0,55.5
+EJG Morgan,EJG Morgan,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",74,1405,1146,18.99,122.6,112,64,,,,,,,5,24,4.8,77.42,6.5,,,,,,,,,,,,,,48.2,0.0,38.6
+ER Dwivedi,ER Dwivedi,Gujarat Lions,batter,,2,24,14,12.0,171.43,2,2,,,,,,,2,24,12.0,171.43,28.6,,,,,,,,,,,,,,5.0,0.0,4.0
+F Behardien,F Behardien,Kings XI Punjab,batter,,3,14,13,4.67,107.69,2,0,,,,,,,3,14,4.67,107.69,15.4,,,,,,,,,,,,,,5.0,0.0,4.0
+F du Plessis,F du Plessis,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",147,4773,3515,32.47,135.79,440,174,1,6,0,16,16.0,,5,99,19.8,116.47,15.3,1,0,16.0,,0.0,38,1370,36.05,150.72,,,,,82.9,0.0,66.3
+FH Edwards,FH Edwards,Deccan Chargers,bowler,,2,4,5,2.0,80.0,0,0,6,140,6,160,6.86,23.3,2,4,2.0,80.0,0.0,5,6,7.81,19.3,45.7,,,,,,,,,5.0,60.8,49.6
+FY Fazal,FY Fazal,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",11,183,173,16.64,105.78,22,1,2,12,1,20,10.0,12.0,5,78,15.6,102.63,11.8,2,1,10.0,12.0,8.3,,,,,,,,,54.9,0.0,43.9
+Fazalhaq Farooqi,Fazalhaq Farooqi,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",3,5,15,1.67,33.33,0,0,12,254,6,440,10.39,42.3,3,5,1.67,33.33,0.0,5,0,12.41,,23.5,2,3,1.5,42.86,9,4,10.88,45.5,5.0,8.2,6.6
+G Coetzee,G Coetzee,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",7,31,33,4.43,93.94,2,2,14,273,15,490,10.77,18.2,5,26,5.2,123.81,19.0,5,2,11.21,42.0,26.2,7,31,4.43,93.94,14,15,10.77,18.2,40.1,21.8,31.0
+G Gambhir,G Gambhir,Delhi Daredevils,batter,,151,4217,3404,27.93,123.88,492,59,,,,,,,5,85,17.0,96.59,10.2,,,,,,,,,,,,,,64.8,0.0,51.8
+GB Hogg,GB Hogg,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",4,22,22,5.5,100.0,1,0,21,458,25,585,7.66,18.3,4,22,5.5,100.0,4.5,5,5,9.0,19.2,32.3,,,,,,,,,5.0,48.3,26.6
+GC Smith,GC Smith,Pune Warriors,batter,,29,739,668,25.48,110.63,94,9,,,,,,,5,60,12.0,88.24,13.2,,,,,,,,,,,,,,56.6,0.0,45.3
+GC Viljoen,GC Viljoen,Kings XI Punjab,all-rounder,,3,3,7,1.0,42.86,0,0,6,138,8,229,9.96,17.2,3,3,1.0,42.86,0.0,5,7,10.11,16.3,28.9,,,,,,,,,5.0,34.4,19.7
+GD McGrath,GD McGrath,Delhi Daredevils,bowler,,2,4,5,2.0,80.0,1,0,14,324,14,366,6.78,23.1,2,4,2.0,80.0,20.0,5,5,8.56,21.6,45.4,,,,,,,,,5.0,54.1,44.3
+GH Vihari,GH Vihari,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",23,284,321,12.35,88.47,23,1,6,42,1,48,6.86,42.0,5,27,5.4,81.82,9.1,5,0,7.17,,41.7,,,,,,,,,39.5,0.0,19.8
+GHS Garton,GHS Garton,Royal Challengers Bangalore,bowler,,2,2,4,1.0,50.0,0,0,5,90,3,136,9.07,30.0,2,2,1.0,50.0,0.0,5,3,9.07,30.0,34.4,,,,,,,,,5.0,26.6,22.3
+GJ Bailey,GJ Bailey,Rising Pune Supergiants,batter,,36,663,544,18.42,121.88,59,19,,,,,,,5,84,16.8,85.71,11.2,,,,,,,,,,,,,,56.6,0.0,45.3
+GJ Maxwell,GJ Maxwell,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",134,2819,1817,21.04,155.15,238,161,85,1022,45,1422,8.35,22.7,5,48,9.6,100.0,12.5,5,3,7.64,22.0,37.9,29,500,17.24,161.29,19,14,8.52,16.9,67.1,38.3,52.7
+GR Napier,GR Napier,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",1,15,16,15.0,93.75,1,0,1,24,1,28,7.0,24.0,1,15,15.0,93.75,6.2,1,1,7.0,24.0,33.3,,,,,,,,,5.0,0.0,1.0
+GS Sandhu,GS Sandhu,Delhi Daredevils,bowler,,,,,,,,,2,48,1,86,10.75,48.0,,,,,,2,1,10.75,48.0,18.8,,,,,,,,,5.0,0.0,1.0
+Gagandeep Singh,Gagandeep Singh,Kings XI Punjab,bowler,,,,,,,,,4,84,3,142,10.14,28.0,,,,,,4,3,10.14,28.0,29.8,,,,,,,,,5.0,18.8,16.0
+Gulbadin Naib,Gulbadin Naib,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",1,19,15,19.0,126.67,1,1,1,6,0,12,12.0,,1,19,19.0,126.67,13.3,1,0,12.0,,16.7,1,19,19.0,126.67,1,0,12.0,,5.0,0.0,1.0
+Gurkeerat Singh,Gurkeerat Singh,Royal Challengers Bangalore,all-rounder,,32,511,422,15.97,121.09,55,11,6,78,5,97,7.46,15.6,5,71,14.2,88.75,10.0,5,3,8.0,20.0,30.0,,,,,,,,,53.8,46.3,50.0
+H Das,H Das,Deccan Chargers,batter,,1,2,5,2.0,40.0,0,0,,,,,,,1,2,2.0,40.0,0.0,,,,,,,,,,,,,,5.0,0.0,4.0
+H Sharma,H Sharma,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",,,,,,,,2,30,0,62,12.4,,,,,,,2,0,12.4,,6.7,,,,,2,0,12.4,,5.0,0.0,1.0
+HC Brook,HC Brook,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",11,190,154,17.27,123.38,23,4,,,,,,,5,34,6.8,85.0,7.5,,,,,,11,190,17.27,123.38,,,,,54.9,0.0,43.9
+HE van der Dussen,HE van der Dussen,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",3,22,24,7.33,91.67,2,0,,,,,,,3,22,7.33,91.67,8.3,,,,,,,,,,,,,,5.0,0.0,4.0
+HF Gurney,HF Gurney,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",1,1,5,1.0,20.0,0,0,8,162,7,239,8.85,23.1,1,1,1.0,20.0,0.0,5,4,9.24,25.5,32.4,,,,,,,,,5.0,32.9,27.3
+HH Gibbs,HH Gibbs,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",36,886,807,24.61,109.79,83,31,,,,,,,5,111,22.2,89.52,10.5,,,,,,,,,,,,,,62.5,0.0,50.0
+HM Amla,HM Amla,Kings XI Punjab,batter,,16,577,407,36.06,141.77,60,21,,,,,,,5,290,58.0,158.47,21.3,,,,,,,,,,,,,,108.8,0.0,87.0
+HR Shokeen,HR Shokeen,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",5,66,65,13.2,101.54,9,0,13,204,5,320,9.41,40.8,5,66,13.2,101.54,13.8,5,2,9.25,36.0,31.9,3,23,7.67,135.29,8,3,10.0,38.0,52.1,14.7,33.4
+Harbhajan Singh,Harbhajan Singh,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",88,833,604,9.47,137.91,79,42,160,3416,161,4101,7.2,21.2,5,26,5.2,68.42,7.9,5,2,8.07,45.0,37.8,,,,,,,,,43.6,47.1,45.4
+Harmeet Singh,Harmeet Singh,Kings XI Punjab,all-rounder,,4,18,12,4.5,150.0,3,0,28,549,31,747,8.16,17.7,4,18,4.5,150.0,25.0,5,7,7.91,15.7,39.1,,,,,,,,,5.0,55.9,30.4
+Harpreet Singh,Harpreet Singh,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",8,123,119,15.38,103.36,10,3,,,,,,,5,103,20.6,110.75,14.0,,,,,,5,103,20.6,110.75,,,,,60.0,0.0,48.0
+I Malhotra,I Malhotra,Deccan Chargers,bowler,,1,7,4,7.0,175.0,1,0,1,6,0,23,23.0,,1,7,7.0,175.0,25.0,1,0,23.0,,0.0,,,,,,,,,5.0,0.0,1.0
+I Udana,I Udana,Royal Challengers Bangalore,all-rounder,,4,15,11,3.75,136.36,1,1,10,174,8,286,9.86,21.8,4,15,3.75,136.36,18.2,5,1,9.82,66.0,28.8,,,,,,,,,5.0,14.5,9.8
+IC Pandey,IC Pandey,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",1,0,2,0.0,0.0,0,0,24,462,19,609,7.91,24.3,1,0,0.0,0.0,0.0,5,7,7.47,12.9,52.2,,,,,,,,,5.0,56.3,46.0
+IC Porel,IC Porel,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,1,24,1,42,10.5,24.0,,,,,,1,1,10.5,24.0,29.2,,,,,,,,,5.0,0.0,1.0
+IK Pathan,IK Pathan,Gujarat Lions,all-rounder,,82,1139,946,13.89,120.4,87,37,101,2043,99,2711,7.96,20.6,5,36,7.2,102.86,5.7,5,2,9.31,39.0,34.6,,,,,,,,,50.4,34.3,42.3
+IR Jaggi,IR Jaggi,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",7,76,97,10.86,78.35,6,0,,,,,,,5,48,9.6,80.0,5.0,,,,,,,,,,,,,,39.2,0.0,31.4
+IS Sodhi,IS Sodhi,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",2,7,17,3.5,41.18,0,0,8,181,9,204,6.76,20.1,2,7,3.5,41.18,0.0,5,6,6.99,19.2,37.4,,,,,,,,,5.0,68.1,55.5
+Imran Tahir,Imran Tahir,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",8,33,37,4.12,89.19,5,0,59,1316,86,1729,7.88,15.3,5,23,4.6,92.0,12.0,5,6,6.5,18.0,36.1,,,,,,,,,35.6,68.3,52.0
+Iqbal Abdulla,Iqbal Abdulla,Royal Challengers Bangalore,all-rounder,,13,88,84,6.77,104.76,9,1,48,920,45,1125,7.34,20.4,5,62,12.4,119.23,17.3,5,4,9.75,18.0,26.4,,,,,,,,,49.3,39.9,44.6
+J Arunkumar,J Arunkumar,Royal Challengers Bangalore,batter,,3,23,23,7.67,100.0,5,0,,,,,,,3,23,7.67,100.0,21.7,,,,,,,,,,,,,,5.0,0.0,4.0
+J Botha,J Botha,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",28,409,359,14.61,113.93,39,5,34,694,27,818,7.07,25.7,5,55,11.0,130.95,23.8,5,1,8.75,72.0,27.8,,,,,,,,,56.8,38.6,47.7
+J Fraser-McGurk,J Fraser-McGurk,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",15,385,193,25.67,199.48,39,30,,,,,,,5,54,10.8,108.0,18.0,,,,,,15,385,25.67,199.48,,,,,83.9,0.0,67.1
+J Little,J Little,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",,,,,,,,11,228,13,341,8.97,17.5,,,,,,5,6,9.5,16.0,30.2,,,,,11,13,8.97,17.5,5.0,40.6,33.5
+J Suchith,J Suchith,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",9,70,61,7.78,114.75,6,3,21,420,20,604,8.63,21.0,5,23,4.6,76.67,10.0,5,7,7.83,15.4,44.4,,,,,,,,,39.6,51.5,45.5
+J Syed Mohammad,J Syed Mohammad,Royal Challengers Bangalore,all-rounder,,5,29,26,5.8,111.54,4,0,11,192,10,286,8.94,19.2,5,29,5.8,111.54,15.4,5,4,9.36,21.0,16.7,,,,,,,,,44.4,32.0,38.2
+J Theron,J Theron,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",4,10,12,2.5,83.33,1,0,10,216,11,302,8.39,19.6,4,10,2.5,83.33,8.3,5,6,9.25,20.0,27.5,,,,,,,,,5.0,43.5,24.2
+J Yadav,J Yadav,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",4,40,36,10.0,111.11,2,1,20,390,9,447,6.88,43.3,4,40,10.0,111.11,8.3,5,2,7.71,51.0,41.2,,,,,1,0,6.5,,5.0,44.2,24.6
+JA Morkel,JA Morkel,Rising Pune Supergiants,all-rounder,,67,974,686,14.54,141.98,61,55,87,1723,96,2409,8.39,17.9,5,103,20.6,137.33,17.3,5,6,10.5,14.0,29.8,,,,,,,,,68.5,38.9,53.7
+JA Richardson,JA Richardson,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",3,17,26,5.67,65.38,2,0,4,90,3,162,10.8,30.0,3,17,5.67,65.38,7.7,4,3,10.8,30.0,33.3,1,2,2.0,100.0,1,0,10.0,,5.0,11.2,8.1
+JD Ryder,JD Ryder,Pune Warriors,all-rounder,,29,604,458,20.83,131.88,69,19,16,236,11,314,7.98,21.5,5,39,7.8,82.98,8.5,5,1,10.62,48.0,20.8,,,,,,,,,53.7,23.7,38.7
+JDP Oram,JDP Oram,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",11,106,108,9.64,98.15,6,5,14,237,13,362,9.16,18.2,5,34,6.8,70.83,4.2,5,3,9.9,21.0,34.9,,,,,,,,,38.4,25.0,31.7
+JDS Neesham,JDS Neesham,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",10,92,93,9.2,98.92,6,2,13,216,8,342,9.5,27.0,5,33,6.6,103.12,9.4,5,5,8.2,18.0,35.6,,,,,,,,,43.5,34.6,39.0
+JE Root,JE Root,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",1,10,15,10.0,66.67,1,0,1,12,0,15,7.5,,1,10,10.0,66.67,6.7,1,0,7.5,,8.3,1,10,10.0,66.67,1,0,7.5,,5.0,0.0,1.0
+JE Taylor,JE Taylor,Pune Warriors,bowler,,2,3,3,1.5,100.0,0,0,5,117,6,167,8.56,19.5,2,3,1.5,100.0,0.0,5,6,8.56,19.5,41.0,,,,,,,,,5.0,48.0,39.4
+JEC Franklin,JEC Franklin,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",16,327,301,20.44,108.64,25,9,15,151,9,225,8.94,16.8,5,53,10.6,74.65,7.0,5,4,7.22,13.5,29.6,,,,,,,,,49.9,41.5,45.7
+JH Kallis,JH Kallis,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",95,2427,2222,25.55,109.23,255,44,89,1742,74,2348,8.09,23.5,5,79,15.8,96.34,11.0,5,2,9.85,39.0,26.9,,,,,,,,,60.1,28.3,44.2
+JJ Roy,JJ Roy,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",21,614,443,29.24,138.6,75,21,,,,,,,5,125,25.0,132.98,24.5,,,,,,8,285,35.62,151.6,,,,,85.5,0.0,68.4
+JJ van der Wath,JJ van der Wath,Royal Challengers Bangalore,all-rounder,,3,18,16,6.0,112.5,1,1,3,72,3,134,11.17,24.0,3,18,6.0,112.5,12.5,3,3,11.17,24.0,40.3,,,,,,,,,5.0,25.0,15.0
+JL Denly,JL Denly,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",1,0,1,0.0,0.0,0,0,,,,,,,1,0,0.0,0.0,0.0,,,,,,,,,,,,,,5.0,0.0,4.0
+JL Pattinson,JL Pattinson,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",2,15,13,7.5,115.38,2,0,10,213,11,321,9.04,19.4,2,15,7.5,115.38,15.4,5,4,10.39,23.2,32.3,,,,,,,,,5.0,29.8,24.8
+JM Bairstow,JM Bairstow,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",52,1674,1146,32.19,146.07,173,74,,,,,,,5,133,26.6,147.78,21.1,,,,,,13,383,29.46,158.92,,,,,87.4,0.0,69.9
+JM Kemp,JM Kemp,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",2,26,24,13.0,108.33,1,1,5,44,3,58,7.91,14.7,2,26,13.0,108.33,8.3,5,3,7.91,14.7,34.1,,,,,,,,,5.0,0.0,1.0
+JM Sharma,JM Sharma,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",47,991,631,21.09,157.05,77,62,,,,,,,5,160,32.0,210.53,34.2,,,,,,37,757,20.46,155.12,,,,,87.6,0.0,70.1
+JP Behrendorff,JP Behrendorff,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",2,6,9,3.0,66.67,0,0,17,366,22,563,9.23,16.6,2,6,3.0,66.67,0.0,5,3,8.67,36.0,33.3,2,6,3.0,66.67,12,17,9.4,14.8,5.0,39.2,32.4
+JP Duminy,JP Duminy,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",75,2029,1636,27.05,124.02,126,79,49,678,23,847,7.5,29.5,5,76,15.2,97.44,9.0,5,1,10.43,42.0,28.6,,,,,,,,,63.3,24.0,43.6
+JP Faulkner,JP Faulkner,Gujarat Lions,all-rounder,,45,527,389,11.71,135.48,36,23,60,1227,72,1827,8.93,17.0,5,50,10.0,90.91,7.3,5,4,11.41,23.0,18.5,,,,,,,,,51.3,31.7,41.5
+JP Inglis,JP Inglis,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",11,278,171,25.27,162.57,26,16,,,,,,,5,186,37.2,177.14,27.6,,,,,,11,278,25.27,162.57,,,,,91.7,0.0,73.4
+JPR Scantlebury-Searles,JPR Scantlebury-Searles,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",2,8,6,4.0,133.33,0,1,3,42,2,89,12.71,21.0,2,8,4.0,133.33,16.7,3,2,12.71,21.0,16.7,,,,,,,,,5.0,0.0,1.0
+JR Hopes,JR Hopes,Delhi Daredevils,all-rounder,,19,417,306,21.95,136.27,49,11,20,360,14,562,9.37,25.7,5,112,22.4,115.46,15.5,5,3,9.06,32.0,28.1,,,,,,,,,69.7,26.1,47.9
+JR Philippe,JR Philippe,Royal Challengers Bangalore,batter,,5,78,77,15.6,101.3,9,1,,,,,,,5,78,15.6,101.3,13.0,,,,,,,,,,,,,,53.3,0.0,42.6
+JW Hastings,JW Hastings,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",,,,,,,,3,58,3,66,6.83,19.3,,,,,,3,3,6.83,19.3,53.4,,,,,,,,,5.0,0.0,1.0
+Jalaj S Saxena,Jalaj S Saxena,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,1,18,0,27,9.0,,,,,,,1,0,9.0,,27.8,,,,,,,,,5.0,0.0,1.0
+Jaskaran Singh,Jaskaran Singh,Deccan Chargers,all-rounder,,4,8,11,2.0,72.73,0,0,7,102,6,174,10.24,17.0,4,8,2.0,72.73,0.0,5,5,10.6,12.0,36.7,,,,,,,,,5.0,23.2,14.1
+Joginder Sharma,Joginder Sharma,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",5,36,30,7.2,120.0,1,2,15,256,13,421,9.87,19.7,5,36,7.2,120.0,10.0,5,2,11.42,36.0,26.4,,,,,,,,,49.0,16.6,32.8
+K Goel,K Goel,Kings XI Punjab,all-rounder,,16,218,231,13.62,94.37,17,9,6,66,0,94,8.55,,5,53,10.6,81.54,7.7,5,0,7.67,,31.5,,,,,,,,,44.5,23.6,34.0
+K Gowtham,K Gowtham,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",27,247,148,9.15,166.89,15,17,35,588,22,825,8.42,26.7,5,38,7.6,152.0,20.0,5,3,8.08,26.0,41.0,7,61,8.71,164.86,7,3,8.22,36.0,64.5,35.5,50.0
+K Kartikeya,K Kartikeya,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",4,12,17,3.0,70.59,1,0,16,282,12,412,8.77,23.5,4,12,3.0,70.59,5.9,5,2,9.4,30.0,28.3,3,9,3.0,75.0,12,7,9.09,29.1,5.0,25.9,15.4
+K Khejroliya,K Khejroliya,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",,,,,,,,8,139,6,250,10.79,23.2,,,,,,5,4,11.35,18.5,28.4,,,,,3,3,12.68,14.7,5.0,21.6,18.3
+K Santokie,K Santokie,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,2,48,3,91,11.38,16.0,,,,,,2,3,11.38,16.0,31.2,,,,,,,,,5.0,0.0,1.0
+K Upadhyay,K Upadhyay,Pune Warriors,bowler,,2,12,9,6.0,133.33,0,1,3,54,0,81,9.0,,2,12,6.0,133.33,11.1,3,0,9.0,,37.0,,,,,,,,,5.0,0.0,1.0
+K Yadav,K Yadav,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",1,0,4,0.0,0.0,0,0,3,54,2,85,9.44,27.0,1,0,0.0,0.0,0.0,3,2,9.44,27.0,24.1,,,,,2,2,9.71,21.0,5.0,0.0,1.0
+KA Maharaj,KA Maharaj,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",1,1,2,1.0,50.0,0,0,2,36,2,39,6.5,18.0,1,1,1.0,50.0,0.0,2,2,6.5,18.0,30.6,1,1,1.0,50.0,2,2,6.5,18.0,5.0,0.0,1.0
+KA Pollard,KA Pollard,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",168,3412,2316,20.31,147.32,218,223,107,1488,81,2200,8.87,18.4,5,62,12.4,84.93,5.5,5,3,8.0,20.0,25.0,,,,,,,,,59.2,36.5,47.9
+KAJ Roach,KAJ Roach,Deccan Chargers,bowler,,1,10,9,10.0,111.11,1,0,2,48,0,80,10.0,,1,10,10.0,111.11,11.1,2,0,10.0,,41.7,,,,,,,,,5.0,0.0,1.0
+KB Arun Karthik,KB Arun Karthik,Royal Challengers Bangalore,batter,,8,51,51,6.38,100.0,4,1,,,,,,,5,41,8.2,107.89,10.5,,,,,,,,,,,,,,43.8,0.0,35.0
+KC Cariappa,KC Cariappa,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",5,24,21,4.8,114.29,0,2,11,216,8,349,9.69,27.0,5,24,4.8,114.29,9.5,5,4,9.47,25.5,22.5,,,,,,,,,44.1,24.3,34.2
+KC Sangakkara,KC Sangakkara,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",68,1687,1392,24.81,121.19,195,27,,,,,,,5,38,7.6,74.51,7.8,,,,,,,,,,,,,,52.9,0.0,42.3
+KD Karthik,KD Karthik,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",233,4842,3577,20.78,135.36,466,161,,,,,,,5,64,12.8,160.0,22.5,,,,,,26,466,17.92,167.63,,,,,73.4,0.0,58.7
+KJ Abbott,KJ Abbott,Kings XI Punjab,all-rounder,,3,13,8,4.33,162.5,0,1,5,96,2,182,11.38,48.0,3,13,4.33,162.5,12.5,5,2,11.38,48.0,29.2,,,,,,,,,5.0,10.0,7.5
+KK Cooper,KK Cooper,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",12,116,68,9.67,170.59,9,8,25,576,36,789,8.22,16.0,5,69,13.8,172.5,25.0,5,4,8.11,27.0,31.5,,,,,,,,,71.9,50.9,61.4
+KK Nair,KK Nair,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",76,1694,1286,22.29,131.73,185,49,,,,,,,5,78,15.6,144.44,24.1,,,,,,8,198,24.75,172.17,,,,,77.2,0.0,61.8
+KL Nagarkoti,KL Nagarkoti,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",7,22,33,3.14,66.67,1,0,11,180,5,287,9.57,36.0,5,11,2.2,44.0,0.0,5,1,9.54,78.0,38.5,,,,,,,,,21.8,13.7,17.8
+KM Asif,KM Asif,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",1,0,2,0.0,0.0,0,0,7,133,7,232,10.47,19.0,1,0,0.0,0.0,0.0,5,4,9.71,24.2,30.9,1,0,0.0,0.0,4,3,9.93,28.0,5.0,22.4,18.9
+KM Jadhav,KM Jadhav,Royal Challengers Bangalore,batter,,81,1208,981,14.91,123.14,102,40,,,,,,,5,58,11.6,109.43,7.5,,,,,,1,12,12.0,120.0,,,,,55.2,0.0,44.2
+KMA Paul,KMA Paul,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",5,18,24,3.6,75.0,1,1,8,163,10,239,8.8,16.3,5,18,3.6,75.0,8.3,5,7,8.85,14.7,34.0,,,,,,,,,29.5,47.8,38.6
+KMDN Kulasekara,KMDN Kulasekara,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",1,5,3,5.0,166.67,1,0,5,102,6,122,7.18,17.0,1,5,5.0,166.67,33.3,5,6,7.18,17.0,44.1,,,,,,,,,5.0,65.3,53.2
+KP Appanna,KP Appanna,Royal Challengers Bangalore,all-rounder,,3,2,4,0.67,50.0,0,0,13,216,11,291,8.08,19.6,3,2,0.67,50.0,0.0,5,6,8.4,15.0,37.8,,,,,,,,,5.0,47.6,26.3
+KP Pietersen,KP Pietersen,Rising Pune Supergiants,all-rounder,,36,1001,743,27.81,134.72,91,40,13,174,9,218,7.52,19.3,5,131,26.2,128.43,15.7,5,2,7.55,33.0,30.3,,,,,,,,,77.6,44.5,61.0
+KR Mayers,KR Mayers,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",13,379,263,29.15,144.11,38,22,6,42,0,59,8.43,,5,82,16.4,105.13,17.9,5,0,8.67,,30.6,13,379,29.15,144.11,6,0,8.43,,75.8,0.0,37.9
+KR Sen,KR Sen,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",1,0,3,0.0,0.0,0,0,12,241,14,396,9.86,17.2,1,0,0.0,0.0,0.0,5,6,10.4,15.0,30.0,,,,,5,6,10.4,15.0,5.0,30.3,25.2
+KS Bharat,KS Bharat,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",8,199,163,24.88,122.09,12,8,,,,,,,5,107,21.4,125.88,12.9,,,,,,,,,,,,,,70.3,0.0,56.2
+KS Rathore,KS Rathore,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",1,0,5,0.0,0.0,0,0,,,,,,,1,0,0.0,0.0,0.0,,,,,,1,0,0.0,0.0,,,,,5.0,0.0,4.0
+KS Sharma,KS Sharma,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,16,25,5.33,64.0,1,0,,,,,,,3,16,5.33,64.0,4.0,,,,,,2,12,6.0,57.14,,,,,5.0,0.0,4.0
+KS Williamson,KS Williamson,Gujarat Titans,batter,"Narendra Modi Stadium, Ahmedabad",76,2128,1694,28.0,125.62,186,64,2,18,0,31,10.33,,5,48,9.6,77.42,11.3,2,0,10.33,,11.1,2,27,13.5,100.0,,,,,54.5,0.0,43.6
+KT Maphaka,KT Maphaka,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",1,8,2,8.0,400.0,2,0,4,66,2,148,13.45,33.0,1,8,8.0,400.0,100.0,4,2,13.45,33.0,33.3,1,8,8.0,400.0,4,2,13.45,33.0,5.0,12.5,11.0
+KV Sharma,KV Sharma,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",40,352,295,8.8,119.32,20,17,87,1585,89,2263,8.57,17.8,5,34,6.8,188.89,27.8,5,7,8.87,12.9,26.7,6,35,5.83,166.67,21,25,10.21,14.5,61.8,39.7,50.8
+KW Richardson,KW Richardson,Royal Challengers Bangalore,all-rounder,,4,36,39,9.0,92.31,2,1,15,335,21,479,8.58,16.0,4,36,9.0,92.31,7.7,5,9,9.82,11.3,38.2,,,,,,,,,5.0,50.0,27.5
+Kamran Akmal,Kamran Akmal,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",6,128,78,21.33,164.1,13,8,,,,,,,5,113,22.6,166.18,26.5,,,,,,,,,,,,,,82.5,0.0,66.0
+Kamran Khan,Kamran Khan,Pune Warriors,bowler,,1,3,5,3.0,60.0,0,0,9,160,13,233,8.74,12.3,1,3,3.0,60.0,0.0,5,4,11.66,17.5,37.1,,,,,,,,,5.0,35.9,29.7
+Karanveer Singh,Karanveer Singh,Kings XI Punjab,all-rounder,,4,12,17,3.0,70.59,1,0,9,204,14,323,9.5,14.6,4,12,3.0,70.59,5.9,5,6,11.83,18.0,28.7,,,,,,,,,5.0,37.6,21.3
+Karim Janat,Karim Janat,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",,,,,,,,1,6,0,30,30.0,,,,,,,1,0,30.0,,0.0,,,,,1,0,30.0,,5.0,0.0,1.0
+L Ablish,L Ablish,Kings XI Punjab,bowler,,1,0,2,0.0,0.0,0,0,3,42,5,76,10.86,8.4,1,0,0.0,0.0,0.0,3,5,10.86,8.4,23.8,,,,,,,,,5.0,0.0,1.0
+L Balaji,L Balaji,Kings XI Punjab,all-rounder,,13,36,49,2.77,73.47,2,1,73,1512,85,2083,8.27,17.8,5,13,2.6,92.86,7.1,5,5,9.42,22.8,35.1,,,,,,,,,31.1,41.5,36.3
+L Ronchi,L Ronchi,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",5,34,34,6.8,100.0,6,1,,,,,,,5,34,6.8,100.0,20.6,,,,,,,,,,,,,,41.8,0.0,33.4
+LA Carseldine,LA Carseldine,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",5,81,68,16.2,119.12,11,0,1,6,1,6,6.0,6.0,5,81,16.2,119.12,16.2,1,1,6.0,6.0,66.7,,,,,,,,,60.0,0.0,48.0
+LA Pomersbach,LA Pomersbach,Kings XI Punjab,batter,,16,302,246,18.88,122.76,25,13,,,,,,,5,64,12.8,96.97,9.1,,,,,,,,,,,,,,56.4,0.0,45.1
+LB Williams,LB Williams,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",1,1,2,1.0,50.0,0,0,2,36,1,74,12.33,36.0,1,1,1.0,50.0,0.0,2,1,12.33,36.0,33.3,1,1,1.0,50.0,2,1,12.33,36.0,5.0,0.0,1.0
+LE Plunkett,LE Plunkett,Delhi Daredevils,bowler,,2,1,3,0.5,33.33,0,0,7,150,4,228,9.12,37.5,2,1,0.5,33.33,0.0,5,1,10.88,102.0,19.6,,,,,,,,,5.0,15.1,13.1
+LI Meriwala,LI Meriwala,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",,,,,,,,1,18,1,32,10.67,18.0,,,,,,1,1,10.67,18.0,33.3,,,,,,,,,5.0,0.0,1.0
+LJ Wright,LJ Wright,Pune Warriors,all-rounder,,5,106,60,21.2,176.67,16,3,6,71,2,125,10.56,35.5,5,106,21.2,176.67,31.7,5,2,10.27,29.5,20.3,,,,,,,,,85.4,9.2,47.3
+LMP Simmons,LMP Simmons,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",29,1079,852,37.21,126.64,109,44,1,18,1,34,11.33,18.0,5,70,14.0,109.38,14.1,1,1,11.33,18.0,11.1,,,,,,,,,71.3,0.0,57.0
+LPC Silva,LPC Silva,Deccan Chargers,batter,,3,40,26,13.33,153.85,5,1,1,6,0,21,21.0,,3,40,13.33,153.85,23.1,1,0,21.0,,0.0,,,,,,,,,5.0,0.0,4.0
+LR Shukla,LR Shukla,Delhi Daredevils,all-rounder,,33,405,350,12.27,115.71,33,16,27,314,17,458,8.75,18.5,5,34,6.8,68.0,6.0,5,1,9.43,56.0,39.3,,,,,,,,,42.5,21.7,32.1
+LRPL Taylor,LRPL Taylor,Delhi Daredevils,batter,,54,1017,822,18.83,123.72,66,46,2,12,0,24,12.0,,5,67,13.4,93.06,8.3,2,0,12.0,,0.0,,,,,,,,,56.3,0.0,45.0
+Lalit Yadav,Lalit Yadav,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",21,305,290,14.52,105.17,27,7,19,288,11,430,8.96,26.2,5,32,6.4,88.89,11.1,5,2,12.83,36.0,19.4,8,76,9.5,107.04,6,3,11.06,32.0,46.3,16.2,31.2
+Liton Das,Liton Das,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",1,4,4,4.0,100.0,1,0,,,,,,,1,4,4.0,100.0,25.0,,,,,,1,4,4.0,100.0,,,,,5.0,0.0,4.0
+M Ashwin,M Ashwin,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",12,35,50,2.92,70.0,2,1,44,870,35,1182,8.15,24.9,5,21,4.2,87.5,12.5,5,4,9.38,24.0,30.2,,,,,2,0,13.25,,30.7,21.2,25.9
+M Kaif,M Kaif,Royal Challengers Bangalore,batter,,22,259,250,11.77,103.6,22,6,,,,,,,5,55,11.0,112.24,12.2,,,,,,,,,,,,,,50.2,0.0,40.2
+M Kartik,M Kartik,Kings XI Punjab,all-rounder,,14,113,108,8.07,104.63,7,1,55,1149,39,1418,7.4,29.5,5,28,5.6,116.67,8.3,5,5,8.32,22.8,32.5,,,,,,,,,45.4,48.1,46.8
+M Klinger,M Klinger,Kochi Tuskers Kerala,batter,,4,73,77,18.25,94.81,9,0,,,,,,,4,73,18.25,94.81,11.7,,,,,,,,,,,,,,5.0,0.0,4.0
+M Manhas,M Manhas,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",38,514,470,13.53,109.36,43,10,3,42,0,42,6.0,,5,35,7.0,152.17,17.4,3,0,6.0,,35.7,,,,,,,,,56.4,0.0,28.2
+M Morkel,M Morkel,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",20,126,90,6.3,140.0,11,5,70,1629,88,2136,7.87,18.5,5,22,4.4,183.33,16.7,5,3,9.15,33.0,40.4,,,,,,,,,60.6,41.8,51.2
+M Muralitharan,M Muralitharan,Royal Challengers Bangalore,all-rounder,,9,20,30,2.22,66.67,1,0,66,1524,66,1755,6.91,23.1,5,13,2.6,65.0,0.0,5,4,7.81,24.0,37.5,,,,,,,,,25.0,55.5,40.2
+M Ntini,M Ntini,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",2,11,18,5.5,61.11,2,0,9,210,8,257,7.34,26.2,2,11,5.5,61.11,11.1,5,4,7.4,30.0,47.5,,,,,,,,,5.0,54.0,44.2
+M Theekshana,M Theekshana,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",6,17,34,2.83,50.0,0,1,38,876,36,1226,8.4,24.3,5,10,2.0,33.33,0.0,5,5,9.8,24.0,26.7,4,10,2.5,37.04,29,24,8.64,27.8,16.3,36.4,26.4
+M Tiwari,M Tiwari,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",1,3,4,3.0,75.0,0,0,1,6,0,14,14.0,,1,3,3.0,75.0,0.0,1,0,14.0,,0.0,1,3,3.0,75.0,1,0,14.0,,5.0,0.0,1.0
+M Vijay,M Vijay,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",105,2619,2149,24.94,121.87,247,91,4,36,0,49,8.17,,5,96,19.2,92.31,10.6,4,0,8.17,,22.2,,,,,,,,,63.3,0.0,31.6
+M Vohra,M Vohra,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",51,1083,829,21.24,130.64,104,43,,,,,,,5,59,11.8,111.32,17.0,,,,,,1,10,10.0,90.91,,,,,53.7,0.0,43.0
+M de Lange,M de Lange,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",1,1,2,1.0,50.0,0,0,5,108,6,171,9.5,18.0,1,1,1.0,50.0,0.0,5,6,9.5,18.0,36.1,,,,,,,,,5.0,36.2,30.0
+MA Agarwal,MA Agarwal,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",125,2756,2064,22.05,133.53,273,100,,,,,,,5,100,20.0,142.86,18.6,,,,,,18,429,23.83,129.61,,,,,72.6,0.0,58.1
+MA Khote,MA Khote,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",3,24,22,8.0,109.09,2,1,2,30,2,52,10.4,15.0,3,24,8.0,109.09,13.6,2,2,10.4,15.0,16.7,,,,,,,,,5.0,0.0,4.0
+MA Wood,MA Wood,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,12,8,4.0,150.0,1,1,5,120,11,192,9.6,10.9,3,12,4.0,150.0,25.0,5,11,9.6,10.9,39.2,2,11,5.5,220.0,4,11,8.88,8.7,5.0,58.6,31.8
+MB Parmar,MB Parmar,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",,,,,,,,1,18,0,33,11.0,,,,,,,1,0,11.0,,22.2,,,,,,,,,5.0,0.0,1.0
+MC Henriques,MC Henriques,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",54,1000,788,18.52,126.9,87,28,60,950,46,1302,8.22,20.7,5,35,7.0,102.94,5.9,5,4,4.7,15.0,48.3,,,,,,,,,54.3,55.7,55.0
+MC Juneja,MC Juneja,Delhi Daredevils,batter,,7,125,128,17.86,97.66,11,1,,,,,,,5,97,19.4,96.04,8.9,,,,,,,,,,,,,,55.6,0.0,44.5
+MD Mishra,MD Mishra,Pune Warriors,batter,,17,237,208,13.94,113.94,24,8,,,,,,,5,34,6.8,79.07,9.3,,,,,,,,,,,,,,45.1,0.0,36.1
+MD Shanaka,MD Shanaka,Gujarat Titans,batter,"Narendra Modi Stadium, Ahmedabad",3,26,26,8.67,100.0,2,1,,,,,,,3,26,8.67,100.0,11.5,,,,,,3,26,8.67,100.0,,,,,5.0,0.0,4.0
+MDKJ Perera,MDKJ Perera,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",2,14,13,7.0,107.69,3,0,,,,,,,2,14,7.0,107.69,23.1,,,,,,,,,,,,,,5.0,0.0,4.0
+MEK Hussey,MEK Hussey,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",58,1977,1612,34.09,122.64,198,52,,,,,,,5,116,23.2,112.62,12.6,,,,,,,,,,,,,,75.0,0.0,60.0
+MF Maharoof,MF Maharoof,Delhi Daredevils,all-rounder,,14,177,123,12.64,143.9,12,9,20,420,33,532,7.6,12.7,5,49,9.8,136.11,11.1,5,6,8.81,16.0,34.4,,,,,,,,,60.7,58.1,59.4
+MG Bracewell,MG Bracewell,Royal Challengers Bangalore,all-rounder,,4,58,47,14.5,123.4,6,1,5,66,6,95,8.64,11.0,4,58,14.5,123.4,14.9,5,6,8.64,11.0,39.4,4,58,14.5,123.4,5,6,8.64,11.0,5.0,47.0,26.0
+MG Johnson,MG Johnson,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",28,167,164,5.96,101.83,10,7,54,1232,64,1734,8.44,19.2,5,37,7.4,123.33,13.3,5,1,11.06,102.0,31.4,,,,,,,,,45.9,27.1,36.5
+MG Neser,MG Neser,Kings XI Punjab,bowler,,,,,,,,,1,24,0,62,15.5,,,,,,,1,0,15.5,,20.8,,,,,,,,,5.0,0.0,1.0
+MJ Clarke,MJ Clarke,Pune Warriors,all-rounder,,6,98,94,16.33,104.26,12,0,5,66,3,72,6.55,22.0,5,57,11.4,90.48,7.9,5,3,6.55,22.0,33.3,,,,,,,,,49.8,58.1,54.0
+MJ Guptill,MJ Guptill,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",13,270,196,20.77,137.76,24,15,,,,,,,5,117,23.4,162.5,23.6,,,,,,,,,,,,,,77.6,0.0,62.1
+MJ Lumb,MJ Lumb,Deccan Chargers,batter,,12,278,194,23.17,143.3,45,6,,,,,,,5,115,23.0,166.67,34.8,,,,,,,,,,,,,,80.5,0.0,64.4
+MJ McClenaghan,MJ McClenaghan,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",20,85,70,4.25,121.43,5,7,56,1274,75,1839,8.66,17.0,5,22,4.4,95.65,17.4,5,3,7.94,36.0,40.7,,,,,,,,,41.6,45.5,43.5
+MJ Owen,MJ Owen,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",1,0,2,0.0,0.0,0,0,,,,,,,1,0,0.0,0.0,0.0,,,,,,1,0,0.0,0.0,,,,,5.0,0.0,4.0
+MK Lomror,MK Lomror,Royal Challengers Bengaluru,all-rounder,"M Chinnaswamy Stadium, Bengaluru",35,527,373,15.06,141.29,33,30,11,90,2,127,8.47,45.0,5,52,10.4,162.5,18.8,5,1,10.6,30.0,23.3,20,260,13.0,157.58,3,1,11.67,18.0,67.4,11.9,39.7
+MK Tiwary,MK Tiwary,Kings XI Punjab,all-rounder,,83,1695,1449,20.42,116.98,156,40,6,42,1,83,11.86,42.0,5,54,10.8,103.85,11.5,5,1,12.0,36.0,25.0,,,,,,,,,56.3,0.0,28.1
+ML Hayden,ML Hayden,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",32,1107,805,34.59,137.52,121,44,,,,,,,5,31,6.2,56.36,9.1,,,,,,,,,,,,,,57.8,0.0,46.2
+MM Ali,MM Ali,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",59,1167,835,19.78,139.76,95,67,57,854,46,1036,7.28,18.6,5,88,17.6,106.02,12.0,5,6,8.5,16.0,30.2,17,257,15.12,126.6,20,17,8.1,17.6,63.0,48.9,56.0
+MM Patel,MM Patel,Gujarat Lions,all-rounder,,12,39,41,3.25,95.12,5,0,63,1355,82,1733,7.67,16.5,5,6,1.2,50.0,0.0,5,4,8.61,27.0,29.6,,,,,,,,,27.0,49.5,38.2
+MM Sharma,MM Sharma,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",30,125,136,4.17,91.91,9,4,119,2403,149,3537,8.83,16.1,5,3,0.6,15.79,0.0,5,1,10.93,90.0,20.0,5,3,0.6,15.79,33,49,9.7,13.2,15.0,31.6,23.3
+MN Samuels,MN Samuels,Delhi Daredevils,all-rounder,,14,161,172,11.5,93.6,9,7,11,214,10,285,7.99,21.4,5,32,6.4,80.0,7.5,5,3,10.0,28.0,27.4,,,,,,,,,40.1,31.4,35.8
+MN van Wyk,MN van Wyk,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",5,167,132,33.4,126.52,19,1,,,,,,,5,167,33.4,126.52,15.2,,,,,,,,,,,,,,83.9,0.0,67.1
+MP Breetzke,MP Breetzke,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,14,12,14.0,116.67,1,1,,,,,,,1,14,14.0,116.67,16.7,,,,,,1,14,14.0,116.67,,,,,5.0,0.0,4.0
+MP Yadav,MP Yadav,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,6,121,10,188,9.32,12.1,,,,,,5,7,9.9,13.9,47.4,,,,,6,10,9.32,12.1,5.0,46.0,37.8
+MS Bhandage,MS Bhandage,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",1,1,4,1.0,25.0,0,0,,,,,,,1,1,1.0,25.0,0.0,,,,,,1,1,1.0,25.0,,,,,5.0,0.0,4.0
+MS Bisla,MS Bisla,Royal Challengers Bangalore,batter,,39,798,702,20.46,113.68,93,23,,,,,,,5,56,11.2,91.8,16.4,,,,,,,,,,,,,,54.0,0.0,43.2
+MS Gony,MS Gony,Gujarat Lions,all-rounder,,15,99,71,6.6,139.44,6,8,44,888,39,1317,8.9,22.8,5,49,9.8,148.48,21.2,5,2,12.21,42.0,28.6,,,,,,,,,58.2,23.0,40.6
+MS Wade,MS Wade,Gujarat Titans,batter,"Narendra Modi Stadium, Ahmedabad",14,183,177,13.07,103.39,23,2,,,,,,,5,83,16.6,112.16,16.2,,,,,,1,4,4.0,66.67,,,,,43.6,0.0,34.9
+MV Boucher,MV Boucher,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",23,394,309,17.13,127.51,32,13,,,,,,,5,24,4.8,109.09,9.1,,,,,,,,,,,,,,53.1,0.0,42.5
+Mandeep Singh,Mandeep Singh,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",97,1706,1388,17.59,122.91,176,38,2,12,0,26,13.0,,5,32,6.4,86.49,13.5,2,0,13.0,,8.3,3,14,4.67,87.5,,,,,43.9,0.0,35.1
+Mashrafe Mortaza,Mashrafe Mortaza,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",1,2,2,2.0,100.0,0,0,1,24,1,59,14.75,24.0,1,2,2.0,100.0,0.0,1,1,14.75,24.0,25.0,,,,,,,,,5.0,0.0,1.0
+Mayank Dagar,Mayank Dagar,Royal Challengers Bengaluru,bowler,"M Chinnaswamy Stadium, Bengaluru",1,0,1,0.0,0.0,0,0,8,137,2,205,8.98,68.5,1,0,0.0,0.0,0.0,5,1,10.31,71.0,29.6,1,0,0.0,0.0,8,2,8.98,68.5,5.0,14.8,12.8
+Misbah-ul-Haq,Misbah-ul-Haq,Royal Challengers Bangalore,batter,,8,117,81,14.62,144.44,10,6,,,,,,,5,85,17.0,139.34,18.0,,,,,,,,,,,,,,67.1,0.0,53.7
+Mohammad Ashraful,Mohammad Ashraful,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",1,2,10,2.0,20.0,0,0,,,,,,,1,2,2.0,20.0,0.0,,,,,,,,,,,,,,5.0,0.0,4.0
+Mohammad Asif,Mohammad Asif,Delhi Daredevils,bowler,,2,3,6,1.5,50.0,0,0,8,192,9,307,9.59,21.3,2,3,1.5,50.0,0.0,5,5,9.9,24.0,27.5,,,,,,,,,5.0,29.8,24.8
+Mohammad Hafeez,Mohammad Hafeez,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",8,64,83,8.0,77.11,7,2,4,60,2,71,7.1,30.0,5,30,6.0,69.77,11.6,4,2,7.1,30.0,36.7,,,,,,,,,33.2,48.8,41.0
+Mohammad Nabi,Mohammad Nabi,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",19,215,150,11.32,143.33,18,11,23,417,15,527,7.58,27.8,5,35,7.0,112.9,12.9,5,2,9.0,31.0,27.4,5,35,7.0,112.9,6,2,8.92,37.0,51.0,29.4,40.2
+Mohit Rathee,Mohit Rathee,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",1,1,2,1.0,50.0,0,0,1,12,0,29,14.5,,1,1,1.0,50.0,0.0,1,0,14.5,,25.0,1,1,1.0,50.0,1,0,14.5,,5.0,0.0,1.0
+Monu Kumar,Monu Kumar,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",,,,,,,,1,12,0,20,10.0,,,,,,,1,0,10.0,,33.3,,,,,,,,,5.0,0.0,1.0
+Mujeeb Ur Rahman,Mujeeb Ur Rahman,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",6,12,15,2.0,80.0,2,0,20,446,21,626,8.42,21.2,5,12,2.4,92.31,15.4,5,3,11.5,36.0,26.9,,,,,1,1,14.0,12.0,31.5,28.3,29.9
+Mukesh Kumar,Mukesh Kumar,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",5,10,18,2.0,55.56,0,0,32,636,45,1118,10.55,14.1,5,10,2.0,55.56,0.0,5,8,11.31,13.1,38.1,5,10,2.0,55.56,32,45,10.55,14.1,21.0,36.6,28.8
+Mustafizur Rahman,Mustafizur Rahman,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",7,13,24,1.86,54.17,0,1,60,1364,74,1879,8.27,18.4,5,12,2.4,70.59,5.9,5,6,7.18,17.8,40.2,2,1,0.5,50.0,14,19,9.36,16.5,21.0,52.1,36.5
+N Jagadeesan,N Jagadeesan,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",10,162,147,16.2,110.2,21,2,,,,,,,5,83,16.6,113.7,19.2,,,,,,6,89,14.83,109.88,,,,,56.8,0.0,45.4
+N Saini,N Saini,Kings XI Punjab,batter,,10,140,141,14.0,99.29,16,0,,,,,,,5,23,4.6,54.76,4.8,,,,,,,,,,,,,,37.3,0.0,29.8
+N Wadhera,N Wadhera,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",31,719,503,23.19,142.94,60,39,2,17,0,22,7.76,,5,89,17.8,118.67,12.0,2,0,7.76,,17.6,31,719,23.19,142.94,2,0,7.76,,72.2,0.0,57.8
+NA Saini,NA Saini,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",,,,,,,,1,12,0,35,17.5,,,,,,,1,0,17.5,,16.7,,,,,1,0,17.5,,5.0,0.0,1.0
+NB Singh,NB Singh,Gujarat Lions,bowler,,,,,,,,,2,24,1,18,4.5,24.0,,,,,,2,1,4.5,24.0,54.2,,,,,,,,,5.0,0.0,1.0
+ND Doshi,ND Doshi,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",1,0,13,0.0,0.0,0,0,4,56,2,79,8.46,28.0,1,0,0.0,0.0,0.0,4,2,8.46,28.0,42.9,,,,,,,,,5.0,0.0,1.0
+NJ Maddinson,NJ Maddinson,Royal Challengers Bangalore,batter,,3,20,21,6.67,95.24,4,0,,,,,,,3,20,6.67,95.24,19.0,,,,,,,,,,,,,,5.0,0.0,4.0
+NJ Rimmington,NJ Rimmington,Kings XI Punjab,bowler,,1,1,1,1.0,100.0,0,0,1,18,0,20,6.67,,1,1,1.0,100.0,0.0,1,0,6.67,,50.0,,,,,,,,,5.0,0.0,1.0
+NK Patel,NK Patel,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",6,121,119,20.17,101.68,14,1,,,,,,,5,117,23.4,100.0,12.0,,,,,,,,,,,,,,60.8,0.0,48.6
+NL McCullum,NL McCullum,Pune Warriors,bowler,,2,26,22,13.0,118.18,0,1,2,30,0,35,7.0,,2,26,13.0,118.18,4.5,2,0,7.0,,33.3,,,,,,,,,5.0,0.0,1.0
+NLTC Perera,NLTC Perera,Rising Pune Supergiants,all-rounder,,30,422,307,14.07,137.46,23,26,36,698,37,1031,8.86,18.9,5,81,16.2,158.82,17.6,5,1,11.45,66.0,25.8,,,,,,,,,68.3,22.5,45.4
+NM Coulter-Nile,NM Coulter-Nile,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",16,82,72,5.12,113.89,7,4,38,857,52,1125,7.88,16.5,5,30,6.0,136.36,18.2,5,7,7.58,16.3,39.5,,,,,,,,,48.7,63.0,55.9
+NS Naik,NS Naik,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",4,31,50,7.75,62.0,2,0,,,,,,,4,31,7.75,62.0,4.0,,,,,,,,,,,,,,5.0,0.0,4.0
+NV Ojha,NV Ojha,Delhi Daredevils,batter,,94,1554,1313,16.53,118.35,121,79,,,,,,,5,71,14.2,118.33,8.3,,,,,,,,,,,,,,58.7,0.0,47.0
+Navdeep Saini,Navdeep Saini,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",7,33,37,4.71,89.19,3,0,31,646,25,961,8.93,25.8,5,31,6.2,93.94,9.1,5,6,11.86,14.0,26.2,,,,,1,3,10.0,8.0,37.3,39.1,38.2
+Naveen-ul-Haq,Naveen-ul-Haq,Lucknow Super Giants,all-rounder,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",4,18,25,4.5,72.0,2,0,17,387,26,602,9.33,14.9,4,18,4.5,72.0,8.0,5,9,11.38,11.9,29.9,4,18,4.5,72.0,17,26,9.33,14.9,5.0,46.1,25.6
+Nithish Kumar Reddy,Nithish Kumar Reddy,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",22,485,365,22.05,132.88,31,25,12,139,8,255,11.01,17.4,5,51,10.2,134.21,15.8,5,5,12.67,10.8,22.2,22,485,22.05,132.88,12,8,11.01,17.4,67.5,19.2,43.4
+O Thomas,O Thomas,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",,,,,,,,4,60,5,85,8.5,12.0,,,,,,4,5,8.5,12.0,28.3,,,,,,,,,5.0,50.0,41.0
+OA Shah,OA Shah,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",22,506,389,23.0,130.08,34,23,,,,,,,5,85,17.0,98.84,5.8,,,,,,,,,,,,,,63.2,0.0,50.6
+OC McCoy,OC McCoy,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",1,8,5,8.0,160.0,0,1,8,161,11,255,9.5,14.6,1,8,8.0,160.0,20.0,5,6,7.55,16.2,33.0,,,,,1,0,13.0,,5.0,30.4,25.3
+OF Smith,OF Smith,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",6,51,44,8.5,115.91,1,5,6,90,7,179,11.93,12.9,5,26,5.2,72.22,5.6,5,7,11.45,9.4,40.9,,,,,,,,,39.9,32.1,36.0
+P Amarnath,P Amarnath,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",,,,,,,,6,132,7,241,10.95,18.9,,,,,,5,6,10.89,18.0,25.9,,,,,,,,,5.0,29.6,24.7
+P Awana,P Awana,Kings XI Punjab,all-rounder,,5,5,14,1.0,35.71,0,0,33,747,43,1046,8.4,17.4,5,5,1.0,35.71,0.0,5,6,10.48,16.5,34.3,,,,,,,,,13.2,41.3,27.2
+P Chopra,P Chopra,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",1,8,6,8.0,133.33,2,0,,,,,,,1,8,8.0,133.33,33.3,,,,,,,,,,,,,,5.0,0.0,4.0
+P Dogra,P Dogra,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",12,127,138,10.58,92.03,4,5,,,,,,,5,28,5.6,63.64,0.0,,,,,,,,,,,,,,36.1,0.0,28.9
+P Dubey,P Dubey,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",2,23,33,11.5,69.7,2,0,5,78,2,112,8.62,39.0,2,23,11.5,69.7,6.1,5,2,8.62,39.0,29.5,1,16,16.0,80.0,2,2,8.0,15.0,5.0,36.4,30.1
+P Kumar,P Kumar,Gujarat Lions,all-rounder,,57,340,314,5.96,108.28,22,17,119,2524,102,3342,7.94,24.7,5,16,3.2,84.21,5.3,5,6,9.72,14.5,43.7,,,,,,,,,37.8,40.3,39.0
+P Negi,P Negi,Royal Challengers Bangalore,all-rounder,,35,365,289,10.43,126.3,27,16,42,716,38,954,7.99,18.8,5,9,1.8,69.23,7.7,5,4,9.81,21.2,36.5,,,,,,,,,40.2,35.1,37.7
+P Parameswaran,P Parameswaran,Royal Challengers Bangalore,bowler,,2,1,2,0.5,50.0,0,0,8,154,9,226,8.81,17.1,2,1,0.5,50.0,0.0,5,7,8.52,13.3,40.9,,,,,,,,,5.0,48.2,39.6
+P Prasanth,P Prasanth,Kochi Tuskers Kerala,bowler,,,,,,,,,1,6,0,18,18.0,,,,,,,1,0,18.0,,50.0,,,,,,,,,5.0,0.0,1.0
+P Ray Barman,P Ray Barman,Royal Challengers Bangalore,bowler,,1,19,24,19.0,79.17,2,0,1,24,0,56,14.0,,1,19,19.0,79.17,8.3,1,0,14.0,,8.3,,,,,,,,,5.0,0.0,1.0
+P Sahu,P Sahu,Kings XI Punjab,bowler,,2,19,13,9.5,146.15,1,1,5,105,3,152,8.69,35.0,2,19,9.5,146.15,15.4,5,3,8.69,35.0,22.9,,,,,,,,,5.0,31.4,26.1
+P Simran Singh,P Simran Singh,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",52,1355,887,26.06,152.76,141,71,,,,,,,5,91,18.2,121.33,17.3,,,,,,46,1291,28.07,157.25,,,,,79.0,0.0,63.2
+P Suyal,P Suyal,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,5,96,2,154,9.62,48.0,,,,,,5,2,9.62,48.0,37.5,,,,,,,,,5.0,14.8,12.8
+PA Patel,PA Patel,Royal Challengers Bangalore,batter,,136,2848,2358,20.94,120.78,365,49,,,,,,,5,143,28.6,160.67,27.0,,,,,,,,,,,,,,77.9,0.0,62.3
+PA Reddy,PA Reddy,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",10,164,160,16.4,102.5,15,2,,,,,,,5,41,8.2,82.0,10.0,,,,,,,,,,,,,,46.1,0.0,36.9
+PBB Rajapaksa,PBB Rajapaksa,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",13,277,191,21.31,145.03,22,15,,,,,,,5,75,15.0,111.94,13.4,,,,,,4,71,17.75,114.52,,,,,63.5,0.0,50.8
+PC Valthaty,PC Valthaty,Kings XI Punjab,all-rounder,,23,505,418,21.96,120.81,61,20,10,151,7,207,8.23,21.6,5,22,4.4,45.83,4.2,5,3,8.04,30.3,28.6,,,,,,,,,44.2,39.6,41.9
+PD Collingwood,PD Collingwood,Delhi Daredevils,all-rounder,,7,203,156,29.0,130.13,9,13,6,89,5,101,6.81,17.8,5,134,26.8,130.1,13.6,5,4,6.71,21.0,27.4,,,,,,,,,78.2,60.9,69.5
+PHKD Mendis,PHKD Mendis,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",5,92,69,18.4,133.33,7,2,4,42,2,60,8.57,21.0,5,92,18.4,133.33,13.0,4,2,8.57,21.0,26.2,5,92,18.4,133.33,4,2,8.57,21.0,67.4,0.0,33.7
+PJ Sangwan,PJ Sangwan,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",14,26,44,1.86,59.09,1,0,42,856,44,1267,8.88,19.5,5,4,0.8,30.77,0.0,5,3,8.2,30.0,38.9,,,,,,,,,16.6,38.8,27.7
+PK Garg,PK Garg,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",19,273,241,14.37,113.28,16,9,,,,,,,5,97,19.4,125.97,13.0,,,,,,2,22,11.0,95.65,,,,,54.8,0.0,43.8
+PM Sarvesh Kumar,PM Sarvesh Kumar,Deccan Chargers,bowler,,1,1,2,1.0,50.0,0,0,2,30,1,42,8.4,30.0,1,1,1.0,50.0,0.0,2,1,8.4,30.0,36.7,,,,,,,,,5.0,0.0,1.0
+PN Mankad,PN Mankad,Lucknow Super Giants,batter,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",5,97,73,19.4,132.88,13,2,,,,,,,5,97,19.4,132.88,20.5,,,,,,4,93,23.25,129.17,,,,,70.0,0.0,56.0
+PP Chawla,PP Chawla,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",86,624,563,7.26,110.83,56,20,191,3850,201,5179,8.07,19.2,5,15,3.0,107.14,14.3,5,9,7.53,11.3,36.3,10,40,4.0,108.11,27,36,8.45,16.0,42.1,59.0,50.5
+PP Ojha,PP Ojha,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",19,16,45,0.84,35.56,0,0,90,1899,99,2399,7.58,19.2,5,5,1.0,45.45,0.0,5,1,9.06,102.0,33.3,,,,,,,,,14.7,37.2,26.0
+PR Shah,PR Shah,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",9,92,91,10.22,101.1,9,2,,,,,,,5,58,11.6,103.57,12.5,,,,,,,,,,,,,,47.7,0.0,38.2
+PSP Handscomb,PSP Handscomb,Rising Pune Supergiants,batter,,1,6,12,6.0,50.0,0,0,,,,,,,1,6,6.0,50.0,0.0,,,,,,,,,,,,,,5.0,0.0,4.0
+PV Tambe,PV Tambe,Gujarat Lions,all-rounder,,6,18,39,3.0,46.15,1,0,33,660,28,866,7.87,23.6,5,15,3.0,45.45,3.0,5,1,9.8,60.0,21.7,,,,,,,,,19.0,27.7,23.4
+PVSN Raju,PVSN Raju,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",1,1,1,1.0,100.0,0,0,2,24,2,54,13.5,12.0,1,1,1.0,100.0,0.0,2,2,13.5,12.0,12.5,1,1,1.0,100.0,2,2,13.5,12.0,5.0,0.0,1.0
+PWA Mulder,PWA Mulder,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",1,9,11,9.0,81.82,1,0,1,6,0,16,16.0,,1,9,9.0,81.82,9.1,1,0,16.0,,16.7,1,9,9.0,81.82,1,0,16.0,,5.0,0.0,1.0
+PWH de Silva,PWH de Silva,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",19,81,88,4.26,92.05,7,1,37,798,47,1134,8.53,17.0,5,9,1.8,60.0,0.0,5,2,8.74,57.0,23.7,10,42,4.2,97.67,19,20,9.07,21.0,32.6,37.9,35.2
+Pankaj Singh,Pankaj Singh,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",5,7,12,1.4,58.33,0,0,17,300,11,472,9.44,27.3,5,7,1.4,58.33,0.0,5,5,8.94,20.4,42.2,,,,,,,,,21.2,30.7,25.9
+Parvez Rasool,Parvez Rasool,Royal Challengers Bangalore,all-rounder,,4,17,20,4.25,85.0,1,0,11,198,4,273,8.27,49.5,4,17,4.25,85.0,5.0,5,2,8.33,54.0,28.7,,,,,,,,,5.0,30.8,17.9
+R Ashwin,R Ashwin,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",93,833,705,8.96,118.16,64,29,217,4710,205,5721,7.29,23.0,5,33,6.6,100.0,12.1,5,4,9.22,27.0,32.4,21,186,8.86,120.0,36,31,8.33,26.1,48.1,43.1,45.6
+R Bhatia,R Bhatia,Rising Pune Supergiant,all-rounder,,47,342,284,7.28,120.42,24,13,91,1636,82,2059,7.55,20.0,5,50,10.0,142.86,11.4,5,2,9.21,42.0,19.0,,,,,,,,,54.7,36.5,45.6
+R Bishnoi,R Bishnoi,Royal Challengers Bangalore,batter,,3,19,17,6.33,111.76,1,2,,,,,,,3,19,6.33,111.76,17.6,,,,,,,,,,,,,,5.0,0.0,4.0
+R Dhawan,R Dhawan,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",22,210,187,9.55,112.3,18,7,36,662,27,922,8.36,24.5,5,36,7.2,120.0,13.3,5,1,10.3,60.0,38.3,2,20,10.0,166.67,5,1,10.3,60.0,56.7,15.3,36.0
+R Dravid,R Dravid,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",82,2174,1882,26.51,115.52,269,28,,,,,,,5,106,21.2,101.92,15.4,,,,,,,,,,,,,,66.1,0.0,52.9
+R Goyal,R Goyal,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,1,24,0,34,8.5,,,,,,,1,0,8.5,,25.0,,,,,1,0,8.5,,5.0,0.0,1.0
+R McLaren,R McLaren,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",13,159,171,12.23,92.98,14,1,18,354,14,558,9.46,25.3,5,42,8.4,71.19,1.7,5,6,12.4,15.0,32.2,,,,,,,,,40.3,28.1,34.2
+R Ninan,R Ninan,Royal Challengers Bangalore,bowler,,1,3,6,3.0,50.0,0,0,2,36,3,65,10.83,12.0,1,3,3.0,50.0,0.0,2,3,10.83,12.0,22.2,,,,,,,,,5.0,0.0,1.0
+R Rampaul,R Rampaul,Royal Challengers Bangalore,all-rounder,,7,51,50,7.29,102.0,3,2,12,262,15,308,7.05,17.5,5,39,7.8,100.0,10.3,5,4,7.19,24.0,44.8,,,,,,,,,43.1,61.6,52.4
+R Sanjay Yadav,R Sanjay Yadav,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",1,0,2,0.0,0.0,0,0,1,12,0,23,11.5,,1,0,0.0,0.0,0.0,1,0,11.5,,50.0,,,,,,,,,5.0,0.0,1.0
+R Sathish,R Sathish,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",24,270,231,11.25,116.88,22,6,14,139,6,233,10.06,23.2,5,58,11.6,134.88,16.3,5,3,10.56,18.0,16.7,,,,,,,,,56.2,12.9,34.6
+R Sharma,R Sharma,Delhi Daredevils,all-rounder,,19,66,75,3.47,88.0,5,3,44,928,42,1100,7.11,22.1,5,11,2.2,68.75,6.2,5,2,9.28,54.0,24.1,,,,,,,,,29.7,39.5,34.6
+R Shukla,R Shukla,Delhi Daredevils,all-rounder,,4,19,23,4.75,82.61,2,0,7,120,7,217,10.85,17.1,4,19,4.75,82.61,8.7,5,5,11.29,16.8,33.3,,,,,,,,,5.0,25.0,15.0
+R Vinay Kumar,R Vinay Kumar,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",42,310,274,7.38,113.14,21,9,104,2121,127,3021,8.55,16.7,5,19,3.8,111.76,11.8,5,8,10.63,10.4,39.8,,,,,,,,,44.5,44.3,44.4
+RA Shaikh,RA Shaikh,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,1,6,0,11,11.0,,,,,,,1,0,11.0,,16.7,,,,,,,,,5.0,0.0,1.0
+RE Levi,RE Levi,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",6,83,73,13.83,113.7,10,4,,,,,,,5,33,6.6,86.84,13.2,,,,,,,,,,,,,,46.2,0.0,37.0
+RE van der Merwe,RE van der Merwe,Delhi Daredevils,all-rounder,,15,159,141,10.6,112.77,11,8,21,443,25,515,6.98,17.7,5,28,5.6,80.0,5.7,5,5,5.72,21.6,39.8,,,,,,,,,42.3,71.3,56.8
+RG More,RG More,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",1,2,2,2.0,100.0,0,0,2,35,1,63,10.8,35.0,1,2,2.0,100.0,0.0,2,1,10.8,35.0,11.4,,,,,,,,,5.0,0.0,1.0
+RJ Gleeson,RJ Gleeson,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",1,2,2,2.0,100.0,0,0,3,68,2,111,9.79,34.0,1,2,2.0,100.0,0.0,3,2,9.79,34.0,35.3,1,2,2.0,100.0,3,2,9.79,34.0,5.0,19.3,16.4
+RJ Harris,RJ Harris,Kings XI Punjab,all-rounder,,21,117,112,5.57,104.46,6,3,37,832,47,1085,7.82,17.7,5,20,4.0,117.65,11.8,5,4,5.95,30.0,55.0,,,,,,,,,43.0,64.5,53.8
+RJ Peterson,RJ Peterson,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",5,32,30,6.4,106.67,3,1,4,48,3,70,8.75,16.0,5,32,6.4,106.67,13.3,4,3,8.75,16.0,43.8,,,,,,,,,43.6,0.0,21.8
+RJ Quiney,RJ Quiney,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",7,103,102,14.71,100.98,12,3,,,,,,,5,90,18.0,97.83,14.1,,,,,,,,,,,,,,53.6,0.0,42.9
+RJW Topley,RJW Topley,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",1,3,6,3.0,50.0,0,0,6,120,5,222,11.1,24.0,1,3,3.0,50.0,0.0,5,4,11.56,27.0,34.3,1,3,3.0,50.0,6,5,11.1,24.0,5.0,20.6,17.5
+RK Bhui,RK Bhui,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",4,10,26,2.5,38.46,0,0,,,,,,,4,10,2.5,38.46,0.0,,,,,,2,3,1.5,33.33,,,,,5.0,0.0,4.0
+RN ten Doeschate,RN ten Doeschate,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",21,326,235,15.52,138.72,26,15,10,78,3,94,7.23,26.0,5,61,12.2,135.56,15.6,5,2,6.5,18.0,44.4,,,,,,,,,63.0,47.9,55.5
+RP Meredith,RP Meredith,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",2,0,3,0.0,0.0,0,0,18,388,21,621,9.6,18.5,2,0,0.0,0.0,0.0,5,7,10.63,16.9,33.9,1,0,0.0,0.0,5,7,10.63,16.9,5.0,34.8,28.8
+RP Singh,RP Singh,Rising Pune Supergiants,all-rounder,,28,52,76,1.86,68.42,2,1,82,1775,100,2417,8.17,17.8,5,6,1.2,50.0,0.0,5,3,10.23,26.0,37.2,,,,,,,,,21.6,34.2,27.9
+RR Bhatkal,RR Bhatkal,Royal Challengers Bangalore,bowler,,1,0,2,0.0,0.0,0,0,1,12,0,35,17.5,,1,0,0.0,0.0,0.0,1,0,17.5,,0.0,,,,,,,,,5.0,0.0,1.0
+RR Bose,RR Bose,Kings XI Punjab,bowler,,,,,,,,,1,12,0,24,12.0,,,,,,,1,0,12.0,,41.7,,,,,,,,,5.0,0.0,1.0
+RR Powar,RR Powar,Kings XI Punjab,all-rounder,,9,67,64,7.44,104.69,6,1,26,426,15,538,7.58,28.4,5,16,3.2,76.19,0.0,5,2,9.43,42.0,27.4,,,,,,,,,36.8,30.9,33.8
+RR Raje,RR Raje,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",5,20,18,4.0,111.11,1,1,10,139,7,214,9.24,19.9,5,20,4.0,111.11,11.1,5,3,10.43,21.7,24.6,,,,,,,,,42.0,21.0,31.5
+RR Rossouw,RR Rossouw,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",22,473,308,21.5,153.57,45,25,,,,,,,5,175,35.0,194.44,34.4,,,,,,17,420,24.71,163.42,,,,,90.1,0.0,72.1
+RR Sarwan,RR Sarwan,Kings XI Punjab,batter,,4,73,75,18.25,97.33,6,1,,,,,,,4,73,18.25,97.33,9.3,,,,,,,,,,,,,,5.0,0.0,4.0
+RS Bopara,RS Bopara,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",22,531,453,24.14,117.22,39,16,14,206,13,301,8.77,15.8,5,59,11.8,105.36,7.1,5,4,7.92,19.5,32.1,,,,,,,,,59.6,42.3,51.0
+RS Gavaskar,RS Gavaskar,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",1,2,8,2.0,25.0,0,0,1,6,0,8,8.0,,1,2,2.0,25.0,0.0,1,0,8.0,,33.3,,,,,,,,,5.0,0.0,1.0
+RS Hangargekar,RS Hangargekar,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",,,,,,,,2,36,3,60,10.0,12.0,,,,,,2,3,10.0,12.0,38.9,,,,,2,3,10.0,12.0,5.0,0.0,1.0
+RS Sodhi,RS Sodhi,Kings XI Punjab,batter,,1,4,2,4.0,200.0,1,0,,,,,,,1,4,4.0,200.0,50.0,,,,,,,,,,,,,,5.0,0.0,4.0
+RT Ponting,RT Ponting,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",9,91,128,10.11,71.09,5,2,,,,,,,5,52,10.4,69.33,5.3,,,,,,,,,,,,,,36.2,0.0,29.0
+RV Gomez,RV Gomez,Pune Warriors,all-rounder,,9,50,51,5.56,98.04,5,1,9,96,6,130,8.12,16.0,5,14,2.8,66.67,9.5,5,3,5.67,18.0,46.3,,,,,,,,,32.7,52.6,42.7
+RV Patel,RV Patel,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",7,80,73,11.43,109.59,6,2,1,18,0,22,7.33,,5,55,11.0,119.57,10.9,1,0,7.33,,27.8,4,49,12.25,113.95,,,,,52.6,0.0,42.1
+RV Uthappa,RV Uthappa,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",197,4952,3799,25.14,130.35,481,182,,,,,,,5,33,6.6,78.57,9.5,,,,,,,,,,,,,,54.7,0.0,43.8
+RW Price,RW Price,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,1,18,0,33,11.0,,,,,,,1,0,11.0,,5.6,,,,,,,,,5.0,0.0,1.0
+Rahmanullah Gurbaz,Rahmanullah Gurbaz,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",18,363,269,20.17,134.94,34,22,,,,,,,5,74,14.8,139.62,24.5,,,,,,18,363,20.17,134.94,,,,,68.6,0.0,54.9
+S Anirudha,S Anirudha,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",12,136,113,11.33,120.35,9,7,,,,,,,5,25,5.0,156.25,18.8,,,,,,,,,,,,,,56.3,0.0,45.0
+S Aravind,S Aravind,Royal Challengers Bangalore,all-rounder,,10,59,57,5.9,103.51,7,0,38,760,48,1057,8.34,15.8,5,32,6.4,84.21,5.3,5,1,9.33,72.0,31.9,,,,,,,,,39.0,32.9,36.0
+S Badree,S Badree,Royal Challengers Bangalore,all-rounder,,5,13,23,2.6,56.52,0,0,12,258,11,329,7.65,23.5,5,13,2.6,56.52,0.0,5,4,8.76,25.5,38.2,,,,,,,,,22.1,43.9,33.0
+S Badrinath,S Badrinath,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",65,1441,1212,22.17,118.89,154,28,,,,,,,5,74,14.8,97.37,7.9,,,,,,,,,,,,,,59.1,0.0,47.3
+S Chanderpaul,S Chanderpaul,Royal Challengers Bangalore,batter,,3,25,31,8.33,80.65,4,0,,,,,,,3,25,8.33,80.65,12.9,,,,,,,,,,,,,,5.0,0.0,4.0
+S Dhawan,S Dhawan,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",221,6769,5324,30.63,127.14,768,153,6,48,4,72,9.0,12.0,5,152,30.4,125.62,18.2,5,3,9.14,14.0,33.3,16,525,32.81,137.43,,,,,82.9,0.0,41.5
+S Joseph,S Joseph,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,1,24,0,51,12.75,,,,,,,1,0,12.75,,37.5,,,,,1,0,12.75,,5.0,0.0,1.0
+S Kaul,S Kaul,Royal Challengers Bangalore,all-rounder,,9,20,36,2.22,55.56,1,0,55,1209,63,1772,8.79,19.2,5,11,2.2,57.89,5.3,5,2,8.95,55.0,38.2,,,,,,,,,21.7,33.4,27.5
+S Kaushik,S Kaushik,Gujarat Lions,bowler,,1,0,1,0.0,0.0,0,0,10,204,6,304,8.94,34.0,1,0,0.0,0.0,0.0,5,2,10.06,54.0,32.4,,,,,,,,,5.0,19.1,16.3
+S Ladda,S Ladda,Gujarat Lions,bowler,,2,0,9,0.0,0.0,0,0,9,138,5,225,9.78,27.6,2,0,0.0,0.0,0.0,5,1,10.56,54.0,27.8,,,,,,,,,5.0,10.8,9.6
+S Lamichhane,S Lamichhane,Delhi Capitals,bowler,"Arun Jaitley Stadium, Delhi",1,0,1,0.0,0.0,0,0,9,210,14,297,8.49,15.0,1,0,0.0,0.0,0.0,5,7,9.58,16.3,29.8,,,,,,,,,5.0,49.0,40.2
+S Midhun,S Midhun,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",,,,,,,,1,12,0,29,14.5,,,,,,,1,0,14.5,,25.0,,,,,,,,,5.0,0.0,1.0
+S Nadeem,S Nadeem,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",20,39,87,1.95,44.83,2,0,70,1415,54,1800,7.63,26.2,5,15,3.0,65.22,4.3,5,6,8.45,20.0,25.0,,,,,,,,,21.4,49.1,35.2
+S Narwal,S Narwal,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",4,37,27,9.25,137.04,6,0,6,106,6,203,11.49,17.7,4,37,9.25,137.04,22.2,5,6,11.93,15.0,33.3,,,,,,,,,5.0,27.5,16.2
+S Rana,S Rana,Royal Challengers Bangalore,all-rounder,,8,91,81,11.38,112.35,9,1,3,16,0,18,6.75,,5,52,10.4,126.83,12.2,3,0,6.75,,31.2,,,,,,,,,53.5,0.0,26.8
+S Randiv,S Randiv,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",1,2,4,2.0,50.0,0,0,8,174,8,223,7.69,21.8,1,2,2.0,50.0,0.0,5,2,7.88,51.0,38.2,,,,,,,,,5.0,45.2,37.2
+S Sandeep Warrier,S Sandeep Warrier,Gujarat Titans,bowler,"Narendra Modi Stadium, Ahmedabad",,,,,,,,10,168,8,257,9.18,21.0,,,,,,5,6,11.09,11.0,43.9,,,,,5,6,11.09,11.0,5.0,30.1,25.1
+S Sohal,S Sohal,Deccan Chargers,batter,,20,368,292,18.4,126.03,34,18,,,,,,,5,136,27.2,134.65,18.8,,,,,,,,,,,,,,71.9,0.0,57.5
+S Sreesanth,S Sreesanth,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",12,34,55,2.83,61.82,6,0,44,880,43,1221,8.33,20.5,5,2,0.4,15.38,0.0,5,4,8.93,20.5,48.8,,,,,,,,,14.9,39.3,27.1
+S Sriram,S Sriram,Delhi Daredevils,bowler,,2,31,36,15.5,86.11,3,0,2,18,0,49,16.33,,2,31,15.5,86.11,8.3,2,0,16.33,,11.1,,,,,,,,,5.0,0.0,1.0
+S Tyagi,S Tyagi,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",1,3,4,3.0,75.0,0,0,14,209,6,304,8.73,34.8,1,3,3.0,75.0,0.0,5,1,8.64,84.0,40.5,,,,,,,,,5.0,24.3,20.4
+S Vidyut,S Vidyut,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",8,145,109,18.12,133.03,21,3,1,12,1,22,11.0,12.0,5,46,9.2,117.95,20.5,1,1,11.0,12.0,41.7,,,,,,,,,58.9,0.0,47.1
+SA Abbott,SA Abbott,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",3,22,18,7.33,122.22,1,2,3,54,1,104,11.56,54.0,3,22,7.33,122.22,16.7,3,1,11.56,54.0,24.1,,,,,,,,,5.0,0.0,2.5
+SA Asnodkar,SA Asnodkar,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",19,423,339,22.26,124.78,56,10,,,,,,,5,88,17.6,106.02,16.9,,,,,,,,,,,,,,63.4,0.0,50.7
+SB Bangar,SB Bangar,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",7,49,58,7.0,84.48,1,3,9,150,6,221,8.84,25.0,5,27,5.4,79.41,5.9,5,3,9.25,24.0,30.6,,,,,,,,,35.1,27.8,31.5
+SB Dubey,SB Dubey,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",11,139,85,12.64,163.53,9,10,,,,,,,5,62,12.4,155.0,20.0,,,,,,11,139,12.64,163.53,,,,,69.4,0.0,55.5
+SB Jakati,SB Jakati,Gujarat Lions,all-rounder,,5,28,29,5.6,96.55,3,0,57,1085,50,1474,8.15,21.7,5,28,5.6,96.55,10.3,5,1,10.07,90.0,17.8,,,,,,,,,39.2,25.0,32.1
+SB Joshi,SB Joshi,Royal Challengers Bangalore,bowler,,2,6,14,3.0,42.86,0,0,4,55,1,82,8.95,55.0,2,6,3.0,42.86,0.0,4,1,8.95,55.0,32.7,,,,,,,,,5.0,0.0,1.0
+SB Styris,SB Styris,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",10,131,133,13.1,98.5,10,3,11,216,9,278,7.72,24.0,5,69,13.8,115.0,11.7,5,6,8.12,16.0,35.4,,,,,,,,,52.4,51.2,51.8
+SB Wagh,SB Wagh,Pune Warriors,bowler,,2,2,3,1.0,66.67,0,0,8,102,5,147,8.65,20.4,2,2,1.0,66.67,0.0,5,1,9.55,66.0,36.4,,,,,,,,,5.0,21.6,18.3
+SC Ganguly,SC Ganguly,Pune Warriors,all-rounder,,56,1349,1263,24.09,106.81,137,42,20,276,12,370,8.04,23.0,5,73,14.6,82.02,7.9,5,3,10.0,22.0,16.7,,,,,,,,,55.7,27.3,41.5
+SC Kuggeleijn,SC Kuggeleijn,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",,,,,,,,2,48,2,71,8.88,24.0,,,,,,2,2,8.88,24.0,35.4,,,,,,,,,5.0,0.0,1.0
+SD Chitnis,SD Chitnis,Kings XI Punjab,batter,,8,99,89,12.38,111.24,10,2,2,36,2,62,10.33,18.0,5,75,15.0,105.63,12.7,2,2,10.33,18.0,25.0,,,,,,,,,53.3,0.0,42.6
+SD Hope,SD Hope,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",9,183,122,20.33,150.0,12,12,,,,,,,5,115,23.0,161.97,21.1,,,,,,9,183,20.33,150.0,,,,,77.6,0.0,62.1
+SD Lad,SD Lad,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",1,15,13,15.0,115.38,1,1,,,,,,,1,15,15.0,115.38,15.4,,,,,,,,,,,,,,5.0,0.0,4.0
+SE Bond,SE Bond,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",1,1,2,1.0,50.0,0,0,8,186,9,225,7.26,20.7,1,1,1.0,50.0,0.0,5,7,6.45,17.1,44.2,,,,,,,,,5.0,70.9,57.7
+SE Marsh,SE Marsh,Kings XI Punjab,batter,,69,2477,1866,35.9,132.74,266,78,,,,,,,5,124,24.8,125.25,15.2,,,,,,,,,,,,,,80.9,0.0,64.7
+SH Johnson,SH Johnson,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",5,8,11,1.6,72.73,1,0,9,164,5,289,10.57,32.8,5,8,1.6,72.73,9.1,5,2,11.7,40.0,38.8,5,8,1.6,72.73,9,5,10.57,32.8,26.2,12.7,19.4
+SJ Srivastava,SJ Srivastava,Kings XI Punjab,all-rounder,,4,5,5,1.25,100.0,0,0,14,282,15,444,9.45,18.8,4,5,1.25,100.0,0.0,5,9,8.75,10.7,43.8,,,,,,,,,5.0,47.1,26.1
+SK Raina,SK Raina,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",200,5528,4043,27.64,136.73,506,203,69,908,30,1139,7.53,30.3,5,37,7.4,119.35,16.1,5,1,7.5,60.0,28.3,,,,,,,,,64.6,39.0,51.8
+SK Rasheed,SK Rasheed,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",5,71,63,14.2,112.7,9,2,,,,,,,5,71,14.2,112.7,17.5,,,,,,5,71,14.2,112.7,,,,,55.3,0.0,44.2
+SK Trivedi,SK Trivedi,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",14,42,59,3.0,71.19,3,1,75,1506,73,1944,7.75,20.6,5,12,2.4,70.59,5.9,5,3,6.81,32.0,32.3,,,,,,,,,27.0,53.7,40.4
+SK Warne,SK Warne,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",27,198,214,7.33,92.52,14,6,54,1194,60,1465,7.36,19.9,5,13,2.6,54.17,4.2,5,4,7.11,28.5,34.2,,,,,,,,,30.7,58.5,44.6
+SL Malinga,SL Malinga,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",20,88,99,4.4,88.89,6,5,122,2827,188,3486,7.4,15.0,5,15,3.0,78.95,10.5,5,5,10.74,22.8,32.5,,,,,,,,,32.6,48.0,40.3
+SM Boland,SM Boland,Rising Pune Supergiants,bowler,,,,,,,,,2,42,3,56,8.0,14.0,,,,,,2,3,8.0,14.0,33.3,,,,,,,,,5.0,0.0,1.0
+SM Harwood,SM Harwood,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",2,9,14,4.5,64.29,0,0,3,60,3,74,7.4,20.0,2,9,4.5,64.29,0.0,3,3,7.4,20.0,55.0,,,,,,,,,5.0,57.5,47.0
+SM Katich,SM Katich,Kings XI Punjab,batter,,11,241,186,21.91,129.57,26,8,,,,,,,5,48,9.6,104.35,17.4,,,,,,,,,,,,,,58.7,0.0,47.0
+SM Pollock,SM Pollock,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",8,147,111,18.38,132.43,12,8,13,276,13,307,6.67,21.2,5,80,16.0,126.98,17.5,5,6,6.11,18.0,48.1,,,,,,,,,64.7,72.6,68.7
+SMSM Senanayake,SMSM Senanayake,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",4,10,17,2.5,58.82,0,0,8,192,9,211,6.59,21.3,4,10,2.5,58.82,0.0,5,5,7.25,24.0,35.8,,,,,,,,,5.0,65.1,35.0
+SN Khan,SN Khan,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",36,585,448,16.25,130.58,63,14,1,2,0,6,18.0,,5,63,12.6,91.3,8.7,1,0,18.0,,0.0,4,53,13.25,85.48,,,,,51.0,0.0,40.8
+SP Fleming,SP Fleming,Chennai Super Kings,batter,"MA Chidambaram Stadium, Chennai",10,196,165,19.6,118.79,27,3,,,,,,,5,124,24.8,121.57,18.6,,,,,,,,,,,,,,67.8,0.0,54.2
+SP Goswami,SP Goswami,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",21,293,295,13.95,99.32,32,3,,,,,,,5,52,10.4,118.18,15.9,,,,,,,,,,,,,,51.5,0.0,41.2
+SP Jackson,SP Jackson,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",8,61,57,7.62,107.02,5,1,,,,,,,5,23,4.6,88.46,3.8,,,,,,,,,,,,,,40.2,0.0,32.2
+SPD Smith,SPD Smith,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",93,2485,1940,26.72,128.09,225,60,1,2,0,5,15.0,,5,110,22.0,117.02,11.7,1,0,15.0,,0.0,,,,,,,,,71.3,0.0,57.0
+SR Tendulkar,SR Tendulkar,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",78,2334,1948,29.92,119.82,296,29,4,36,0,59,9.83,,5,130,26.0,127.45,18.6,4,0,9.83,,11.1,,,,,,,,,76.2,0.0,38.1
+SR Watson,SR Watson,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",141,3874,2809,27.48,137.91,376,190,105,2029,107,2742,8.11,19.0,5,114,22.8,107.55,16.0,5,0,10.18,,31.8,,,,,,,,,72.3,24.6,48.5
+SS Agarwal,SS Agarwal,Gujarat Lions,bowler,,,,,,,,,1,24,1,42,10.5,24.0,,,,,,1,1,10.5,24.0,29.2,,,,,,,,,5.0,0.0,1.0
+SS Cottrell,SS Cottrell,Kings XI Punjab,bowler,,1,0,2,0.0,0.0,0,0,6,120,6,177,8.85,20.0,1,0,0.0,0.0,0.0,5,4,9.56,24.0,46.9,,,,,,,,,5.0,32.4,26.9
+SS Mundhe,SS Mundhe,Pune Warriors,bowler,,,,,,,,,1,6,1,6,6.0,6.0,,,,,,1,1,6.0,6.0,66.7,,,,,,,,,5.0,0.0,1.0
+SS Prabhudessai,SS Prabhudessai,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",10,126,106,12.6,118.87,11,4,,,,,,,5,59,11.8,125.53,12.8,,,,,,5,59,11.8,125.53,,,,,56.2,0.0,45.0
+SS Sarkar,SS Sarkar,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",,,,,,,,2,25,1,34,8.16,25.0,,,,,,2,1,8.16,25.0,16.0,,,,,,,,,5.0,0.0,1.0
+SS Shaikh,SS Shaikh,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",1,6,7,6.0,85.71,1,0,,,,,,,1,6,6.0,85.71,14.3,,,,,,,,,,,,,,5.0,0.0,4.0
+SS Tiwary,SS Tiwary,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",73,1494,1244,20.47,120.1,111,50,,,,,,,5,116,23.2,116.0,12.0,,,,,,,,,,,,,,66.6,0.0,53.3
+SSB Magala,SSB Magala,Chennai Super Kings,bowler,"MA Chidambaram Stadium, Chennai",,,,,,,,2,36,1,52,8.67,36.0,,,,,,2,1,8.67,36.0,13.9,,,,,2,1,8.67,36.0,5.0,0.0,1.0
+ST Jayasuriya,ST Jayasuriya,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",30,768,532,25.6,144.36,84,39,21,294,16,396,8.08,18.4,5,33,6.6,103.12,15.6,5,3,8.45,22.0,31.8,,,,,,,,,61.4,38.7,50.0
+STR Binny,STR Binny,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",66,880,683,13.33,128.84,66,35,63,594,28,763,7.71,21.2,5,70,14.0,175.0,22.5,5,1,6.29,42.0,31.0,,,,,,,,,67.7,45.6,56.7
+SW Billings,SW Billings,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",27,503,388,18.63,129.64,40,20,,,,,,,5,106,21.2,135.9,17.9,,,,,,,,,,,,,,69.2,0.0,55.4
+SW Tait,SW Tait,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",5,23,26,4.6,88.46,1,1,21,473,26,668,8.47,18.2,5,23,4.6,88.46,7.7,5,1,10.08,106.0,35.8,,,,,,,,,35.2,27.5,31.4
+SZ Mulani,SZ Mulani,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",1,1,1,1.0,100.0,0,0,2,30,0,57,11.4,,1,1,1.0,100.0,0.0,2,0,11.4,,23.3,1,1,1.0,100.0,2,0,11.4,,5.0,0.0,1.0
+Sachin Baby,Sachin Baby,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",11,144,118,13.09,122.03,11,5,2,10,3,8,4.8,3.3,5,40,8.0,95.24,9.5,2,3,4.8,3.3,50.0,,,,,,,,,49.4,0.0,39.5
+Salman Butt,Salman Butt,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",7,193,161,27.57,119.88,30,2,,,,,,,5,182,36.4,121.33,20.0,,,,,,,,,,,,,,80.2,0.0,64.2
+Sanvir Singh,Sanvir Singh,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",5,25,21,5.0,119.05,2,1,,,,,,,5,25,5.0,119.05,14.3,,,,,,5,25,5.0,119.05,,,,,45.9,0.0,36.7
+Saurav Chauhan,Saurav Chauhan,Royal Challengers Bengaluru,batter,"M Chinnaswamy Stadium, Bengaluru",3,18,15,6.0,120.0,1,1,,,,,,,3,18,6.0,120.0,13.3,,,,,,3,18,6.0,120.0,,,,,5.0,0.0,4.0
+Sediqullah Atal,Sediqullah Atal,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",1,22,16,22.0,137.5,0,2,,,,,,,1,22,22.0,137.5,12.5,,,,,,1,22,22.0,137.5,,,,,5.0,0.0,4.0
+Shahid Afridi,Shahid Afridi,Deccan Chargers,all-rounder,,9,81,46,9.0,176.09,7,6,10,180,9,237,7.9,20.0,5,55,11.0,211.54,34.6,5,3,8.23,26.0,33.3,,,,,,,,,77.1,42.9,60.0
+Shakib Al Hasan,Shakib Al Hasan,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",52,793,637,15.25,124.49,73,21,70,1484,71,1864,7.54,20.9,5,44,8.8,102.33,9.3,5,3,6.69,32.0,36.5,,,,,,,,,52.8,56.2,54.5
+Shivam Sharma,Shivam Sharma,Kings XI Punjab,bowler,,2,5,3,2.5,166.67,1,0,5,114,4,165,8.68,28.5,2,5,2.5,166.67,33.3,5,4,8.68,28.5,32.5,,,,,,,,,5.0,36.5,30.2
+Shivam Singh,Shivam Singh,Punjab Kings,batter,"Punjab Cricket Association IS Bindra Stadium, Mohali",1,2,3,2.0,66.67,0,0,,,,,,,1,2,2.0,66.67,0.0,,,,,,1,2,2.0,66.67,,,,,5.0,0.0,4.0
+Shoaib Ahmed,Shoaib Ahmed,Deccan Chargers,all-rounder,,3,1,6,0.33,16.67,0,0,7,102,5,154,9.06,20.4,3,1,0.33,16.67,0.0,5,3,10.1,20.0,26.7,,,,,,,,,5.0,22.3,13.7
+Shoaib Akhtar,Shoaib Akhtar,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",1,2,7,2.0,28.57,0,0,3,42,5,54,7.71,8.4,1,2,2.0,28.57,0.0,3,5,7.71,8.4,54.8,,,,,,,,,5.0,0.0,1.0
+Shoaib Malik,Shoaib Malik,Delhi Daredevils,all-rounder,,5,52,47,10.4,110.64,5,0,5,51,2,87,10.24,25.5,5,52,10.4,110.64,10.6,5,2,10.24,25.5,29.4,,,,,,,,,49.9,0.0,24.9
+Sikandar Raza,Sikandar Raza,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",9,182,136,20.22,133.82,12,8,7,84,3,146,10.43,28.0,5,103,20.6,139.19,14.9,5,2,10.67,27.0,27.8,9,182,20.22,133.82,7,3,10.43,28.0,70.6,10.5,40.5
+Simarjeet Singh,Simarjeet Singh,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",6,10,15,1.67,66.67,0,0,14,240,12,411,10.28,20.0,5,8,1.6,61.54,0.0,5,2,15.0,33.0,30.3,3,3,1.0,42.86,8,8,12.18,16.5,20.3,19.4,19.9
+Sohail Tanvir,Sohail Tanvir,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",5,36,29,7.2,124.14,3,1,11,247,24,275,6.68,10.3,5,36,7.2,124.14,13.8,5,11,7.33,9.8,40.7,,,,,,,,,50.4,87.4,68.9
+Sumit Kumar,Sumit Kumar,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",3,18,24,6.0,75.0,2,1,2,20,0,38,11.4,,3,18,6.0,75.0,12.5,2,0,11.4,,20.0,3,18,6.0,75.0,2,0,11.4,,5.0,0.0,4.0
+Sunny Gupta,Sunny Gupta,Delhi Daredevils,bowler,,1,0,1,0.0,0.0,0,0,1,18,0,47,15.67,,1,0,0.0,0.0,0.0,1,0,15.67,,0.0,,,,,,,,,5.0,0.0,1.0
+Sunny Singh,Sunny Singh,Kings XI Punjab,batter,,5,43,31,8.6,138.71,6,1,,,,,,,5,43,8.6,138.71,22.6,,,,,,,,,,,,,,57.0,0.0,45.6
+T Henderson,T Henderson,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",2,11,16,5.5,68.75,0,1,2,36,1,41,6.83,36.0,2,11,5.5,68.75,6.2,2,1,6.83,36.0,38.9,,,,,,,,,5.0,0.0,1.0
+T Kohler-Cadmore,T Kohler-Cadmore,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",3,48,54,16.0,88.89,7,1,,,,,,,3,48,16.0,88.89,14.8,,,,,,3,48,16.0,88.89,,,,,5.0,0.0,4.0
+T Kohli,T Kohli,Kings XI Punjab,batter,,3,11,19,3.67,57.89,0,1,,,,,,,3,11,3.67,57.89,5.3,,,,,,,,,,,,,,5.0,0.0,4.0
+T Shamsi,T Shamsi,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",1,2,4,2.0,50.0,0,0,5,120,3,185,9.25,40.0,1,2,2.0,50.0,0.0,5,3,9.25,40.0,23.3,,,,,,,,,5.0,24.4,20.5
+T Taibu,T Taibu,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",3,31,26,10.33,119.23,3,0,,,,,,,3,31,10.33,119.23,11.5,,,,,,,,,,,,,,5.0,0.0,4.0
+T Thushara,T Thushara,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",4,12,18,3.0,66.67,0,0,6,135,10,164,7.29,13.5,4,12,3.0,66.67,0.0,5,9,7.08,12.3,44.1,,,,,,,,,5.0,78.5,41.8
+TD Paine,TD Paine,Pune Warriors,batter,,2,10,26,5.0,38.46,0,0,,,,,,,2,10,5.0,38.46,0.0,,,,,,,,,,,,,,5.0,0.0,4.0
+TG Southee,TG Southee,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",19,120,107,6.32,112.15,8,4,54,1206,57,1774,8.83,21.2,5,2,0.4,16.67,0.0,5,5,10.06,20.4,36.3,,,,,2,2,13.17,18.0,25.7,29.8,27.8
+TK Curran,TK Curran,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",10,127,107,12.7,118.69,10,3,13,238,13,432,10.89,18.3,5,94,18.8,134.29,12.9,5,4,10.17,26.2,24.8,,,,,,,,,61.9,22.5,42.2
+TL Suman,TL Suman,Pune Warriors,all-rounder,,39,676,575,17.33,117.57,55,26,11,150,7,198,7.92,21.4,5,52,10.4,89.66,13.8,5,1,8.22,54.0,20.4,,,,,,,,,51.9,34.6,43.2
+TM Dilshan,TM Dilshan,Royal Challengers Bangalore,all-rounder,,50,1153,1007,23.06,114.5,140,24,25,271,5,368,8.15,54.2,5,76,15.2,81.72,12.9,5,0,10.5,,19.4,,,,,,,,,56.6,14.1,35.4
+TM Srivastava,TM Srivastava,Kings XI Punjab,batter,,3,8,11,2.67,72.73,0,0,,,,,,,3,8,2.67,72.73,0.0,,,,,,,,,,,,,,5.0,0.0,4.0
+TP Sudhindra,TP Sudhindra,Deccan Chargers,bowler,,,,,,,,,3,70,1,137,11.74,70.0,,,,,,3,1,11.74,70.0,25.7,,,,,,,,,5.0,8.3,7.6
+TR Birt,TR Birt,Delhi Daredevils,batter,,5,75,58,15.0,129.31,9,2,,,,,,,5,75,15.0,129.31,19.0,,,,,,,,,,,,,,61.9,0.0,49.5
+TS Mills,TS Mills,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",5,8,14,1.6,57.14,0,1,10,209,11,349,10.02,19.0,5,8,1.6,57.14,7.1,5,6,11.29,17.0,27.5,,,,,,,,,21.0,28.7,24.9
+Tanush Kotian,Tanush Kotian,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",1,24,31,24.0,77.42,3,0,,,,,,,1,24,24.0,77.42,9.7,,,,,,1,24,24.0,77.42,,,,,5.0,0.0,4.0
+Tejas Baroka,Tejas Baroka,Gujarat Lions,bowler,,,,,,,,,1,21,0,33,9.43,,,,,,,1,0,9.43,,28.6,,,,,,,,,5.0,0.0,1.0
+U Kaul,U Kaul,Kings XI Punjab,batter,,1,0,1,0.0,0.0,0,0,,,,,,,1,0,0.0,0.0,0.0,,,,,,,,,,,,,,5.0,0.0,4.0
+UA Birla,UA Birla,Pune Warriors,batter,,1,7,14,7.0,50.0,1,0,,,,,,,1,7,7.0,50.0,7.1,,,,,,,,,,,,,,5.0,0.0,4.0
+UBT Chand,UBT Chand,Mumbai Indians,batter,"Wankhede Stadium, Mumbai",20,300,300,15.0,100.0,32,9,,,,,,,5,90,18.0,128.57,20.0,,,,,,,,,,,,,,58.7,0.0,47.0
+UT Khawaja,UT Khawaja,Rising Pune Supergiants,batter,,6,127,100,21.17,127.0,14,3,,,,,,,5,97,19.4,132.88,19.2,,,,,,,,,,,,,,68.7,0.0,55.0
+UT Yadav,UT Yadav,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",48,208,201,4.33,103.48,16,9,147,3050,163,4427,8.71,18.7,5,20,4.0,80.0,4.0,5,7,9.56,13.7,42.7,7,31,4.43,93.94,15,10,10.02,24.0,36.2,32.0,34.1
+Umar Gul,Umar Gul,Kolkata Knight Riders,all-rounder,"Eden Gardens, Kolkata",4,39,19,9.75,205.26,1,5,6,135,14,198,8.8,9.6,4,39,9.75,205.26,31.6,5,10,8.76,11.1,40.5,,,,,,,,,5.0,65.2,35.1
+V Kaverappa,V Kaverappa,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",,,,,,,,1,24,2,36,9.0,12.0,,,,,,1,2,9.0,12.0,45.8,,,,,1,2,9.0,12.0,5.0,0.0,1.0
+V Nigam,V Nigam,Delhi Capitals,all-rounder,"Arun Jaitley Stadium, Delhi",8,142,79,17.75,179.75,16,8,13,234,12,361,9.26,19.5,5,88,17.6,162.96,27.8,5,4,9.06,25.5,23.5,8,142,17.75,179.75,13,12,9.26,19.5,80.4,32.2,56.3
+V Pratap Singh,V Pratap Singh,Deccan Chargers,bowler,,1,0,1,0.0,0.0,0,0,9,204,12,300,8.82,17.0,1,0,0.0,0.0,0.0,5,8,9.61,13.5,30.6,,,,,,,,,5.0,46.5,38.2
+V Puthur,V Puthur,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",,,,,,,,5,72,6,109,9.08,12.0,,,,,,5,6,9.08,12.0,33.3,,,,,5,6,9.08,12.0,5.0,41.5,34.2
+V Sehwag,V Sehwag,Kings XI Punjab,all-rounder,,104,2728,1755,26.23,155.44,334,106,15,136,6,236,10.41,22.7,5,16,3.2,69.57,8.7,5,2,8.0,27.0,37.0,,,,,,,,,55.9,22.5,39.2
+V Shankar,V Shankar,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",63,1233,950,19.57,129.79,88,48,22,238,12,344,8.67,19.8,5,118,23.6,129.67,12.1,5,3,9.65,17.0,35.3,22,502,22.82,143.02,,,,,72.6,24.8,48.7
+V Suryavanshi,V Suryavanshi,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",7,252,122,36.0,206.56,18,24,,,,,,,5,202,40.4,224.44,38.9,,,,,,7,252,36.0,206.56,,,,,117.3,0.0,93.8
+V Viyaskanth,V Viyaskanth,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",1,7,5,7.0,140.0,0,0,3,60,1,90,9.0,60.0,1,7,7.0,140.0,0.0,3,1,9.0,60.0,26.7,1,7,7.0,140.0,3,1,9.0,60.0,5.0,20.8,17.6
+VH Zol,VH Zol,Royal Challengers Bangalore,batter,,2,29,26,14.5,111.54,3,1,,,,,,,2,29,14.5,111.54,15.4,,,,,,,,,,,,,,5.0,0.0,4.0
+VR Aaron,VR Aaron,Gujarat Titans,all-rounder,"Narendra Modi Stadium, Ahmedabad",12,50,72,4.17,69.44,2,2,50,994,46,1527,9.22,21.6,5,8,1.6,29.63,0.0,5,2,11.46,39.0,32.1,,,,,,,,,20.1,21.4,20.8
+VRV Singh,VRV Singh,Kings XI Punjab,bowler,,2,4,3,2.0,133.33,1,0,18,360,16,549,9.15,22.5,2,4,2.0,133.33,33.3,5,1,10.33,72.0,27.8,,,,,,,,,5.0,18.9,16.1
+VS Malik,VS Malik,Rajasthan Royals,bowler,"Sawai Mansingh Stadium, Jaipur",2,7,7,3.5,100.0,1,0,13,205,6,268,7.84,34.2,2,7,3.5,100.0,14.3,5,3,6.8,30.0,44.4,,,,,,,,,5.0,46.8,38.4
+VS Yeligati,VS Yeligati,Mumbai Indians,bowler,"Wankhede Stadium, Mumbai",1,2,2,2.0,100.0,0,0,2,30,0,61,12.2,,1,2,2.0,100.0,0.0,2,0,12.2,,20.0,,,,,,,,,5.0,0.0,1.0
+VVS Laxman,VVS Laxman,Kochi Tuskers Kerala,batter,,20,282,267,14.1,105.62,33,5,,,,,,,5,54,10.8,93.1,10.3,,,,,,,,,,,,,,48.7,0.0,39.0
+VY Mahesh,VY Mahesh,Chennai Super Kings,all-rounder,"MA Chidambaram Stadium, Chennai",5,15,27,3.0,55.56,0,0,17,339,22,511,9.04,15.4,5,15,3.0,55.56,0.0,5,4,8.59,18.5,31.1,,,,,,,,,22.3,41.0,31.6
+Vijaykumar Vyshak,Vijaykumar Vyshak,Punjab Kings,all-rounder,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,14,12,3.5,116.67,0,1,16,333,21,577,10.4,15.9,4,14,3.5,116.67,8.3,5,4,10.65,25.5,30.4,4,14,3.5,116.67,16,21,10.4,15.9,5.0,29.0,17.0
+Virat Singh,Virat Singh,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",2,15,26,7.5,57.69,1,0,,,,,,,2,15,7.5,57.69,3.8,,,,,,,,,,,,,,5.0,0.0,4.0
+Vivrant Sharma,Vivrant Sharma,Sunrisers Hyderabad,bowler,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",1,69,47,69.0,146.81,9,2,2,18,0,37,12.33,,1,69,69.0,146.81,23.4,2,0,12.33,,27.8,1,69,69.0,146.81,2,0,12.33,,5.0,0.0,1.0
+W Jaffer,W Jaffer,Royal Challengers Bangalore,batter,,8,130,121,16.25,107.44,14,3,,,,,,,5,64,12.8,101.59,14.3,,,,,,,,,,,,,,53.0,0.0,42.4
+W O'Rourke,W O'Rourke,Lucknow Super Giants,bowler,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,,,,,,,3,62,6,132,12.77,10.3,,,,,,3,6,12.77,10.3,24.2,,,,,3,6,12.77,10.3,5.0,50.0,41.0
+WA Mota,WA Mota,Kings XI Punjab,all-rounder,,8,56,75,7.0,74.67,2,0,7,72,4,98,8.17,18.0,5,29,5.8,63.04,0.0,5,3,6.89,18.0,38.9,,,,,,,,,31.0,45.5,38.2
+WD Parnell,WD Parnell,Royal Challengers Bangalore,all-rounder,,13,65,80,5.0,81.25,4,1,33,723,40,968,8.03,18.1,5,14,2.8,66.67,0.0,5,5,9.79,20.6,37.9,1,2,2.0,40.0,7,9,9.42,16.8,24.1,40.5,32.3
+WP Saha,WP Saha,Gujarat Titans,batter,"Narendra Modi Stadium, Ahmedabad",143,2934,2300,20.52,127.57,296,87,,,,,,,5,60,12.0,105.26,14.0,,,,,,26,507,19.5,126.12,,,,,62.0,0.0,49.6
+WPUJC Vaas,WPUJC Vaas,Deccan Chargers,all-rounder,,11,81,73,7.36,110.96,2,3,13,282,22,364,7.74,12.8,5,30,6.0,88.24,5.9,5,9,6.32,12.7,46.5,,,,,,,,,41.6,80.8,61.2
+X Thalaivan Sargunam,X Thalaivan Sargunam,Sunrisers Hyderabad,batter,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",1,10,17,10.0,58.82,0,0,,,,,,,1,10,10.0,58.82,0.0,,,,,,,,,,,,,,5.0,0.0,4.0
+XC Bartlett,XC Bartlett,Punjab Kings,bowler,"Punjab Cricket Association IS Bindra Stadium, Mohali",1,11,15,11.0,73.33,1,0,4,60,2,96,9.6,30.0,1,11,11.0,73.33,6.7,4,2,9.6,30.0,46.7,1,11,11.0,73.33,4,2,9.6,30.0,5.0,17.5,15.0
+Y Gnaneswara Rao,Y Gnaneswara Rao,Kochi Tuskers Kerala,bowler,,1,19,17,19.0,111.76,3,0,1,6,0,7,7.0,,1,19,19.0,111.76,17.6,1,0,7.0,,50.0,,,,,,,,,5.0,0.0,1.0
+Y Nagar,Y Nagar,Delhi Daredevils,all-rounder,,20,285,259,14.25,110.04,20,9,8,66,4,125,11.36,16.5,5,90,18.0,107.14,9.5,5,1,12.8,30.0,20.0,,,,,,,,,56.4,8.8,32.6
+Y Prithvi Raj,Y Prithvi Raj,Kolkata Knight Riders,bowler,"Eden Gardens, Kolkata",1,0,1,0.0,0.0,0,0,2,30,1,57,11.4,30.0,1,0,0.0,0.0,0.0,2,1,11.4,30.0,26.7,,,,,,,,,5.0,0.0,1.0
+Y Venugopal Rao,Y Venugopal Rao,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",52,985,836,18.94,117.82,77,37,20,216,7,338,9.39,30.9,5,71,14.2,112.7,12.7,5,0,10.8,,20.0,,,,,,,,,59.1,8.2,33.6
+YA Abdulla,YA Abdulla,Kings XI Punjab,bowler,,1,0,1,0.0,0.0,0,0,11,209,15,311,8.93,13.9,1,0,0.0,0.0,0.0,5,2,10.29,47.5,30.5,,,,,,,,,5.0,28.7,24.0
+YK Pathan,YK Pathan,Sunrisers Hyderabad,all-rounder,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",153,3204,2241,20.94,142.97,262,159,82,1147,46,1443,7.55,24.9,5,23,4.6,79.31,3.4,5,2,8.0,18.0,27.8,,,,,,,,,53.0,39.8,46.4
+YV Dhull,YV Dhull,Delhi Capitals,batter,"Arun Jaitley Stadium, Delhi",3,16,23,5.33,69.57,1,0,,,,,,,3,16,5.33,69.57,4.3,,,,,,3,16,5.33,69.57,,,,,5.0,0.0,4.0
+YV Takawale,YV Takawale,Royal Challengers Bangalore,batter,,10,192,178,19.2,107.87,26,3,,,,,,,5,104,20.8,114.29,19.8,,,,,,,,,,,,,,62.0,0.0,49.6
+Yashpal Singh,Yashpal Singh,Kolkata Knight Riders,batter,"Eden Gardens, Kolkata",4,47,66,11.75,71.21,5,0,,,,,,,4,47,11.75,71.21,7.6,,,,,,,,,,,,,,5.0,0.0,4.0
+Younis Khan,Younis Khan,Rajasthan Royals,batter,"Sawai Mansingh Stadium, Jaipur",1,3,7,3.0,42.86,0,0,,,,,,,1,3,3.0,42.86,0.0,,,,,,,,,,,,,,5.0,0.0,4.0
+Yudhvir Singh,Yudhvir Singh,Rajasthan Royals,all-rounder,"Sawai Mansingh Stadium, Jaipur",4,22,16,5.5,137.5,1,2,9,138,8,257,11.17,17.2,4,22,5.5,137.5,18.8,5,4,12.31,19.5,37.2,4,22,5.5,137.5,9,8,11.17,17.2,5.0,21.6,13.3
+Yuvraj Singh,Yuvraj Singh,Mumbai Indians,all-rounder,"Wankhede Stadium, Mumbai",126,2750,2120,21.83,129.72,217,149,73,869,39,1091,7.53,22.3,5,99,19.8,126.92,16.7,5,2,10.6,15.0,10.0,,,,,,,,,68.8,27.1,48.0
+Z Khan,Z Khan,Delhi Daredevils,all-rounder,,27,117,141,4.33,82.98,11,2,99,2200,119,2860,7.8,18.5,5,10,2.0,38.46,3.8,5,4,7.63,25.8,29.1,,,,,,,,,24.2,53.6,38.9

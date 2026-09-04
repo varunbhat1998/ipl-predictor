@@ -1,0 +1,211 @@
+team,venue,players_with_bat_data,players_with_bowl_data,avg_bat_score,avg_bowl_score,max_bat_score,max_bowl_score,top3_bat_avg,top3_bowl_avg
+Chennai Super Kings,"Arun Jaitley Stadium, Delhi",34,15,74.1,49.4,188.3,89.9,151.6,78.1
+Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",7,4,81.3,61.5,126.5,90.6,104.8,69.5
+Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",9,4,84.2,32.3,160.5,66.7,126.1,43.1
+Chennai Super Kings,"Brabourne Stadium, Mumbai",22,7,73.8,52.9,139.4,94.5,127.6,77.6
+Chennai Super Kings,"Dr DY Patil Sports Academy, Mumbai",26,9,60.9,59.9,167.9,100.0,120.0,79.8
+Chennai Super Kings,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",16,4,71.6,60.2,114.6,81.2,108.0,74.7
+Chennai Super Kings,Dubai International Cricket Stadium,19,11,53.1,44.0,98.9,75.0,86.2,67.2
+Chennai Super Kings,"Eden Gardens, Kolkata",31,13,64.4,40.2,134.3,100.0,126.1,84.6
+Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",15,3,56.3,37.2,115.3,62.5,101.5,37.2
+Chennai Super Kings,"M Chinnaswamy Stadium, Bengaluru",26,11,66.4,52.8,182.8,85.0,152.1,79.1
+Chennai Super Kings,"MA Chidambaram Stadium, Chennai",40,25,58.6,51.9,100.3,84.4,96.8,83.9
+Chennai Super Kings,"Maharashtra Cricket Association Stadium, Pune",15,4,67.6,52.2,139.2,87.5,127.6,58.1
+Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",27,6,76.0,49.5,140.5,83.3,132.8,70.5
+Chennai Super Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali",26,14,65.8,49.4,133.2,100.0,120.3,81.9
+Chennai Super Kings,Rajiv Gandhi International Stadium,15,8,62.3,58.8,146.3,98.2,115.6,89.3
+Chennai Super Kings,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",9,2,45.8,25.8,118.8,39.0,99.7,
+Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",26,8,60.1,42.2,117.5,72.4,105.1,62.9
+Chennai Super Kings,Sharjah Cricket Stadium,16,4,57.5,48.2,103.6,100.0,91.7,62.2
+Chennai Super Kings,Sheikh Zayed Stadium,18,6,65.8,48.3,133.8,74.1,120.2,61.9
+Chennai Super Kings,"Wankhede Stadium, Mumbai",38,17,50.6,38.5,111.1,72.2,96.2,71.1
+Chennai Super Kings,"Zayed Cricket Stadium, Abu Dhabi",9,1,71.2,,141.5,28.6,125.3,
+Kolkata Knight Riders,"Arun Jaitley Stadium, Delhi",41,20,56.0,43.3,128.5,100.0,112.0,88.6
+Kolkata Knight Riders,"Barsapara Cricket Stadium, Guwahati",7,0,36.4,,70.6,,67.4,
+Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",14,3,75.1,49.0,170.5,75.0,148.1,49.0
+Kolkata Knight Riders,"Brabourne Stadium, Mumbai",27,8,66.8,47.3,122.5,83.3,113.7,70.4
+Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai",23,11,49.7,47.0,110.1,75.0,103.3,66.7
+Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",11,3,80.7,45.6,178.9,58.1,151.3,45.6
+Kolkata Knight Riders,Dubai International Cricket Stadium,20,8,50.8,53.0,96.0,85.4,88.1,69.2
+Kolkata Knight Riders,"Eden Gardens, Kolkata",54,27,56.5,48.0,114.6,100.0,106.0,82.5
+Kolkata Knight Riders,"Himachal Pradesh Cricket Association Stadium, Dharamsala",9,2,67.5,84.0,114.8,100.0,104.9,
+Kolkata Knight Riders,"M Chinnaswamy Stadium, Bengaluru",36,18,63.6,48.0,131.2,100.0,116.0,75.7
+Kolkata Knight Riders,"MA Chidambaram Stadium, Chennai",39,18,61.8,53.5,151.2,87.5,130.0,84.9
+Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune",17,6,44.4,65.3,111.1,93.8,88.3,79.6
+Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",20,8,59.6,38.5,136.2,70.0,108.7,59.6
+Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali",37,12,52.7,46.3,97.2,87.5,92.8,73.4
+Kolkata Knight Riders,Rajiv Gandhi International Stadium,14,3,61.3,40.1,133.8,53.6,113.8,40.1
+Kolkata Knight Riders,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",15,2,68.6,48.6,119.2,70.9,107.8,
+Kolkata Knight Riders,"Sawai Mansingh Stadium, Jaipur",25,10,60.5,42.2,108.5,59.4,98.7,57.1
+Kolkata Knight Riders,Sharjah Cricket Stadium,20,6,51.2,57.2,121.8,76.4,96.3,68.9
+Kolkata Knight Riders,Sheikh Zayed Stadium,17,9,43.8,52.8,87.3,75.4,80.4,73.8
+Kolkata Knight Riders,"Wankhede Stadium, Mumbai",50,22,51.0,40.6,135.1,81.1,125.4,72.7
+Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",8,5,73.8,66.2,142.3,100.0,120.8,78.1
+Mumbai Indians,"Arun Jaitley Stadium, Delhi",40,19,58.0,45.1,127.5,81.2,125.1,71.8
+Mumbai Indians,"Barsapara Cricket Stadium, Guwahati",3,1,90.8,,174.3,51.5,90.8,
+Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",14,5,65.9,33.3,121.4,79.1,102.7,47.1
+Mumbai Indians,"Brabourne Stadium, Mumbai",24,9,68.2,34.5,134.5,66.7,113.4,60.9
+Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai",35,18,54.5,55.5,127.0,100.0,111.5,92.7
+Mumbai Indians,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",20,7,47.6,51.2,87.1,87.5,81.4,71.6
+Mumbai Indians,Dubai International Cricket Stadium,20,13,51.1,42.3,104.2,84.1,97.2,75.9
+Mumbai Indians,"Eden Gardens, Kolkata",31,19,71.7,41.3,150.9,90.9,132.8,72.9
+Mumbai Indians,"Himachal Pradesh Cricket Association Stadium, Dharamsala",15,2,50.9,47.1,107.3,66.7,84.3,
+Mumbai Indians,"M Chinnaswamy Stadium, Bengaluru",39,21,62.4,46.2,165.9,100.0,143.5,92.3
+Mumbai Indians,"MA Chidambaram Stadium, Chennai",42,16,56.4,50.1,110.1,100.0,101.5,79.7
+Mumbai Indians,"Maharashtra Cricket Association Stadium, Pune",11,5,55.1,42.2,120.7,62.5,97.5,52.0
+Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",32,15,66.3,33.1,206.3,61.4,156.2,59.5
+Mumbai Indians,"Punjab Cricket Association IS Bindra Stadium, Mohali",35,18,66.2,41.9,155.6,92.4,134.5,77.3
+Mumbai Indians,Rajiv Gandhi International Stadium,17,8,54.7,40.8,130.5,93.1,111.9,87.7
+Mumbai Indians,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",11,8,78.5,48.0,116.7,91.6,111.1,82.9
+Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",36,14,58.4,43.2,106.8,92.2,105.6,75.1
+Mumbai Indians,Sharjah Cricket Stadium,16,10,62.2,50.2,104.6,93.8,98.0,83.7
+Mumbai Indians,Sheikh Zayed Stadium,17,9,55.6,51.8,102.0,80.5,95.0,73.9
+Mumbai Indians,"Wankhede Stadium, Mumbai",58,30,54.0,43.9,141.6,87.5,110.3,77.7
+Mumbai Indians,"Zayed Cricket Stadium, Abu Dhabi",11,3,60.8,59.2,93.1,96.9,90.8,59.2
+Royal Challengers Bengaluru,"Arun Jaitley Stadium, Delhi",14,5,71.4,42.7,111.2,61.0,107.4,52.5
+Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",2,0,64.6,,76.0,,,
+Royal Challengers Bengaluru,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",16,6,56.7,31.6,115.3,58.6,106.4,50.8
+Royal Challengers Bengaluru,"Brabourne Stadium, Mumbai",14,4,62.7,21.0,99.4,59.2,93.0,28.1
+Royal Challengers Bengaluru,"Dr DY Patil Sports Academy, Mumbai",14,5,55.3,59.5,81.8,84.4,80.1,71.2
+Royal Challengers Bengaluru,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",7,3,56.7,39.8,118.6,60.2,93.6,39.8
+Royal Challengers Bengaluru,Dubai International Cricket Stadium,8,4,69.4,50.2,95.9,64.3,88.1,55.4
+Royal Challengers Bengaluru,"Eden Gardens, Kolkata",15,6,67.6,43.3,153.5,70.2,121.5,59.1
+Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",8,0,80.4,,148.5,,130.8,
+Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",22,9,60.7,30.8,192.4,56.6,138.5,47.7
+Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chennai",11,6,64.3,35.4,89.4,66.6,83.6,53.5
+Royal Challengers Bengaluru,"Maharashtra Cricket Association Stadium, Pune",14,5,57.4,63.5,104.4,100.0,93.7,76.7
+Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",16,7,64.8,40.5,149.4,81.6,113.6,62.1
+Royal Challengers Bengaluru,"Punjab Cricket Association IS Bindra Stadium, Mohali",14,6,68.3,53.6,134.3,94.6,106.2,74.2
+Royal Challengers Bengaluru,Rajiv Gandhi International Stadium,5,2,48.7,34.4,63.8,39.1,62.0,
+Royal Challengers Bengaluru,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",14,1,74.4,,145.8,43.5,129.9,
+Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",10,4,59.6,37.6,146.9,42.9,98.1,39.1
+Royal Challengers Bengaluru,Sharjah Cricket Stadium,9,3,56.1,50.3,109.6,74.2,91.8,50.3
+Royal Challengers Bengaluru,Sheikh Zayed Stadium,6,2,70.9,48.8,99.4,57.1,84.3,
+Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",17,8,71.6,44.7,123.8,68.6,114.1,62.2
+Royal Challengers Bengaluru,"Zayed Cricket Stadium, Abu Dhabi",6,2,72.2,27.6,111.3,30.2,92.8,
+Gujarat Titans,"Arun Jaitley Stadium, Delhi",20,14,65.6,35.3,150.8,57.9,134.4,54.9
+Gujarat Titans,"Barsapara Cricket Stadium, Guwahati",3,1,66.3,,113.9,46.4,66.3,
+Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",17,5,46.1,32.9,102.7,50.0,98.6,45.3
+Gujarat Titans,"Brabourne Stadium, Mumbai",15,8,55.7,46.2,123.1,96.9,105.0,76.8
+Gujarat Titans,"Dr DY Patil Sports Academy, Mumbai",17,9,59.4,55.0,120.3,83.3,106.1,74.0
+Gujarat Titans,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",5,1,50.4,,70.1,40.1,65.4,
+Gujarat Titans,Dubai International Cricket Stadium,13,9,54.7,51.9,89.1,81.8,82.4,67.8
+Gujarat Titans,"Eden Gardens, Kolkata",18,12,55.0,35.0,155.8,60.2,130.6,54.7
+Gujarat Titans,"Himachal Pradesh Cricket Association Stadium, Dharamsala",4,3,35.0,43.1,89.6,68.8,46.7,43.1
+Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",19,12,57.6,31.7,106.2,98.5,98.4,65.3
+Gujarat Titans,"MA Chidambaram Stadium, Chennai",20,10,45.9,40.9,124.0,61.0,98.6,58.9
+Gujarat Titans,"Maharashtra Cricket Association Stadium, Pune",14,7,64.5,55.9,129.3,100.0,114.6,87.5
+Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",17,13,59.9,32.7,116.2,66.3,113.4,55.5
+Gujarat Titans,"Punjab Cricket Association IS Bindra Stadium, Mohali",11,11,79.8,45.6,126.7,91.7,114.4,69.4
+Gujarat Titans,Rajiv Gandhi International Stadium,9,3,41.3,56.5,75.1,83.5,67.9,56.5
+Gujarat Titans,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",7,3,63.7,48.3,123.5,91.7,97.5,48.3
+Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",16,7,72.0,39.0,150.3,90.0,127.9,57.6
+Gujarat Titans,Sharjah Cricket Stadium,17,9,48.6,57.4,105.4,97.6,95.7,84.5
+Gujarat Titans,Sheikh Zayed Stadium,12,8,63.8,60.8,110.8,85.9,95.9,83.8
+Gujarat Titans,"Wankhede Stadium, Mumbai",22,13,48.5,40.2,100.2,75.8,92.6,67.1
+Gujarat Titans,"Zayed Cricket Stadium, Abu Dhabi",8,5,53.8,54.2,77.8,75.0,76.0,58.3
+Rajasthan Royals,"Arun Jaitley Stadium, Delhi",36,16,52.8,42.4,128.8,64.0,114.5,59.0
+Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",14,6,57.5,32.7,89.6,50.0,87.7,45.6
+Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",8,5,58.7,49.9,116.0,82.8,90.7,64.1
+Rajasthan Royals,"Brabourne Stadium, Mumbai",14,6,63.5,72.4,108.2,87.5,107.7,83.0
+Rajasthan Royals,"Dr DY Patil Sports Academy, Mumbai",23,11,45.2,40.9,114.5,71.4,92.4,63.7
+Rajasthan Royals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6,5,54.9,67.9,93.1,87.5,82.1,78.1
+Rajasthan Royals,Dubai International Cricket Stadium,18,13,54.3,46.9,99.1,87.0,97.3,75.6
+Rajasthan Royals,"Eden Gardens, Kolkata",35,17,45.3,37.4,120.8,62.5,106.7,58.6
+Rajasthan Royals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",9,3,70.4,34.7,112.3,44.8,105.6,34.7
+Rajasthan Royals,"M Chinnaswamy Stadium, Bengaluru",36,19,44.2,45.9,151.9,100.0,124.5,85.3
+Rajasthan Royals,"MA Chidambaram Stadium, Chennai",32,15,48.4,40.3,129.3,75.0,110.3,69.3
+Rajasthan Royals,"Maharashtra Cricket Association Stadium, Pune",8,5,55.5,55.8,99.2,81.3,82.2,72.2
+Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",30,15,45.7,50.1,95.3,80.5,88.1,77.5
+Rajasthan Royals,"Punjab Cricket Association IS Bindra Stadium, Mohali",34,18,58.2,44.6,130.0,96.6,122.9,80.1
+Rajasthan Royals,Rajiv Gandhi International Stadium,8,2,32.0,53.6,44.6,59.7,40.8,
+Rajasthan Royals,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",8,5,90.1,25.0,145.5,37.5,117.5,33.3
+Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",42,31,56.1,40.6,143.3,100.0,126.7,80.3
+Rajasthan Royals,Sharjah Cricket Stadium,13,10,51.6,58.4,110.8,87.5,89.2,78.2
+Rajasthan Royals,Sheikh Zayed Stadium,16,10,42.9,42.5,92.8,76.2,86.6,68.0
+Rajasthan Royals,"Wankhede Stadium, Mumbai",39,23,48.6,41.3,155.3,82.8,126.9,71.5
+Rajasthan Royals,"Zayed Cricket Stadium, Abu Dhabi",10,3,45.4,39.6,112.0,62.5,104.3,39.6
+Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",25,8,66.4,44.0,144.8,58.3,130.3,54.5
+Sunrisers Hyderabad,"Barsapara Cricket Stadium, Guwahati",0,0,,,,,,
+Sunrisers Hyderabad,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",14,5,77.3,39.6,141.9,67.3,124.2,52.0
+Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",12,5,67.5,56.5,156.7,75.0,129.3,69.9
+Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",14,4,66.9,78.7,99.4,100.0,96.4,87.8
+Sunrisers Hyderabad,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",19,3,49.0,86.3,152.7,100.0,115.7,86.3
+Sunrisers Hyderabad,Dubai International Cricket Stadium,10,6,56.9,53.5,103.2,84.4,80.5,75.6
+Sunrisers Hyderabad,"Eden Gardens, Kolkata",26,8,59.7,37.4,185.6,60.4,126.5,52.6
+Sunrisers Hyderabad,"Himachal Pradesh Cricket Association Stadium, Dharamsala",8,1,75.7,,123.8,76.5,106.9,
+Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",24,8,65.1,36.8,147.6,67.9,125.6,59.2
+Sunrisers Hyderabad,"MA Chidambaram Stadium, Chennai",29,9,48.2,53.7,92.8,98.2,87.7,84.9
+Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune",9,2,61.0,59.6,194.4,74.0,110.1,
+Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",18,5,50.7,46.7,94.3,78.3,91.0,57.5
+Sunrisers Hyderabad,"Punjab Cricket Association IS Bindra Stadium, Mohali",24,7,62.8,49.0,137.7,87.9,120.2,69.0
+Sunrisers Hyderabad,Rajiv Gandhi International Stadium,7,3,61.7,33.0,89.6,37.5,85.2,33.0
+Sunrisers Hyderabad,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",17,10,70.2,26.0,114.3,48.0,112.4,41.3
+Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",21,6,63.5,48.5,122.7,94.6,118.9,68.1
+Sunrisers Hyderabad,Sharjah Cricket Stadium,9,5,41.6,42.3,109.6,77.0,70.5,62.0
+Sunrisers Hyderabad,Sheikh Zayed Stadium,9,6,36.0,37.9,75.9,62.5,69.3,50.8
+Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",30,10,59.8,33.9,135.2,60.2,108.6,51.8
+Sunrisers Hyderabad,"Zayed Cricket Stadium, Abu Dhabi",5,1,62.3,,133.8,66.6,92.2,
+Delhi Capitals,"Arun Jaitley Stadium, Delhi",33,14,58.7,38.9,128.8,75.0,107.7,64.9
+Delhi Capitals,"Barsapara Cricket Stadium, Guwahati",9,0,57.4,,121.6,,114.2,
+Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",17,5,58.6,55.0,121.1,68.8,109.3,62.5
+Delhi Capitals,"Brabourne Stadium, Mumbai",13,6,79.3,64.1,120.8,91.1,115.5,82.7
+Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai",13,4,70.7,58.6,136.1,74.2,116.1,63.7
+Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",21,7,64.8,53.4,153.5,100.0,130.9,68.3
+Delhi Capitals,Dubai International Cricket Stadium,19,7,63.9,66.8,117.5,87.5,104.6,80.9
+Delhi Capitals,"Eden Gardens, Kolkata",24,9,58.9,36.6,106.9,72.1,102.5,62.2
+Delhi Capitals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",5,2,75.5,6.2,114.9,12.5,97.4,
+Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",24,8,62.0,41.1,102.6,70.9,99.3,62.3
+Delhi Capitals,"MA Chidambaram Stadium, Chennai",26,8,51.0,57.7,96.2,81.2,90.4,72.6
+Delhi Capitals,"Maharashtra Cricket Association Stadium, Pune",10,2,60.0,58.4,110.2,75.0,85.8,
+Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",23,8,67.4,62.2,105.5,70.9,103.8,69.0
+Delhi Capitals,"Punjab Cricket Association IS Bindra Stadium, Mohali",24,4,58.2,52.4,146.7,75.0,133.4,57.7
+Delhi Capitals,Rajiv Gandhi International Stadium,11,0,74.1,,130.6,,116.9,
+Delhi Capitals,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",16,1,57.3,,90.5,45.6,86.0,
+Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",17,5,68.7,40.4,149.8,68.8,115.7,52.7
+Delhi Capitals,Sharjah Cricket Stadium,16,6,52.7,38.4,94.5,75.0,88.9,60.1
+Delhi Capitals,Sheikh Zayed Stadium,16,7,53.4,31.2,90.7,53.1,86.8,50.5
+Delhi Capitals,"Wankhede Stadium, Mumbai",31,13,59.2,35.6,111.5,93.8,95.4,69.7
+Delhi Capitals,"Zayed Cricket Stadium, Abu Dhabi",10,1,55.4,,88.8,32.7,78.9,
+Lucknow Super Giants,"Arun Jaitley Stadium, Delhi",16,6,67.7,37.6,151.6,67.3,134.9,51.0
+Lucknow Super Giants,"Barsapara Cricket Stadium, Guwahati",2,0,26.9,,53.8,,,
+Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",18,11,60.8,48.4,100.0,96.9,95.8,79.0
+Lucknow Super Giants,"Brabourne Stadium, Mumbai",10,4,71.7,32.9,148.5,69.4,124.1,43.9
+Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai",9,7,55.7,29.4,99.6,54.1,88.9,45.6
+Lucknow Super Giants,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",9,2,65.8,47.7,177.1,57.9,122.7,
+Lucknow Super Giants,Dubai International Cricket Stadium,10,5,51.7,35.3,95.4,72.0,88.6,52.9
+Lucknow Super Giants,"Eden Gardens, Kolkata",16,7,70.3,38.9,157.5,57.7,135.5,52.9
+Lucknow Super Giants,"Himachal Pradesh Cricket Association Stadium, Dharamsala",9,0,78.7,,154.2,,127.1,
+Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",15,4,63.6,50.0,169.6,100.0,141.6,56.9
+Lucknow Super Giants,"MA Chidambaram Stadium, Chennai",16,7,53.5,54.8,123.6,80.8,109.3,75.1
+Lucknow Super Giants,"Maharashtra Cricket Association Stadium, Pune",9,4,58.6,65.0,103.2,91.7,90.1,83.9
+Lucknow Super Giants,"Narendra Modi Stadium, Ahmedabad",12,4,70.3,47.1,207.2,65.9,135.7,56.6
+Lucknow Super Giants,"Punjab Cricket Association IS Bindra Stadium, Mohali",14,5,59.2,24.4,142.5,39.8,119.4,30.4
+Lucknow Super Giants,Rajiv Gandhi International Stadium,7,1,56.3,,96.2,75.0,87.0,
+Lucknow Super Giants,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",11,3,74.8,24.2,150.6,33.3,127.3,24.2
+Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",14,5,60.8,48.7,121.5,61.7,106.2,54.2
+Lucknow Super Giants,Sharjah Cricket Stadium,9,4,59.5,63.6,74.8,100.0,72.5,76.4
+Lucknow Super Giants,Sheikh Zayed Stadium,7,3,58.9,53.0,88.0,78.1,83.7,53.0
+Lucknow Super Giants,"Wankhede Stadium, Mumbai",17,10,57.6,49.2,138.3,95.2,104.7,77.5
+Lucknow Super Giants,"Zayed Cricket Stadium, Abu Dhabi",6,0,64.2,,108.7,,93.0,
+Punjab Kings,"Arun Jaitley Stadium, Delhi",15,6,70.1,26.8,181.6,62.5,129.3,44.1
+Punjab Kings,"Barsapara Cricket Stadium, Guwahati",6,2,63.5,50.2,158.7,61.5,109.4,
+Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",13,4,74.7,40.4,134.2,55.0,119.4,48.1
+Punjab Kings,"Brabourne Stadium, Mumbai",12,5,70.8,55.5,135.4,93.8,108.5,71.2
+Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",12,8,55.8,35.9,104.9,50.9,92.4,50.3
+Punjab Kings,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",5,1,60.6,,105.4,73.5,85.1,
+Punjab Kings,Dubai International Cricket Stadium,12,7,54.4,36.1,81.0,79.5,80.0,62.7
+Punjab Kings,"Eden Gardens, Kolkata",18,8,72.0,25.8,166.0,37.5,148.2,36.4
+Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",14,2,79.0,26.7,130.7,40.9,121.9,
+Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",17,9,62.6,39.4,97.7,87.5,90.4,63.8
+Punjab Kings,"MA Chidambaram Stadium, Chennai",18,8,66.1,41.4,115.1,83.4,105.6,63.8
+Punjab Kings,"Maharashtra Cricket Association Stadium, Pune",10,5,48.6,64.3,85.3,100.0,71.9,79.2
+Punjab Kings,"Narendra Modi Stadium, Ahmedabad",19,9,67.2,30.9,150.3,83.7,127.0,50.9
+Punjab Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali",24,11,62.9,37.4,138.3,56.2,118.5,55.5
+Punjab Kings,Rajiv Gandhi International Stadium,6,1,53.4,,94.7,42.3,77.2,
+Punjab Kings,"Rajiv Gandhi Intl Cricket Stadium, Hyderabad",14,5,77.4,27.3,178.4,49.2,163.2,38.6
+Punjab Kings,"Sawai Mansingh Stadium, Jaipur",18,6,68.6,39.4,130.4,71.9,119.3,53.5
+Punjab Kings,Sharjah Cricket Stadium,8,6,79.7,50.3,117.8,89.0,100.6,73.1
+Punjab Kings,Sheikh Zayed Stadium,8,5,73.5,67.1,114.5,100.0,101.6,82.9
+Punjab Kings,"Wankhede Stadium, Mumbai",19,9,64.9,38.6,100.1,71.0,98.2,62.2
+Punjab Kings,"Zayed Cricket Stadium, Abu Dhabi",6,2,46.3,66.2,98.5,86.5,70.9,

@@ -1,0 +1,215 @@
+season,date,team1,team2,prob_team1,predicted_winner,actual_winner,correct,confidence
+2023,2023-03-31,Chennai Super Kings,Gujarat Titans,0.4721630811691284,Gujarat Titans,Gujarat Titans,1,0.027836918830871582
+2023,2023-04-01,Kings XI Punjab,Kolkata Knight Riders,0.4872225522994995,Kolkata Knight Riders,Kings XI Punjab,0,0.012777447700500488
+2023,2023-04-01,Lucknow Super Giants,Delhi Capitals,0.48285260796546936,Delhi Capitals,Lucknow Super Giants,0,0.01714739203453064
+2023,2023-04-02,Rajasthan Royals,Sunrisers Hyderabad,0.42253366112709045,Sunrisers Hyderabad,Rajasthan Royals,0,0.07746633887290955
+2023,2023-04-02,Mumbai Indians,Royal Challengers Bengaluru,0.4751529097557068,Royal Challengers Bengaluru,Royal Challengers Bengaluru,1,0.024847090244293213
+2023,2023-04-03,Chennai Super Kings,Lucknow Super Giants,0.5113089680671692,Chennai Super Kings,Chennai Super Kings,1,0.01130896806716919
+2023,2023-04-04,Delhi Capitals,Gujarat Titans,0.48517894744873047,Gujarat Titans,Gujarat Titans,1,0.014821052551269531
+2023,2023-04-05,Kings XI Punjab,Rajasthan Royals,0.48517894744873047,Rajasthan Royals,Kings XI Punjab,0,0.014821052551269531
+2023,2023-04-06,Kolkata Knight Riders,Royal Challengers Bengaluru,0.4860135316848755,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.013986468315124512
+2023,2023-04-07,Sunrisers Hyderabad,Lucknow Super Giants,0.5234376192092896,Sunrisers Hyderabad,Lucknow Super Giants,0,0.02343761920928955
+2023,2023-04-08,Rajasthan Royals,Delhi Capitals,0.4930683970451355,Delhi Capitals,Rajasthan Royals,0,0.006931602954864502
+2023,2023-04-08,Mumbai Indians,Chennai Super Kings,0.4844230115413666,Chennai Super Kings,Chennai Super Kings,1,0.015576988458633423
+2023,2023-04-09,Gujarat Titans,Kolkata Knight Riders,0.4929485619068146,Kolkata Knight Riders,Kolkata Knight Riders,1,0.007051438093185425
+2023,2023-04-09,Kings XI Punjab,Sunrisers Hyderabad,0.3962286114692688,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0.1037713885307312
+2023,2023-04-10,Royal Challengers Bengaluru,Lucknow Super Giants,0.5163143873214722,Royal Challengers Bengaluru,Lucknow Super Giants,0,0.016314387321472168
+2023,2023-04-11,Delhi Capitals,Mumbai Indians,0.4248626232147217,Mumbai Indians,Mumbai Indians,1,0.07513737678527832
+2023,2023-04-12,Rajasthan Royals,Chennai Super Kings,0.5214731693267822,Rajasthan Royals,Rajasthan Royals,1,0.021473169326782227
+2023,2023-04-13,Kings XI Punjab,Gujarat Titans,0.4860135316848755,Gujarat Titans,Gujarat Titans,1,0.013986468315124512
+2023,2023-04-14,Sunrisers Hyderabad,Kolkata Knight Riders,0.48517894744873047,Kolkata Knight Riders,Sunrisers Hyderabad,0,0.014821052551269531
+2023,2023-04-15,Royal Challengers Bengaluru,Delhi Capitals,0.44313135743141174,Delhi Capitals,Royal Challengers Bengaluru,0,0.05686864256858826
+2023,2023-04-15,Lucknow Super Giants,Kings XI Punjab,0.46650856733322144,Kings XI Punjab,Kings XI Punjab,1,0.033491432666778564
+2023,2023-04-16,Kolkata Knight Riders,Mumbai Indians,0.4625523090362549,Mumbai Indians,Mumbai Indians,1,0.03744769096374512
+2023,2023-04-16,Gujarat Titans,Rajasthan Royals,0.49016642570495605,Rajasthan Royals,Rajasthan Royals,1,0.009833574295043945
+2023,2023-04-17,Chennai Super Kings,Royal Challengers Bengaluru,0.4880262017250061,Royal Challengers Bengaluru,Chennai Super Kings,0,0.011973798274993896
+2023,2023-04-18,Mumbai Indians,Sunrisers Hyderabad,0.48520997166633606,Sunrisers Hyderabad,Mumbai Indians,0,0.01479002833366394
+2023,2023-04-19,Lucknow Super Giants,Rajasthan Royals,0.48956459760665894,Rajasthan Royals,Lucknow Super Giants,0,0.010435402393341064
+2023,2023-04-20,Royal Challengers Bengaluru,Kings XI Punjab,0.4860135316848755,Kings XI Punjab,Royal Challengers Bengaluru,0,0.013986468315124512
+2023,2023-04-20,Kolkata Knight Riders,Delhi Capitals,0.4817579984664917,Delhi Capitals,Delhi Capitals,1,0.0182420015335083
+2023,2023-04-21,Sunrisers Hyderabad,Chennai Super Kings,0.5100381374359131,Sunrisers Hyderabad,Chennai Super Kings,0,0.010038137435913086
+2023,2023-04-22,Gujarat Titans,Lucknow Super Giants,0.5513802766799927,Gujarat Titans,Gujarat Titans,1,0.051380276679992676
+2023,2023-04-22,Kings XI Punjab,Mumbai Indians,0.4860135316848755,Mumbai Indians,Kings XI Punjab,0,0.013986468315124512
+2023,2023-04-23,Chennai Super Kings,Kolkata Knight Riders,0.4860135316848755,Kolkata Knight Riders,Chennai Super Kings,0,0.013986468315124512
+2023,2023-04-23,Royal Challengers Bengaluru,Rajasthan Royals,0.49869033694267273,Rajasthan Royals,Royal Challengers Bengaluru,0,0.0013096630573272705
+2023,2023-04-24,Delhi Capitals,Sunrisers Hyderabad,0.48285260796546936,Sunrisers Hyderabad,Delhi Capitals,0,0.01714739203453064
+2023,2023-04-25,Gujarat Titans,Mumbai Indians,0.4995206296443939,Mumbai Indians,Gujarat Titans,0,0.0004793703556060791
+2023,2023-04-26,Kolkata Knight Riders,Royal Challengers Bengaluru,0.4860135316848755,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.013986468315124512
+2023,2023-04-27,Rajasthan Royals,Chennai Super Kings,0.49980422854423523,Chennai Super Kings,Rajasthan Royals,0,0.0001957714557647705
+2023,2023-04-28,Lucknow Super Giants,Kings XI Punjab,0.48285260796546936,Kings XI Punjab,Lucknow Super Giants,0,0.01714739203453064
+2023,2023-04-29,Kolkata Knight Riders,Gujarat Titans,0.4828950762748718,Gujarat Titans,Gujarat Titans,1,0.017104923725128174
+2023,2023-04-29,Sunrisers Hyderabad,Delhi Capitals,0.4440270662307739,Delhi Capitals,Sunrisers Hyderabad,0,0.055972933769226074
+2023,2023-04-30,Chennai Super Kings,Kings XI Punjab,0.5022519826889038,Chennai Super Kings,Kings XI Punjab,0,0.0022519826889038086
+2023,2023-04-30,Rajasthan Royals,Mumbai Indians,0.4860135316848755,Mumbai Indians,Mumbai Indians,1,0.013986468315124512
+2023,2023-05-01,Royal Challengers Bengaluru,Lucknow Super Giants,0.5205705761909485,Royal Challengers Bengaluru,Royal Challengers Bengaluru,1,0.020570576190948486
+2023,2023-05-02,Delhi Capitals,Gujarat Titans,0.47868815064430237,Gujarat Titans,Delhi Capitals,0,0.021311849355697632
+2023,2023-05-03,Kings XI Punjab,Mumbai Indians,0.4880262017250061,Mumbai Indians,Mumbai Indians,1,0.011973798274993896
+2023,2023-05-04,Kolkata Knight Riders,Sunrisers Hyderabad,0.47971591353416443,Sunrisers Hyderabad,Kolkata Knight Riders,0,0.02028408646583557
+2023,2023-05-05,Rajasthan Royals,Gujarat Titans,0.5018182992935181,Rajasthan Royals,Gujarat Titans,0,0.0018182992935180664
+2023,2023-05-06,Mumbai Indians,Chennai Super Kings,0.5074170827865601,Mumbai Indians,Chennai Super Kings,0,0.007417082786560059
+2023,2023-05-06,Royal Challengers Bengaluru,Delhi Capitals,0.4857301414012909,Delhi Capitals,Delhi Capitals,1,0.014269858598709106
+2023,2023-05-07,Rajasthan Royals,Sunrisers Hyderabad,0.5005291104316711,Rajasthan Royals,Sunrisers Hyderabad,0,0.0005291104316711426
+2023,2023-05-07,Gujarat Titans,Lucknow Super Giants,0.5197848677635193,Gujarat Titans,Gujarat Titans,1,0.019784867763519287
+2023,2023-05-08,Kings XI Punjab,Kolkata Knight Riders,0.48339417576789856,Kolkata Knight Riders,Kolkata Knight Riders,1,0.01660582423210144
+2023,2023-05-09,Royal Challengers Bengaluru,Mumbai Indians,0.4880262017250061,Mumbai Indians,Mumbai Indians,1,0.011973798274993896
+2023,2023-05-10,Chennai Super Kings,Delhi Capitals,0.5042970180511475,Chennai Super Kings,Chennai Super Kings,1,0.004297018051147461
+2023,2023-05-11,Kolkata Knight Riders,Rajasthan Royals,0.48889073729515076,Rajasthan Royals,Rajasthan Royals,1,0.011109262704849243
+2023,2023-05-12,Mumbai Indians,Gujarat Titans,0.49869033694267273,Gujarat Titans,Mumbai Indians,0,0.0013096630573272705
+2023,2023-05-13,Sunrisers Hyderabad,Lucknow Super Giants,0.4894430935382843,Lucknow Super Giants,Lucknow Super Giants,1,0.010556906461715698
+2023,2023-05-13,Kings XI Punjab,Delhi Capitals,0.48339417576789856,Delhi Capitals,Kings XI Punjab,0,0.01660582423210144
+2023,2023-05-14,Royal Challengers Bengaluru,Rajasthan Royals,0.5019453763961792,Royal Challengers Bengaluru,Royal Challengers Bengaluru,1,0.0019453763961791992
+2023,2023-05-14,Chennai Super Kings,Kolkata Knight Riders,0.5251731276512146,Chennai Super Kings,Kolkata Knight Riders,0,0.0251731276512146
+2023,2023-05-15,Gujarat Titans,Sunrisers Hyderabad,0.5060055255889893,Gujarat Titans,Gujarat Titans,1,0.006005525588989258
+2023,2023-05-16,Lucknow Super Giants,Mumbai Indians,0.5262647867202759,Lucknow Super Giants,Lucknow Super Giants,1,0.02626478672027588
+2023,2023-05-17,Delhi Capitals,Kings XI Punjab,0.5217201709747314,Delhi Capitals,Delhi Capitals,1,0.021720170974731445
+2023,2023-05-18,Sunrisers Hyderabad,Royal Challengers Bengaluru,0.5069363117218018,Sunrisers Hyderabad,Royal Challengers Bengaluru,0,0.006936311721801758
+2023,2023-05-19,Kings XI Punjab,Rajasthan Royals,0.5176411867141724,Kings XI Punjab,Rajasthan Royals,0,0.017641186714172363
+2023,2023-05-20,Chennai Super Kings,Delhi Capitals,0.5040577054023743,Chennai Super Kings,Chennai Super Kings,1,0.004057705402374268
+2023,2023-05-20,Lucknow Super Giants,Kolkata Knight Riders,0.3480999171733856,Kolkata Knight Riders,Lucknow Super Giants,0,0.15190008282661438
+2023,2023-05-21,Sunrisers Hyderabad,Mumbai Indians,0.3708118498325348,Mumbai Indians,Mumbai Indians,1,0.1291881501674652
+2023,2023-05-21,Royal Challengers Bengaluru,Gujarat Titans,0.3614882528781891,Gujarat Titans,Gujarat Titans,1,0.1385117471218109
+2023,2023-05-23,Chennai Super Kings,Gujarat Titans,0.3800879418849945,Gujarat Titans,Chennai Super Kings,0,0.1199120581150055
+2023,2023-05-24,Mumbai Indians,Lucknow Super Giants,0.3972421884536743,Lucknow Super Giants,Mumbai Indians,0,0.10275781154632568
+2023,2023-05-26,Gujarat Titans,Mumbai Indians,0.3579264283180237,Mumbai Indians,Gujarat Titans,0,0.14207357168197632
+2023,2023-05-29,Gujarat Titans,Chennai Super Kings,0.3560771048069,Chennai Super Kings,Chennai Super Kings,1,0.14392289519309998
+2024,2024-03-22,Royal Challengers Bengaluru,Chennai Super Kings,0.40732139348983765,Chennai Super Kings,Chennai Super Kings,1,0.09267860651016235
+2024,2024-03-23,Delhi Capitals,Kings XI Punjab,0.6004953980445862,Delhi Capitals,Kings XI Punjab,0,0.10049539804458618
+2024,2024-03-23,Kolkata Knight Riders,Sunrisers Hyderabad,0.5396965146064758,Kolkata Knight Riders,Kolkata Knight Riders,1,0.03969651460647583
+2024,2024-03-24,Rajasthan Royals,Lucknow Super Giants,0.7143322825431824,Rajasthan Royals,Rajasthan Royals,1,0.21433228254318237
+2024,2024-03-24,Gujarat Titans,Mumbai Indians,0.5267318487167358,Gujarat Titans,Gujarat Titans,1,0.02673184871673584
+2024,2024-03-25,Kings XI Punjab,Royal Challengers Bengaluru,0.5596774816513062,Kings XI Punjab,Royal Challengers Bengaluru,0,0.05967748165130615
+2024,2024-03-26,Chennai Super Kings,Gujarat Titans,0.575535774230957,Chennai Super Kings,Chennai Super Kings,1,0.07553577423095703
+2024,2024-03-27,Sunrisers Hyderabad,Mumbai Indians,0.4323984682559967,Mumbai Indians,Sunrisers Hyderabad,0,0.0676015317440033
+2024,2024-03-28,Rajasthan Royals,Delhi Capitals,0.5462279319763184,Rajasthan Royals,Rajasthan Royals,1,0.04622793197631836
+2024,2024-03-29,Royal Challengers Bengaluru,Kolkata Knight Riders,0.5226991176605225,Royal Challengers Bengaluru,Kolkata Knight Riders,0,0.02269911766052246
+2024,2024-03-30,Lucknow Super Giants,Kings XI Punjab,0.5463621020317078,Lucknow Super Giants,Lucknow Super Giants,1,0.046362102031707764
+2024,2024-03-31,Delhi Capitals,Chennai Super Kings,0.3637864291667938,Chennai Super Kings,Delhi Capitals,0,0.13621357083320618
+2024,2024-03-31,Sunrisers Hyderabad,Gujarat Titans,0.4247444272041321,Gujarat Titans,Gujarat Titans,1,0.07525557279586792
+2024,2024-04-01,Mumbai Indians,Rajasthan Royals,0.56464684009552,Mumbai Indians,Rajasthan Royals,0,0.06464684009552002
+2024,2024-04-02,Lucknow Super Giants,Royal Challengers Bengaluru,0.5273642539978027,Lucknow Super Giants,Lucknow Super Giants,1,0.027364253997802734
+2024,2024-04-03,Kolkata Knight Riders,Delhi Capitals,0.5882076621055603,Kolkata Knight Riders,Kolkata Knight Riders,1,0.0882076621055603
+2024,2024-04-04,Gujarat Titans,Kings XI Punjab,0.397892564535141,Kings XI Punjab,Kings XI Punjab,1,0.10210743546485901
+2024,2024-04-05,Chennai Super Kings,Sunrisers Hyderabad,0.5173390507698059,Chennai Super Kings,Sunrisers Hyderabad,0,0.017339050769805908
+2024,2024-04-06,Royal Challengers Bengaluru,Rajasthan Royals,0.5918687582015991,Royal Challengers Bengaluru,Rajasthan Royals,0,0.09186875820159912
+2024,2024-04-07,Mumbai Indians,Delhi Capitals,0.5256841778755188,Mumbai Indians,Mumbai Indians,1,0.0256841778755188
+2024,2024-04-07,Lucknow Super Giants,Gujarat Titans,0.627808690071106,Lucknow Super Giants,Lucknow Super Giants,1,0.12780869007110596
+2024,2024-04-08,Kolkata Knight Riders,Chennai Super Kings,0.4542210102081299,Chennai Super Kings,Chennai Super Kings,1,0.04577898979187012
+2024,2024-04-09,Sunrisers Hyderabad,Kings XI Punjab,0.5981994867324829,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0.09819948673248291
+2024,2024-04-10,Rajasthan Royals,Gujarat Titans,0.53372722864151,Rajasthan Royals,Gujarat Titans,0,0.03372722864151001
+2024,2024-04-11,Royal Challengers Bengaluru,Mumbai Indians,0.5133607983589172,Royal Challengers Bengaluru,Mumbai Indians,0,0.013360798358917236
+2024,2024-04-12,Lucknow Super Giants,Delhi Capitals,0.5903699994087219,Lucknow Super Giants,Delhi Capitals,0,0.09036999940872192
+2024,2024-04-13,Kings XI Punjab,Rajasthan Royals,0.44227322936058044,Rajasthan Royals,Rajasthan Royals,1,0.057726770639419556
+2024,2024-04-14,Chennai Super Kings,Mumbai Indians,0.5688672661781311,Chennai Super Kings,Chennai Super Kings,1,0.0688672661781311
+2024,2024-04-14,Lucknow Super Giants,Kolkata Knight Riders,0.5686464905738831,Lucknow Super Giants,Kolkata Knight Riders,0,0.06864649057388306
+2024,2024-04-15,Sunrisers Hyderabad,Royal Challengers Bengaluru,0.5054576992988586,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0.005457699298858643
+2024,2024-04-16,Kolkata Knight Riders,Rajasthan Royals,0.5530997514724731,Kolkata Knight Riders,Rajasthan Royals,0,0.053099751472473145
+2024,2024-04-17,Gujarat Titans,Delhi Capitals,0.5856443643569946,Gujarat Titans,Delhi Capitals,0,0.08564436435699463
+2024,2024-04-18,Mumbai Indians,Kings XI Punjab,0.550559937953949,Mumbai Indians,Mumbai Indians,1,0.050559937953948975
+2024,2024-04-19,Chennai Super Kings,Lucknow Super Giants,0.5775028467178345,Chennai Super Kings,Lucknow Super Giants,0,0.07750284671783447
+2024,2024-04-20,Sunrisers Hyderabad,Delhi Capitals,0.5349606275558472,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0.03496062755584717
+2024,2024-04-21,Kolkata Knight Riders,Royal Challengers Bengaluru,0.5964822173118591,Kolkata Knight Riders,Kolkata Knight Riders,1,0.09648221731185913
+2024,2024-04-21,Kings XI Punjab,Gujarat Titans,0.41875770688056946,Gujarat Titans,Gujarat Titans,1,0.08124229311943054
+2024,2024-04-22,Mumbai Indians,Rajasthan Royals,0.5084394216537476,Mumbai Indians,Rajasthan Royals,0,0.008439421653747559
+2024,2024-04-23,Chennai Super Kings,Lucknow Super Giants,0.6063061356544495,Chennai Super Kings,Lucknow Super Giants,0,0.10630613565444946
+2024,2024-04-24,Delhi Capitals,Gujarat Titans,0.45536428689956665,Gujarat Titans,Delhi Capitals,0,0.04463571310043335
+2024,2024-04-25,Royal Challengers Bengaluru,Sunrisers Hyderabad,0.6120943427085876,Royal Challengers Bengaluru,Royal Challengers Bengaluru,1,0.11209434270858765
+2024,2024-04-26,Kolkata Knight Riders,Kings XI Punjab,0.5322246551513672,Kolkata Knight Riders,Kings XI Punjab,0,0.03222465515136719
+2024,2024-04-27,Delhi Capitals,Mumbai Indians,0.4755682349205017,Mumbai Indians,Delhi Capitals,0,0.02443176507949829
+2024,2024-04-27,Lucknow Super Giants,Rajasthan Royals,0.568825364112854,Lucknow Super Giants,Rajasthan Royals,0,0.068825364112854
+2024,2024-04-28,Gujarat Titans,Royal Challengers Bengaluru,0.492631733417511,Royal Challengers Bengaluru,Royal Challengers Bengaluru,1,0.007368266582489014
+2024,2024-04-28,Chennai Super Kings,Sunrisers Hyderabad,0.601828932762146,Chennai Super Kings,Chennai Super Kings,1,0.101828932762146
+2024,2024-04-29,Delhi Capitals,Kolkata Knight Riders,0.44086822867393494,Kolkata Knight Riders,Kolkata Knight Riders,1,0.059131771326065063
+2024,2024-04-30,Mumbai Indians,Lucknow Super Giants,0.6261401176452637,Mumbai Indians,Lucknow Super Giants,0,0.12614011764526367
+2024,2024-05-01,Chennai Super Kings,Kings XI Punjab,0.522039532661438,Chennai Super Kings,Kings XI Punjab,0,0.02203953266143799
+2024,2024-05-02,Sunrisers Hyderabad,Rajasthan Royals,0.3825102746486664,Rajasthan Royals,Sunrisers Hyderabad,0,0.11748972535133362
+2024,2024-05-03,Kolkata Knight Riders,Mumbai Indians,0.4469725489616394,Mumbai Indians,Kolkata Knight Riders,0,0.053027451038360596
+2024,2024-05-04,Gujarat Titans,Royal Challengers Bengaluru,0.4176229238510132,Royal Challengers Bengaluru,Royal Challengers Bengaluru,1,0.08237707614898682
+2024,2024-05-05,Chennai Super Kings,Kings XI Punjab,0.5815603733062744,Chennai Super Kings,Chennai Super Kings,1,0.08156037330627441
+2024,2024-05-05,Kolkata Knight Riders,Lucknow Super Giants,0.5698509812355042,Kolkata Knight Riders,Kolkata Knight Riders,1,0.06985098123550415
+2024,2024-05-06,Sunrisers Hyderabad,Mumbai Indians,0.3481379747390747,Mumbai Indians,Mumbai Indians,1,0.1518620252609253
+2024,2024-05-07,Delhi Capitals,Rajasthan Royals,0.4280146658420563,Rajasthan Royals,Delhi Capitals,0,0.07198533415794373
+2024,2024-05-08,Lucknow Super Giants,Sunrisers Hyderabad,0.46899542212486267,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0.03100457787513733
+2024,2024-05-09,Royal Challengers Bengaluru,Kings XI Punjab,0.6169208884239197,Royal Challengers Bengaluru,Royal Challengers Bengaluru,1,0.11692088842391968
+2024,2024-05-10,Gujarat Titans,Chennai Super Kings,0.47341611981391907,Chennai Super Kings,Gujarat Titans,0,0.026583880186080933
+2024,2024-05-11,Kolkata Knight Riders,Mumbai Indians,0.5267691612243652,Kolkata Knight Riders,Kolkata Knight Riders,1,0.026769161224365234
+2024,2024-05-12,Rajasthan Royals,Chennai Super Kings,0.46218037605285645,Chennai Super Kings,Chennai Super Kings,1,0.037819623947143555
+2024,2024-05-12,Royal Challengers Bengaluru,Delhi Capitals,0.5871937870979309,Royal Challengers Bengaluru,Royal Challengers Bengaluru,1,0.08719378709793091
+2024,2024-05-14,Delhi Capitals,Lucknow Super Giants,0.5629436373710632,Delhi Capitals,Delhi Capitals,1,0.06294363737106323
+2024,2024-05-15,Rajasthan Royals,Kings XI Punjab,0.6073368191719055,Rajasthan Royals,Kings XI Punjab,0,0.10733681917190552
+2024,2024-05-17,Lucknow Super Giants,Mumbai Indians,0.42318275570869446,Mumbai Indians,Lucknow Super Giants,0,0.07681724429130554
+2024,2024-05-18,Royal Challengers Bengaluru,Chennai Super Kings,0.4137391746044159,Chennai Super Kings,Royal Challengers Bengaluru,0,0.0862608253955841
+2024,2024-05-19,Kings XI Punjab,Sunrisers Hyderabad,0.5172334313392639,Kings XI Punjab,Sunrisers Hyderabad,0,0.017233431339263916
+2024,2024-05-21,Sunrisers Hyderabad,Kolkata Knight Riders,0.30157577991485596,Kolkata Knight Riders,Kolkata Knight Riders,1,0.19842422008514404
+2024,2024-05-22,Royal Challengers Bengaluru,Rajasthan Royals,0.5016722083091736,Royal Challengers Bengaluru,Rajasthan Royals,0,0.001672208309173584
+2024,2024-05-24,Sunrisers Hyderabad,Rajasthan Royals,0.40349674224853516,Rajasthan Royals,Sunrisers Hyderabad,0,0.09650325775146484
+2024,2024-05-26,Sunrisers Hyderabad,Kolkata Knight Riders,0.34028902649879456,Kolkata Knight Riders,Kolkata Knight Riders,1,0.15971097350120544
+2025,2025-03-22,Kolkata Knight Riders,Royal Challengers Bengaluru,0.6171771883964539,Kolkata Knight Riders,Royal Challengers Bengaluru,0,0.11717718839645386
+2025,2025-03-23,Sunrisers Hyderabad,Rajasthan Royals,0.493428498506546,Rajasthan Royals,Sunrisers Hyderabad,0,0.0065715014934539795
+2025,2025-03-23,Mumbai Indians,Chennai Super Kings,0.4300708770751953,Chennai Super Kings,Chennai Super Kings,1,0.06992912292480469
+2025,2025-03-24,Lucknow Super Giants,Delhi Capitals,0.5075397491455078,Lucknow Super Giants,Delhi Capitals,0,0.0075397491455078125
+2025,2025-03-25,Kings XI Punjab,Gujarat Titans,0.42307165265083313,Gujarat Titans,Kings XI Punjab,0,0.07692834734916687
+2025,2025-03-26,Rajasthan Royals,Kolkata Knight Riders,0.44435611367225647,Kolkata Knight Riders,Kolkata Knight Riders,1,0.05564388632774353
+2025,2025-03-27,Sunrisers Hyderabad,Lucknow Super Giants,0.602760374546051,Sunrisers Hyderabad,Lucknow Super Giants,0,0.10276037454605103
+2025,2025-03-28,Royal Challengers Bengaluru,Chennai Super Kings,0.5590325593948364,Royal Challengers Bengaluru,Royal Challengers Bengaluru,1,0.059032559394836426
+2025,2025-03-29,Gujarat Titans,Mumbai Indians,0.5025880336761475,Gujarat Titans,Gujarat Titans,1,0.002588033676147461
+2025,2025-03-30,Rajasthan Royals,Chennai Super Kings,0.45714983344078064,Chennai Super Kings,Rajasthan Royals,0,0.04285016655921936
+2025,2025-03-30,Sunrisers Hyderabad,Delhi Capitals,0.5834013223648071,Sunrisers Hyderabad,Delhi Capitals,0,0.08340132236480713
+2025,2025-03-31,Kolkata Knight Riders,Mumbai Indians,0.48796141147613525,Mumbai Indians,Mumbai Indians,1,0.012038588523864746
+2025,2025-04-01,Lucknow Super Giants,Kings XI Punjab,0.6246680021286011,Lucknow Super Giants,Kings XI Punjab,0,0.12466800212860107
+2025,2025-04-02,Royal Challengers Bengaluru,Gujarat Titans,0.3646390736103058,Gujarat Titans,Gujarat Titans,1,0.1353609263896942
+2025,2025-04-03,Kolkata Knight Riders,Sunrisers Hyderabad,0.5717195272445679,Kolkata Knight Riders,Kolkata Knight Riders,1,0.07171952724456787
+2025,2025-04-04,Lucknow Super Giants,Mumbai Indians,0.5267626047134399,Lucknow Super Giants,Lucknow Super Giants,1,0.02676260471343994
+2025,2025-04-05,Delhi Capitals,Chennai Super Kings,0.5240993499755859,Delhi Capitals,Delhi Capitals,1,0.024099349975585938
+2025,2025-04-05,Rajasthan Royals,Kings XI Punjab,0.5132031440734863,Rajasthan Royals,Rajasthan Royals,1,0.013203144073486328
+2025,2025-04-06,Sunrisers Hyderabad,Gujarat Titans,0.43045204877853394,Gujarat Titans,Gujarat Titans,1,0.06954795122146606
+2025,2025-04-07,Royal Challengers Bengaluru,Mumbai Indians,0.4724203646183014,Mumbai Indians,Royal Challengers Bengaluru,0,0.02757963538169861
+2025,2025-04-08,Lucknow Super Giants,Kolkata Knight Riders,0.4321275055408478,Kolkata Knight Riders,Lucknow Super Giants,0,0.06787249445915222
+2025,2025-04-08,Kings XI Punjab,Chennai Super Kings,0.4666387438774109,Chennai Super Kings,Kings XI Punjab,0,0.03336125612258911
+2025,2025-04-09,Gujarat Titans,Rajasthan Royals,0.48742955923080444,Rajasthan Royals,Gujarat Titans,0,0.012570440769195557
+2025,2025-04-10,Royal Challengers Bengaluru,Delhi Capitals,0.6059627532958984,Royal Challengers Bengaluru,Delhi Capitals,0,0.10596275329589844
+2025,2025-04-11,Chennai Super Kings,Kolkata Knight Riders,0.4628846049308777,Kolkata Knight Riders,Kolkata Knight Riders,1,0.037115395069122314
+2025,2025-04-12,Kings XI Punjab,Sunrisers Hyderabad,0.6685506701469421,Kings XI Punjab,Sunrisers Hyderabad,0,0.16855067014694214
+2025,2025-04-12,Gujarat Titans,Lucknow Super Giants,0.6128435730934143,Gujarat Titans,Lucknow Super Giants,0,0.1128435730934143
+2025,2025-04-13,Mumbai Indians,Delhi Capitals,0.5225083827972412,Mumbai Indians,Mumbai Indians,1,0.02250838279724121
+2025,2025-04-13,Rajasthan Royals,Royal Challengers Bengaluru,0.5332254767417908,Rajasthan Royals,Royal Challengers Bengaluru,0,0.03322547674179077
+2025,2025-04-14,Lucknow Super Giants,Chennai Super Kings,0.5041320323944092,Lucknow Super Giants,Chennai Super Kings,0,0.00413203239440918
+2025,2025-04-15,Kings XI Punjab,Kolkata Knight Riders,0.43999382853507996,Kolkata Knight Riders,Kings XI Punjab,0,0.060006171464920044
+2025,2025-04-17,Sunrisers Hyderabad,Mumbai Indians,0.5623717904090881,Sunrisers Hyderabad,Mumbai Indians,0,0.062371790409088135
+2025,2025-04-18,Royal Challengers Bengaluru,Kings XI Punjab,0.6094043254852295,Royal Challengers Bengaluru,Kings XI Punjab,0,0.10940432548522949
+2025,2025-04-19,Delhi Capitals,Gujarat Titans,0.48613107204437256,Gujarat Titans,Gujarat Titans,1,0.013868927955627441
+2025,2025-04-19,Lucknow Super Giants,Rajasthan Royals,0.5464808344841003,Lucknow Super Giants,Lucknow Super Giants,1,0.04648083448410034
+2025,2025-04-20,Kings XI Punjab,Royal Challengers Bengaluru,0.6566949486732483,Kings XI Punjab,Royal Challengers Bengaluru,0,0.1566949486732483
+2025,2025-04-20,Chennai Super Kings,Mumbai Indians,0.4451071619987488,Mumbai Indians,Mumbai Indians,1,0.05489283800125122
+2025,2025-04-21,Gujarat Titans,Kolkata Knight Riders,0.5145350694656372,Gujarat Titans,Gujarat Titans,1,0.014535069465637207
+2025,2025-04-22,Lucknow Super Giants,Delhi Capitals,0.6409845352172852,Lucknow Super Giants,Delhi Capitals,0,0.14098453521728516
+2025,2025-04-23,Sunrisers Hyderabad,Mumbai Indians,0.4740469753742218,Mumbai Indians,Mumbai Indians,1,0.025953024625778198
+2025,2025-04-24,Royal Challengers Bengaluru,Rajasthan Royals,0.5365529656410217,Royal Challengers Bengaluru,Royal Challengers Bengaluru,1,0.03655296564102173
+2025,2025-04-25,Chennai Super Kings,Sunrisers Hyderabad,0.5444680452346802,Chennai Super Kings,Sunrisers Hyderabad,0,0.044468045234680176
+2025,2025-04-27,Mumbai Indians,Lucknow Super Giants,0.4933025538921356,Lucknow Super Giants,Mumbai Indians,0,0.00669744610786438
+2025,2025-04-27,Delhi Capitals,Royal Challengers Bengaluru,0.6337866187095642,Delhi Capitals,Royal Challengers Bengaluru,0,0.1337866187095642
+2025,2025-04-28,Gujarat Titans,Rajasthan Royals,0.38148102164268494,Rajasthan Royals,Rajasthan Royals,1,0.11851897835731506
+2025,2025-04-29,Kolkata Knight Riders,Delhi Capitals,0.5361658930778503,Kolkata Knight Riders,Kolkata Knight Riders,1,0.03616589307785034
+2025,2025-04-30,Chennai Super Kings,Kings XI Punjab,0.5063998103141785,Chennai Super Kings,Kings XI Punjab,0,0.006399810314178467
+2025,2025-05-01,Mumbai Indians,Rajasthan Royals,0.5853824615478516,Mumbai Indians,Mumbai Indians,1,0.08538246154785156
+2025,2025-05-02,Gujarat Titans,Sunrisers Hyderabad,0.43043267726898193,Sunrisers Hyderabad,Gujarat Titans,0,0.06956732273101807
+2025,2025-05-03,Royal Challengers Bengaluru,Chennai Super Kings,0.4052267074584961,Chennai Super Kings,Royal Challengers Bengaluru,0,0.0947732925415039
+2025,2025-05-04,Kolkata Knight Riders,Rajasthan Royals,0.5008350014686584,Kolkata Knight Riders,Kolkata Knight Riders,1,0.0008350014686584473
+2025,2025-05-04,Kings XI Punjab,Lucknow Super Giants,0.5742753148078918,Kings XI Punjab,Kings XI Punjab,1,0.07427531480789185
+2025,2025-05-06,Mumbai Indians,Gujarat Titans,0.5067089796066284,Mumbai Indians,Gujarat Titans,0,0.006708979606628418
+2025,2025-05-07,Kolkata Knight Riders,Chennai Super Kings,0.3390131890773773,Chennai Super Kings,Chennai Super Kings,1,0.16098681092262268
+2025,2025-05-18,Kings XI Punjab,Rajasthan Royals,0.48100367188453674,Rajasthan Royals,Kings XI Punjab,0,0.018996328115463257
+2025,2025-05-18,Delhi Capitals,Gujarat Titans,0.4326460361480713,Gujarat Titans,Gujarat Titans,1,0.06735396385192871
+2025,2025-05-19,Lucknow Super Giants,Sunrisers Hyderabad,0.5466223955154419,Lucknow Super Giants,Sunrisers Hyderabad,0,0.046622395515441895
+2025,2025-05-20,Chennai Super Kings,Rajasthan Royals,0.5229512453079224,Chennai Super Kings,Rajasthan Royals,0,0.022951245307922363
+2025,2025-05-21,Mumbai Indians,Delhi Capitals,0.5951084494590759,Mumbai Indians,Mumbai Indians,1,0.09510844945907593
+2025,2025-05-22,Lucknow Super Giants,Gujarat Titans,0.4738815724849701,Gujarat Titans,Lucknow Super Giants,0,0.026118427515029907
+2025,2025-05-23,Sunrisers Hyderabad,Royal Challengers Bengaluru,0.7078099846839905,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0.20780998468399048
+2025,2025-05-24,Kings XI Punjab,Delhi Capitals,0.6698824763298035,Kings XI Punjab,Delhi Capitals,0,0.16988247632980347
+2025,2025-05-25,Chennai Super Kings,Gujarat Titans,0.4831026494503021,Gujarat Titans,Chennai Super Kings,0,0.016897350549697876
+2025,2025-05-25,Sunrisers Hyderabad,Kolkata Knight Riders,0.5354140400886536,Sunrisers Hyderabad,Sunrisers Hyderabad,1,0.035414040088653564
+2025,2025-05-26,Mumbai Indians,Kings XI Punjab,0.6815541982650757,Mumbai Indians,Kings XI Punjab,0,0.18155419826507568
+2025,2025-05-27,Lucknow Super Giants,Royal Challengers Bengaluru,0.5590536594390869,Lucknow Super Giants,Royal Challengers Bengaluru,0,0.059053659439086914
+2025,2025-05-29,Kings XI Punjab,Royal Challengers Bengaluru,0.5383982062339783,Kings XI Punjab,Royal Challengers Bengaluru,0,0.03839820623397827
+2025,2025-05-30,Mumbai Indians,Gujarat Titans,0.3973703384399414,Gujarat Titans,Mumbai Indians,0,0.1026296615600586
+2025,2025-06-01,Mumbai Indians,Kings XI Punjab,0.5240247249603271,Mumbai Indians,Kings XI Punjab,0,0.02402472496032715
+2025,2025-06-03,Royal Challengers Bengaluru,Kings XI Punjab,0.5232797861099243,Royal Challengers Bengaluru,Royal Challengers Bengaluru,1,0.023279786109924316

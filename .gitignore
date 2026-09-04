@@ -1,0 +1,24 @@
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+logs/
+
+# Generated outputs
+ipl_predictions.xlsx
+data/backtest_full.xlsx
+
+# n8n workflows (separate project)
+01_prematch_workflow.json
+02_live_workflow.json
+ipl_full_match_workflow.json
+
+# Scratch files
+_tmp_check*.py
